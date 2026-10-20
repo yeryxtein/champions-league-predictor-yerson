@@ -1,0 +1,100 @@
+{
+  "partidos": 994,
+  "temporadas": {
+    "2016-17": 125,
+    "2017-18": 125,
+    "2018-19": 125,
+    "2019-20": 119,
+    "2020-21": 125,
+    "2021-22": 125,
+    "2022-23": 125,
+    "2023-24": 125
+  },
+  "equipos": 83,
+  "fecha_desde": "2016-09-13",
+  "fecha_hasta": "2024-06-01",
+  "resultados": {
+    "Local": 448,
+    "Visitante": 334,
+    "Empate": 212
+  },
+  "duplicados": 0,
+  "faltantes_campos_exportados": 0,
+  "prorrogas": 9,
+  "penales": 3,
+  "nombres_unificados": 15,
+  "registros_descartados": 0,
+  "alcance": "Fase de grupos y eliminatorias de Champions, sin rondas clasificatorias",
+  "objetivo": "Resultado tras 90 minutos más tiempo añadido, excluyendo prórroga y tanda de penales",
+  "limitaciones": [
+    "Fuente comunitaria. Los conteos coinciden con los encabezados de sus archivos, sin auditoría independiente de todos los resultados.",
+    "Los datos terminan el 1 de junio de 2024. No describen el estado actual de los equipos.",
+    "La fuente no proporciona una columna uniforme de sede neutral. Local y visitante son las designaciones del registro.",
+    "No contiene lesiones, alineaciones ni el historial completo en otras competiciones.",
+    "Aún no se ha entrenado ni evaluado un modelo predictivo."
+  ],
+  "fuente": {
+    "repositorio": "https://github.com/openfootball/champions-league",
+    "commit": "abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef",
+    "licencia": "CC0-1.0",
+    "descargado_utc": "2026-10-06T17:09:31.771632+00:00",
+    "archivos": [
+      {
+        "temporada": "2016-17",
+        "archivo": "data/raw/2016-17.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2016-17/cl.txt",
+        "sha256": "fe604207c9e945d2a76ed9d660b5499c4680d8b474aeeb166d585f819c029a31",
+        "bytes": 10446
+      },
+      {
+        "temporada": "2017-18",
+        "archivo": "data/raw/2017-18.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2017-18/cl.txt",
+        "sha256": "5f022938be481f3f9fa88fa7580033aab631a9dd321170d2e7b7ee558c92e468",
+        "bytes": 10389
+      },
+      {
+        "temporada": "2018-19",
+        "archivo": "data/raw/2018-19.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2018-19/cl.txt",
+        "sha256": "7ae98396b779c3e97d049e77bbd0af6dabedcecdd73fa17d27a212aadd18c727",
+        "bytes": 10379
+      },
+      {
+        "temporada": "2019-20",
+        "archivo": "data/raw/2019-20.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2019-20/cl.txt",
+        "sha256": "e0f6d8990b3110108193eecdcd698dfa48b6f324ffa7532cdc11aea19f7ee419",
+        "bytes": 9967
+      },
+      {
+        "temporada": "2020-21",
+        "archivo": "data/raw/2020-21.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2020-21/cl.txt",
+        "sha256": "9d94e40aa2fe2e98cbe5eedcffb7b9223daaaf3acf682411f4965f92a65d666e",
+        "bytes": 10495
+      },
+      {
+        "temporada": "2021-22",
+        "archivo": "data/raw/2021-22.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2021-22/cl.txt",
+        "sha256": "36241f4479aa9efda62c62318366bbf36f84cc8719f6387c5747cb5dea7ec519",
+        "bytes": 10428
+      },
+      {
+        "temporada": "2022-23",
+        "archivo": "data/raw/2022-23.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2022-23/cl.txt",
+        "sha256": "bf9cd05939b055f12ee9b095bec1c20a0922277bef8940172218548de2e7b93a",
+        "bytes": 10399
+      },
+      {
+        "temporada": "2023-24",
+        "archivo": "data/raw/2023-24.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2023-24/cl.txt",
+        "sha256": "5872bee720b32410f28c5272fb7fe7b07aa0f66bcb31ffe157893d75c14c47c5",
+        "bytes": 10428
+      }
+    ]
+  }
+}
