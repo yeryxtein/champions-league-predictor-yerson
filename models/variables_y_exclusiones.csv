@@ -1,0 +1,1373 @@
+﻿id,temporada,fecha,local,visitante,resultado,exclusion,local_puntos_5,local_goles_favor_5,local_goles_contra_5,visitante_puntos_5,visitante_goles_favor_5,visitante_goles_contra_5,local_ultimo_previo,visitante_ultimo_previo
+5643811e4aee19bb,2016-17,2016-09-13,FC Barcelona,Celtic FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+641639bb4381603b,2016-17,2016-09-13,Dinamo Kiev,SSC Napoli,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6ce5d4eca389aaae,2016-17,2016-09-13,Paris Saint-Germain,Arsenal FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+abb0fd4ba999b952,2016-17,2016-09-13,FC Basel 1893,PFC Ludogorets Razgrad,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b4dd9fbaef20472a,2016-17,2016-09-13,Bayern München,FK Rostov,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d0966fda3db795ed,2016-17,2016-09-13,SL Benfica,Beşiktaş,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e17d8d768fd1ca7f,2016-17,2016-09-13,PSV Eindhoven,Atlético Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0c4448eb23442c72,2016-17,2016-09-14,FC Porto,FC København,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+26dee85b0b0e1e13,2016-17,2016-09-14,Olympique Lyonnais,Dinamo Zagreb,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2ee5efdb871d2378,2016-17,2016-09-14,Tottenham Hotspur,AS Monaco,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+31712e10546e9cd8,2016-17,2016-09-14,Manchester City,Bor. Mönchengladbach,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3abdff9fa6a08a3f,2016-17,2016-09-14,Juventus,Sevilla FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+57ab295ebce5b2f2,2016-17,2016-09-14,Club Brugge KV,Leicester City,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+68e9ed0055040fb2,2016-17,2016-09-14,Bayer Leverkusen,CSKA Moskva,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+bbe9ea551bb2b361,2016-17,2016-09-14,Real Madrid,Sporting CP,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d8c7a38469d7bbf7,2016-17,2016-09-14,Legia Warszawa,Borussia Dortmund,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+64896873b4bed2e5,2016-17,2016-09-27,Borussia Dortmund,Real Madrid,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ae65602bd0478298,2016-17,2016-09-27,Sevilla FC,Olympique Lyonnais,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b085c62ebe574bd6,2016-17,2016-09-27,Leicester City,FC Porto,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b10521625c8c946b,2016-17,2016-09-27,Sporting CP,Legia Warszawa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b8a8a85b9b3d0cf7,2016-17,2016-09-27,AS Monaco,Bayer Leverkusen,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c2018b8680b2128a,2016-17,2016-09-27,FC København,Club Brugge KV,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e09af2642eb9efb8,2016-17,2016-09-27,CSKA Moskva,Tottenham Hotspur,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e8afe8be03aab130,2016-17,2016-09-27,Dinamo Zagreb,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+302b0ae71d0e2d5c,2016-17,2016-09-28,Bor. Mönchengladbach,FC Barcelona,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+46124fc27bbc9cf9,2016-17,2016-09-28,PFC Ludogorets Razgrad,Paris Saint-Germain,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4d14ea58ac8042e3,2016-17,2016-09-28,Arsenal FC,FC Basel 1893,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7600a45a90c6b24e,2016-17,2016-09-28,FK Rostov,PSV Eindhoven,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+819963c95167a5bd,2016-17,2016-09-28,SSC Napoli,SL Benfica,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a62efc05f1e91941,2016-17,2016-09-28,Celtic FC,Manchester City,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a8fe792badfd7dfa,2016-17,2016-09-28,Atlético Madrid,Bayern München,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+cd0079ce048d71e9,2016-17,2016-09-28,Beşiktaş,Dinamo Kiev,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1a98de856807212c,2016-17,2016-10-18,Sporting CP,Borussia Dortmund,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1c17e91c37a0a000,2016-17,2016-10-18,Club Brugge KV,FC Porto,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+71409fb1c5f41ed5,2016-17,2016-10-18,Dinamo Zagreb,Sevilla FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+973367a97a0762da,2016-17,2016-10-18,Olympique Lyonnais,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a1bea346d8102c5e,2016-17,2016-10-18,CSKA Moskva,AS Monaco,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c5db695ec171c60c,2016-17,2016-10-18,Bayer Leverkusen,Tottenham Hotspur,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d87892e19dbc9477,2016-17,2016-10-18,Leicester City,FC København,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e823683f07a370ca,2016-17,2016-10-18,Real Madrid,Legia Warszawa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+28bae13a9982f586,2016-17,2016-10-19,Dinamo Kiev,SL Benfica,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6184a07526fcdd1f,2016-17,2016-10-19,SSC Napoli,Beşiktaş,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8b5271189f306f31,2016-17,2016-10-19,Celtic FC,Bor. Mönchengladbach,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b229e41efdae5743,2016-17,2016-10-19,FC Barcelona,Manchester City,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b2ad3a5505487c16,2016-17,2016-10-19,Paris Saint-Germain,FC Basel 1893,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c65fd1c644e040ec,2016-17,2016-10-19,Bayern München,PSV Eindhoven,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e63601236d75027f,2016-17,2016-10-19,Arsenal FC,PFC Ludogorets Razgrad,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ea627fde2a6a86b7,2016-17,2016-10-19,FK Rostov,Atlético Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+017640addb100a38,2016-17,2016-11-01,PFC Ludogorets Razgrad,Arsenal FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+106885be4d80c401,2016-17,2016-11-01,SL Benfica,Dinamo Kiev,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+67a804dac83b45be,2016-17,2016-11-01,Bor. Mönchengladbach,Celtic FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+810489bf0f6e7a5d,2016-17,2016-11-01,FC Basel 1893,Paris Saint-Germain,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+acebc545fd9a6ec6,2016-17,2016-11-01,Manchester City,FC Barcelona,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e605440a0385f46e,2016-17,2016-11-01,Atlético Madrid,FK Rostov,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f0420d730f941687,2016-17,2016-11-01,PSV Eindhoven,Bayern München,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fa9be294b47d5888,2016-17,2016-11-01,Beşiktaş,SSC Napoli,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+49a452646fea11fd,2016-17,2016-11-02,Borussia Dortmund,Sporting CP,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+55adc8dccbc54257,2016-17,2016-11-02,Juventus,Olympique Lyonnais,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5976f167d6ac06cd,2016-17,2016-11-02,FC København,Leicester City,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+788efb3fd76b2094,2016-17,2016-11-02,Legia Warszawa,Real Madrid,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8df925c59f6f99f7,2016-17,2016-11-02,Sevilla FC,Dinamo Zagreb,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b846a3f97320a1c5,2016-17,2016-11-02,AS Monaco,CSKA Moskva,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d73280e56bf8d079,2016-17,2016-11-02,FC Porto,Club Brugge KV,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+db1ba4d10fd96d59,2016-17,2016-11-02,Tottenham Hotspur,Bayer Leverkusen,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0b5369918b027e91,2016-17,2016-11-22,Borussia Dortmund,Legia Warszawa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1d3dba450bbc138e,2016-17,2016-11-22,FC København,FC Porto,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+22f40becfe8cb7da,2016-17,2016-11-22,Leicester City,Club Brugge KV,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7574d819253be6c4,2016-17,2016-11-22,Sporting CP,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8c3b77d40f44aa25,2016-17,2016-11-22,AS Monaco,Tottenham Hotspur,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a19e25b9eb1b73b0,2016-17,2016-11-22,Sevilla FC,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ae07cedbb4b65a60,2016-17,2016-11-22,Dinamo Zagreb,Olympique Lyonnais,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b7a08bd2bf1c96fc,2016-17,2016-11-22,CSKA Moskva,Bayer Leverkusen,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0c54650f38a7f4f2,2016-17,2016-11-23,Bor. Mönchengladbach,Manchester City,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2c2491c1d646be64,2016-17,2016-11-23,Beşiktaş,SL Benfica,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2ef31c36079997a0,2016-17,2016-11-23,Arsenal FC,Paris Saint-Germain,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+47b3750272a75088,2016-17,2016-11-23,Celtic FC,FC Barcelona,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+65b3a3d6c5d4bb7b,2016-17,2016-11-23,FK Rostov,Bayern München,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+863748851b4075fc,2016-17,2016-11-23,SSC Napoli,Dinamo Kiev,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f077c422050564bb,2016-17,2016-11-23,PFC Ludogorets Razgrad,FC Basel 1893,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f5468459b30fc2ed,2016-17,2016-11-23,Atlético Madrid,PSV Eindhoven,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1825cd9521cd18fe,2016-17,2016-12-06,SL Benfica,SSC Napoli,Visitante,,1.6,1.8,1.6,1.6,1.8,1.4,2016-11-23,2016-11-23
+1aa39659856a14b1,2016-17,2016-12-06,FC Basel 1893,Arsenal FC,Visitante,,0.4,0.4,1.6,2.2,2.8,1.0,2016-11-23,2016-11-23
+3fc67e688affe078,2016-17,2016-12-06,Dinamo Kiev,Beşiktaş,Local,,0.4,0.4,1.2,1.4,1.8,1.6,2016-11-23,2016-11-23
+52d9d74f5cf7c56d,2016-17,2016-12-06,Bayern München,Atlético Madrid,Local,,1.8,2.6,1.2,3.0,1.4,0.2,2016-11-23,2016-11-23
+9b24a0c3cdbdcb57,2016-17,2016-12-06,Paris Saint-Germain,PFC Ludogorets Razgrad,Empate,,2.2,2.2,1.0,0.4,0.8,2.6,2016-11-23,2016-11-23
+a6bd6e4d581bb472,2016-17,2016-12-06,Manchester City,Celtic FC,Empate,,1.6,2.2,1.8,0.4,0.8,3.0,2016-11-23,2016-11-23
+e522032f7e3ee56f,2016-17,2016-12-06,FC Barcelona,Bor. Mönchengladbach,Local,,2.4,3.2,0.8,1.0,1.0,1.6,2016-11-23,2016-11-23
+f1af53cadb70f4c5,2016-17,2016-12-06,PSV Eindhoven,FK Rostov,Empate,,0.2,0.8,2.2,0.8,1.2,2.4,2016-11-23,2016-11-23
+0009fa9fde2cbcc2,2016-17,2016-12-07,Real Madrid,Borussia Dortmund,Empate,,2.2,2.8,1.6,2.6,3.8,1.4,2016-11-22,2016-11-22
+0531b5a619cb7700,2016-17,2016-12-07,Tottenham Hotspur,CSKA Moskva,Local,,0.8,0.6,1.0,0.6,0.8,1.6,2016-11-22,2016-11-22
+2906218860f3f705,2016-17,2016-12-07,Club Brugge KV,FC København,Visitante,,0.0,0.4,2.4,1.2,1.0,0.4,2016-11-22,2016-11-22
+4ce23b413ff18ad5,2016-17,2016-12-07,Juventus,Dinamo Zagreb,Local,,2.2,1.8,0.4,0.0,0.0,2.6,2016-11-22,2016-11-22
+7ca81d29b4dd56cd,2016-17,2016-12-07,Legia Warszawa,Sporting CP,Local,,0.2,1.6,4.8,0.6,1.0,1.4,2016-11-22,2016-11-22
+7d4551805692630c,2016-17,2016-12-07,Bayer Leverkusen,AS Monaco,Local,,1.4,1.0,0.8,2.2,1.8,0.8,2016-11-22,2016-11-22
+b1fcb12b204891ed,2016-17,2016-12-07,FC Porto,Leicester City,Local,,1.6,0.8,0.6,2.6,1.4,0.2,2016-11-22,2016-11-22
+f13f9867b0aad0e0,2016-17,2016-12-07,Olympique Lyonnais,Sevilla FC,Empate,,1.4,1.0,0.6,2.0,1.4,0.6,2016-11-22,2016-11-22
+31943ac6fe1c9aaf,2016-17,2017-02-14,Paris Saint-Germain,FC Barcelona,Local,,2.2,2.4,1.2,2.4,2.6,0.8,2016-12-06,2016-12-06
+6ca29e0049c09047,2016-17,2017-02-14,SL Benfica,Borussia Dortmund,Local,,1.4,1.8,1.8,2.2,3.0,1.8,2016-12-06,2016-12-07
+20f761f476ebade2,2016-17,2017-02-15,Real Madrid,SSC Napoli,Local,,1.8,2.8,1.8,1.6,1.8,1.4,2016-12-07,2016-12-06
+82de89940da2cd39,2016-17,2017-02-15,Bayern München,Arsenal FC,Local,,1.8,1.8,1.2,2.6,3.4,1.0,2016-12-06,2016-12-06
+88f6e57bbf48e6df,2016-17,2017-02-21,Manchester City,AS Monaco,Local,,1.2,1.6,2.0,1.6,1.4,1.2,2016-12-06,2016-12-07
+8dd1e2ff9cfe8c54,2016-17,2017-02-21,Bayer Leverkusen,Atlético Madrid,Visitante,,1.8,1.2,0.4,2.4,1.2,0.4,2016-12-07,2016-12-06
+2576ab9f16bdd1ca,2016-17,2017-02-22,FC Porto,Juventus,Visitante,,2.0,1.6,0.4,2.6,2.2,0.4,2016-12-07,2016-12-07
+b78ccf9f8b4952a5,2016-17,2017-02-22,Sevilla FC,Leicester City,Local,,2.0,1.4,0.6,2.0,0.8,1.2,2016-12-07,2016-12-07
+02c821303cb362ac,2016-17,2017-03-07,Arsenal FC,Bayern München,Visitante,,2.0,3.2,2.0,2.4,2.8,1.2,2017-02-15,2017-02-15
+b48e3b09276f8411,2016-17,2017-03-07,SSC Napoli,Real Madrid,Visitante,,1.0,1.2,1.6,2.2,3.0,1.6,2017-02-15,2017-02-15
+84bc5d13a67c8c86,2016-17,2017-03-08,Borussia Dortmund,SL Benfica,Local,,2.0,2.6,1.6,2.0,1.6,1.0,2017-02-14,2017-02-14
+c4ebd25f5f0ad674,2016-17,2017-03-08,FC Barcelona,Paris Saint-Germain,Local,,1.8,2.2,1.4,2.2,2.6,1.0,2017-02-14,2017-02-14
+cc21404acd99cf46,2016-17,2017-03-14,Leicester City,Sevilla FC,Local,,1.4,0.8,1.6,2.0,1.6,0.8,2017-02-22,2017-02-22
+f3524795e2fefee8,2016-17,2017-03-14,Juventus,FC Porto,Local,,2.6,1.8,0.4,2.0,1.6,0.6,2017-02-22,2017-02-22
+6bc5262241b1895c,2016-17,2017-03-15,Atlético Madrid,Bayer Leverkusen,Empate,,2.4,1.8,0.8,1.6,1.4,1.0,2017-02-21,2017-02-21
+9ae0db91ec33907d,2016-17,2017-03-15,AS Monaco,Manchester City,Local,,1.4,1.8,2.0,1.6,2.0,2.0,2017-02-21,2017-02-21
+e3782c7a7c3503dd,2016-17,2017-04-11,Juventus,FC Barcelona,Local,,2.6,1.8,0.4,1.8,2.6,1.6,2017-03-14,2017-03-08
+98f12e8b0256bb9e,2016-17,2017-04-12,Borussia Dortmund,AS Monaco,Visitante,,2.0,3.0,1.4,1.8,2.2,2.0,2017-03-08,2017-03-15
+cca8c8c4196f8d4a,2016-17,2017-04-12,Bayern München,Real Madrid,Visitante,,2.4,3.0,1.2,2.2,2.6,1.6,2017-03-07,2017-03-07
+f4bfb61efa3270a6,2016-17,2017-04-12,Atlético Madrid,Leicester City,Local,,2.0,1.6,0.8,1.4,1.0,1.6,2017-03-15,2017-03-14
+305b25270e415c28,2016-17,2017-04-18,Leicester City,Atlético Madrid,Empate,,1.2,1.0,1.8,2.0,1.4,0.6,2017-04-12,2017-04-12
+8d5ec738cf0e82b5,2016-17,2017-04-18,Real Madrid,Bayern München,Visitante,,2.6,2.4,1.2,1.8,2.8,1.4,2017-04-12,2017-04-12
+048b6e23aae961e9,2016-17,2017-04-19,FC Barcelona,Juventus,Empate,,1.8,2.4,1.6,3.0,2.2,0.2,2017-04-11,2017-04-11
+a16ba67156d3e82f,2016-17,2017-04-19,AS Monaco,Borussia Dortmund,Local,,1.8,2.2,2.4,1.4,3.2,2.0,2017-04-12,2017-04-12
+86072c0b9c399386,2016-17,2017-05-02,Real Madrid,Atlético Madrid,Local,,2.0,2.2,1.4,1.6,1.2,0.8,2017-04-18,2017-04-18
+30f939e4d6266d60,2016-17,2017-05-03,AS Monaco,Juventus,Visitante,,1.8,2.4,2.4,2.6,1.6,0.0,2017-04-19,2017-04-19
+fef9a30e41a7a5d4,2016-17,2017-05-09,Juventus,AS Monaco,Local,,2.6,1.6,0.0,1.8,2.4,2.2,2017-05-03,2017-05-03
+0477d41031973150,2016-17,2017-05-10,Atlético Madrid,Real Madrid,Local,,1.6,1.2,1.2,2.4,2.4,1.0,2017-05-02,2017-05-02
+6dda7c7acc55ff3c,2016-17,2017-06-03,Juventus,Real Madrid,Visitante,final_sede_neutral,,,,,,,,
+2b1432f33131e8e9,2017-18,2017-09-12,Celtic FC,Paris Saint-Germain,Visitante,,0.6,1.0,1.8,1.6,2.2,2.2,2016-12-06,2017-03-08
+4fa37ed00848b2b3,2017-18,2017-09-12,Chelsea FC,Qarabağ FK,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+56166d19156d984b,2017-18,2017-09-12,Manchester United,FC Basel 1893,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a22bedeadb093d35,2017-18,2017-09-12,Bayern München,RSC Anderlecht,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a5c1e983ab3f862a,2017-18,2017-09-12,SL Benfica,CSKA Moskva,Visitante,,1.4,1.2,1.8,0.4,0.6,1.8,2017-03-08,2016-12-07
+d98918381de91fe5,2017-18,2017-09-12,AS Roma,Atlético Madrid,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d99b7dc55d7ba8ce,2017-18,2017-09-12,Olympiakos Piraeus,Sporting CP,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ddcc6d1a1e9db9ec,2017-18,2017-09-12,FC Barcelona,Juventus,Local,,1.4,2.0,1.6,2.0,1.6,1.0,2017-04-19,2017-06-03
+06adda4a43e5c578,2017-18,2017-09-13,Liverpool FC,Sevilla FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+185a60e1e4a6cf7e,2017-18,2017-09-13,Feyenoord,Manchester City,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+32f976128bfd59ec,2017-18,2017-09-13,NK Maribor,Spartak Moskva,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3eac5cb59fb7e775,2017-18,2017-09-13,Real Madrid,APOEL Nikosia,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7592d2391d336026,2017-18,2017-09-13,RB Leipzig,AS Monaco,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9b4283c4f3b9ba83,2017-18,2017-09-13,Shakhtar Donetsk,SSC Napoli,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+cadfc83a88dce45d,2017-18,2017-09-13,FC Porto,Beşiktaş,Visitante,,1.4,1.2,0.6,1.2,1.6,2.6,2017-03-14,2016-12-06
+fa31859f28d80e17,2017-18,2017-09-13,Tottenham Hotspur,Borussia Dortmund,Local,,1.4,1.0,0.8,0.8,1.8,1.8,2016-12-07,2017-04-19
+2c22f8baae5999ae,2017-18,2017-09-26,SSC Napoli,Feyenoord,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3bd577f8865ac38f,2017-18,2017-09-26,Spartak Moskva,Liverpool FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4d07b17fb08f99fd,2017-18,2017-09-26,AS Monaco,FC Porto,Visitante,,1.4,1.6,1.6,0.8,1.2,1.2,2017-09-13,2017-09-13
+55beb1826ded344f,2017-18,2017-09-26,Borussia Dortmund,Real Madrid,Visitante,,0.6,1.6,2.0,1.8,2.4,1.0,2017-09-13,2017-09-13
+9478b1dcead2272a,2017-18,2017-09-26,APOEL Nikosia,Tottenham Hotspur,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ad556f375ca40d0b,2017-18,2017-09-26,Sevilla FC,NK Maribor,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e575c312ff33c7f4,2017-18,2017-09-26,Beşiktaş,RB Leipzig,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ff65677300ab599a,2017-18,2017-09-26,Manchester City,Shakhtar Donetsk,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+08cec9b648294384,2017-18,2017-09-27,Atlético Madrid,Chelsea FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0b93cb39f783969a,2017-18,2017-09-27,CSKA Moskva,Manchester United,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+18d3b93c3e562a5f,2017-18,2017-09-27,Paris Saint-Germain,Bayern München,Local,,1.6,2.8,2.0,2.4,3.2,1.0,2017-09-12,2017-09-12
+20af35c7412835aa,2017-18,2017-09-27,RSC Anderlecht,Celtic FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3c437c604afd1c1a,2017-18,2017-09-27,Juventus,Olympiakos Piraeus,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+470e8c1a9b57c7a9,2017-18,2017-09-27,FC Basel 1893,SL Benfica,Local,,0.2,0.4,2.4,0.8,1.2,2.2,2017-09-12,2017-09-12
+53e9b5bd8b9aac31,2017-18,2017-09-27,Sporting CP,FC Barcelona,Visitante,,0.6,1.0,1.6,1.4,1.8,1.6,2017-09-12,2017-09-12
+945b509d0cec7e77,2017-18,2017-09-27,Qarabağ FK,AS Roma,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0b130ea04bcc2de7,2017-18,2017-10-17,AS Monaco,Beşiktaş,Visitante,,0.8,1.0,1.8,1.6,1.8,2.2,2017-09-26,2017-09-26
+169ed07ee3a6ea27,2017-18,2017-10-17,APOEL Nikosia,Borussia Dortmund,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+42eef21e05d88dea,2017-18,2017-10-17,Feyenoord,Shakhtar Donetsk,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5f509ef140d6e740,2017-18,2017-10-17,RB Leipzig,FC Porto,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9d2a18c85145e7ef,2017-18,2017-10-17,Real Madrid,Tottenham Hotspur,Empate,,2.4,2.8,0.8,1.8,2.0,1.0,2017-09-26,2017-09-26
+a8189289f4dc8594,2017-18,2017-10-17,NK Maribor,Liverpool FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+aabc83964f7d6f85,2017-18,2017-10-17,Manchester City,SSC Napoli,Local,,2.0,2.6,1.4,1.2,1.6,2.0,2017-09-26,2017-09-26
+e588613be49745dc,2017-18,2017-10-17,Spartak Moskva,Sevilla FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+06a9cda21ac3e56f,2017-18,2017-10-18,Juventus,Sporting CP,Local,,1.8,1.4,1.6,0.6,0.8,1.4,2017-09-27,2017-09-27
+32b24efc2515637d,2017-18,2017-10-18,FC Barcelona,Olympiakos Piraeus,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4c478643271c0115,2017-18,2017-10-18,CSKA Moskva,FC Basel 1893,Visitante,,0.8,1.0,2.4,0.8,1.4,1.8,2017-09-27,2017-09-27
+57c307e378b55d40,2017-18,2017-10-18,RSC Anderlecht,Paris Saint-Germain,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+64b0582dfc6b17ce,2017-18,2017-10-18,Chelsea FC,AS Roma,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7ce4133211e43eb3,2017-18,2017-10-18,Qarabağ FK,Atlético Madrid,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+85e4864aa96022cb,2017-18,2017-10-18,Bayern München,Celtic FC,Local,,1.8,2.2,1.4,1.0,1.0,1.8,2017-09-27,2017-09-27
+c27ce47c6f4117e4,2017-18,2017-10-18,SL Benfica,Manchester United,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0548ce942aee2d48,2017-18,2017-10-31,Olympiakos Piraeus,FC Barcelona,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1bb2b149ee7e6243,2017-18,2017-10-31,Paris Saint-Germain,RSC Anderlecht,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+402f71530c350786,2017-18,2017-10-31,Manchester United,SL Benfica,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4a691d42d1fe6ee0,2017-18,2017-10-31,Celtic FC,Bayern München,Visitante,,0.8,0.8,2.2,1.8,1.8,1.2,2017-10-18,2017-10-18
+4d1f593add91b568,2017-18,2017-10-31,FC Basel 1893,CSKA Moskva,Visitante,,1.4,1.6,1.4,0.8,1.0,2.2,2017-10-18,2017-10-18
+a93d73d0481ee91b,2017-18,2017-10-31,Sporting CP,Juventus,Empate,,0.6,1.0,1.6,1.8,1.4,1.8,2017-10-18,2017-10-18
+e95fd7bf60c1bc9c,2017-18,2017-10-31,Atlético Madrid,Qarabağ FK,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ff987f73fc9acb71,2017-18,2017-10-31,AS Roma,Chelsea FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+09871eb0c8a9f6fe,2017-18,2017-11-01,Tottenham Hotspur,Real Madrid,Local,,2.0,2.2,1.0,2.0,2.4,1.0,2017-10-17,2017-10-17
+10a16a5ac7293686,2017-18,2017-11-01,Shakhtar Donetsk,Feyenoord,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2ad669e4553e3786,2017-18,2017-11-01,Beşiktaş,AS Monaco,Empate,,2.0,2.0,2.2,0.2,0.6,2.0,2017-10-17,2017-10-17
+682c5347c2bc3cb3,2017-18,2017-11-01,Liverpool FC,NK Maribor,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+aaad95c5683c55ff,2017-18,2017-11-01,SSC Napoli,Manchester City,Visitante,,0.6,1.4,2.2,2.4,2.8,1.4,2017-10-17,2017-10-17
+bebaaf7c1cc8beec,2017-18,2017-11-01,Sevilla FC,Spartak Moskva,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c1e4b71aecb6fa3f,2017-18,2017-11-01,FC Porto,RB Leipzig,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+cc17c0e795440cd1,2017-18,2017-11-01,Borussia Dortmund,APOEL Nikosia,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+03d0056bbed2f3cd,2017-18,2017-11-21,AS Monaco,RB Leipzig,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1943f1a4caaf31ab,2017-18,2017-11-21,Beşiktaş,FC Porto,Empate,,2.0,1.6,1.8,1.2,1.8,1.6,2017-11-01,2017-11-01
+4d5d5168a1f1e2a3,2017-18,2017-11-21,Manchester City,Feyenoord,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6160683536a07c70,2017-18,2017-11-21,Spartak Moskva,NK Maribor,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+926f7d6f5a3e3656,2017-18,2017-11-21,SSC Napoli,Shakhtar Donetsk,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a9b735355f204559,2017-18,2017-11-21,Borussia Dortmund,Tottenham Hotspur,Visitante,,0.4,1.0,2.2,2.6,2.6,0.8,2017-11-01,2017-11-01
+ca41d038df9bc8c8,2017-18,2017-11-21,APOEL Nikosia,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fb5236ae173679be,2017-18,2017-11-21,Sevilla FC,Liverpool FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+00217f40b55c5108,2017-18,2017-11-22,Atlético Madrid,AS Roma,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+01e6fdbfec18a197,2017-18,2017-11-22,Paris Saint-Germain,Celtic FC,Local,,2.4,3.6,1.2,0.8,1.0,2.2,2017-10-31,2017-10-31
+2e4d6f13421ebd83,2017-18,2017-11-22,RSC Anderlecht,Bayern München,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3af0939533cc6f7d,2017-18,2017-11-22,CSKA Moskva,SL Benfica,Local,,1.2,1.2,2.2,0.0,0.2,2.8,2017-10-31,2017-10-31
+415d97bea047cb07,2017-18,2017-11-22,FC Basel 1893,Manchester United,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+71b75ca6f615e87d,2017-18,2017-11-22,Qarabağ FK,Chelsea FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ab1b60155db9dd12,2017-18,2017-11-22,Sporting CP,Olympiakos Piraeus,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ba5f8c16234df28f,2017-18,2017-11-22,Juventus,FC Barcelona,Empate,,1.4,1.2,1.8,2.2,1.4,0.2,2017-10-31,2017-10-31
+08abce354f85c2d0,2017-18,2017-12-05,Olympiakos Piraeus,Juventus,Visitante,,0.2,0.8,2.2,1.6,1.0,1.0,2017-11-22,2017-11-22
+1da2d5b2fed720c7,2017-18,2017-12-05,SL Benfica,FC Basel 1893,Visitante,,0.0,0.2,2.4,1.8,1.8,1.0,2017-11-22,2017-11-22
+7303f9a02aa8990e,2017-18,2017-12-05,Celtic FC,RSC Anderlecht,Visitante,,0.6,1.0,3.4,0.0,0.2,3.4,2017-11-22,2017-11-22
+7ac1608f2a8a82e7,2017-18,2017-12-05,AS Roma,Qarabağ FK,Local,,1.6,1.6,1.2,0.4,0.4,2.6,2017-11-22,2017-11-22
+9435f0d527915c87,2017-18,2017-12-05,Bayern München,Paris Saint-Germain,Local,,2.4,2.0,1.0,3.0,4.8,0.2,2017-11-22,2017-11-22
+b0e803e2da0eaa38,2017-18,2017-12-05,Chelsea FC,Atlético Madrid,Empate,,2.0,3.0,1.4,1.2,0.8,0.6,2017-11-22,2017-11-22
+f1db34b89da6a566,2017-18,2017-12-05,FC Barcelona,Sporting CP,Local,,2.2,1.4,0.2,1.4,1.6,1.4,2017-11-22,2017-11-22
+f84a9f30794c3436,2017-18,2017-12-05,Manchester United,CSKA Moskva,Local,,2.4,2.0,0.4,1.8,1.4,1.6,2017-11-22,2017-11-22
+02dbc8fd61aaf2f6,2017-18,2017-12-06,Liverpool FC,Spartak Moskva,Local,,1.8,3.2,1.2,1.2,1.8,1.2,2017-11-21,2017-11-21
+0388881df8f0a6d3,2017-18,2017-12-06,Shakhtar Donetsk,Manchester City,Local,,1.8,1.4,1.6,3.0,2.6,0.6,2017-11-21,2017-11-21
+4509d06049ab34ee,2017-18,2017-12-06,Tottenham Hotspur,APOEL Nikosia,Local,,2.6,2.4,0.8,0.4,0.4,2.8,2017-11-21,2017-11-21
+6727d34503a4400e,2017-18,2017-12-06,FC Porto,AS Monaco,Local,,1.4,2.0,1.6,0.4,0.8,2.2,2017-11-21,2017-11-21
+765354d870c10e62,2017-18,2017-12-06,NK Maribor,Sevilla FC,Empate,,0.4,0.4,3.0,1.6,2.2,2.2,2017-11-21,2017-11-21
+77072b6371639342,2017-18,2017-12-06,Real Madrid,Borussia Dortmund,Local,,2.0,2.8,1.0,0.4,1.0,2.0,2017-11-21,2017-11-21
+9bcda28f4b70b0a4,2017-18,2017-12-06,RB Leipzig,Beşiktaş,Visitante,,1.4,1.8,1.8,2.2,1.8,0.8,2017-11-21,2017-11-21
+beb62e1c1fa11050,2017-18,2017-12-06,Feyenoord,SSC Napoli,Local,,0.0,0.6,2.6,1.2,2.0,1.8,2017-11-21,2017-11-21
+4f8fd6576dab72bf,2017-18,2018-02-13,FC Basel 1893,Manchester City,Visitante,,2.4,2.2,0.4,2.4,2.0,1.0,2017-12-05,2017-12-06
+a650720d63191284,2017-18,2018-02-13,Juventus,Tottenham Hotspur,Empate,,2.2,1.4,0.4,2.6,2.4,0.6,2017-12-05,2017-12-06
+632c34882b335b3a,2017-18,2018-02-14,Real Madrid,Paris Saint-Germain,Local,,2.0,2.8,1.4,2.4,4.0,0.8,2017-12-06,2017-12-05
+d8d8c5d0533fad3f,2017-18,2018-02-14,FC Porto,Liverpool FC,Visitante,,2.0,2.8,1.4,2.2,4.2,0.8,2017-12-06,2017-12-06
+5326b3626ba9ff42,2017-18,2018-02-20,Bayern München,Beşiktaş,Local,,2.4,2.0,1.2,2.2,1.6,0.8,2017-12-05,2017-12-06
+b85121c945e4fb50,2017-18,2018-02-20,Chelsea FC,FC Barcelona,Empate,,1.6,2.0,1.6,2.2,1.2,0.2,2017-12-05,2017-12-05
+90fe4f161505504d,2017-18,2018-02-21,Sevilla FC,Manchester United,Empate,,1.6,2.0,2.0,2.4,1.8,0.6,2017-12-06,2017-12-05
+e3b7c714242f6bf2,2017-18,2018-02-21,Shakhtar Donetsk,AS Roma,Local,,1.8,1.4,1.6,2.0,1.8,1.2,2017-12-06,2017-12-05
+2508a1b153e366d3,2017-18,2018-03-06,Liverpool FC,FC Porto,Empate,,2.6,5.0,0.6,1.4,2.2,2.4,2018-02-14,2018-02-14
+9459d9c1763a4d47,2017-18,2018-03-06,Paris Saint-Germain,Real Madrid,Visitante,,1.8,3.6,1.4,2.0,2.8,1.4,2018-02-14,2018-02-14
+b1742f0cbf22810f,2017-18,2018-03-07,Manchester City,FC Basel 1893,Visitante,,2.4,2.4,1.0,1.8,1.2,1.2,2018-02-13,2018-02-13
+d3e660f7f9de3104,2017-18,2018-03-07,Tottenham Hotspur,Juventus,Visitante,,2.2,2.2,1.0,1.8,1.4,0.8,2018-02-13,2018-02-13
+1afad17156d48a8a,2017-18,2018-03-13,AS Roma,Shakhtar Donetsk,Local,,1.4,1.6,1.4,2.4,1.8,1.4,2018-02-21,2018-02-21
+a5d8b3181f6c96ab,2017-18,2018-03-13,Manchester United,Sevilla FC,Visitante,,2.0,1.0,0.4,1.2,1.4,2.0,2018-02-21,2018-02-21
+61a0ed314830ee3c,2017-18,2018-03-14,FC Barcelona,Chelsea FC,Local,,1.8,1.2,0.4,1.2,1.8,1.6,2018-02-20,2018-02-20
+ad0d66e77f5feff5,2017-18,2018-03-14,Beşiktaş,Bayern München,Visitante,,1.6,1.2,1.8,3.0,3.0,0.6,2018-02-20,2018-02-20
+929f16afde78e421,2017-18,2018-04-03,Sevilla FC,Bayern München,Visitante,,1.8,1.6,1.2,3.0,3.0,0.8,2018-03-13,2018-03-14
+a369a8b89c18e192,2017-18,2018-04-03,Juventus,Real Madrid,Visitante,,1.8,1.4,0.8,2.4,3.0,1.4,2018-03-07,2018-03-06
+04f521b6e86573d8,2017-18,2018-04-04,FC Barcelona,AS Roma,Local,,1.8,1.2,0.2,1.8,1.2,0.8,2018-03-14,2018-03-13
+5c821505df10d6f5,2017-18,2018-04-04,Liverpool FC,Manchester City,Local,,2.2,3.6,0.6,1.8,2.2,1.2,2018-03-06,2018-03-07
+058a5759613909d3,2017-18,2018-04-10,Manchester City,Liverpool FC,Visitante,,1.2,1.4,1.4,2.2,3.6,0.6,2018-04-04,2018-04-04
+e0d1cdb0dc2a5c91,2017-18,2018-04-10,AS Roma,FC Barcelona,Local,,1.2,0.8,1.6,2.2,2.0,0.4,2018-04-04,2018-04-04
+8a5dcea84c7f98e6,2017-18,2018-04-11,Real Madrid,Juventus,Visitante,,3.0,3.4,0.8,1.6,1.2,1.2,2018-04-03,2018-04-03
+bdd52dd318968349,2017-18,2018-04-11,Bayern München,Sevilla FC,Empate,,3.0,3.0,0.8,1.2,1.4,1.4,2018-04-03,2018-04-03
+f66e370545d1f10a,2017-18,2018-04-24,Liverpool FC,AS Roma,Local,,2.6,3.4,0.2,1.8,1.4,1.2,2018-04-10,2018-04-10
+a8900b3c41f86c44,2017-18,2018-04-25,Bayern München,Real Madrid,Visitante,,2.6,2.6,0.6,2.4,2.4,1.4,2018-04-11,2018-04-11
+af531bb43d8b1568,2017-18,2018-05-01,Real Madrid,Bayern München,Empate,,2.4,2.2,1.2,2.0,2.2,0.8,2018-04-25,2018-04-25
+32b242ae43618a2b,2017-18,2018-05-02,AS Roma,Liverpool FC,Local,,1.2,1.6,2.2,2.6,3.0,0.6,2018-04-24,2018-04-24
+d35669c624af1996,2017-18,2018-05-26,Real Madrid,Liverpool FC,Local,final_sede_neutral,,,,,,,,
+06510b322fa509eb,2018-19,2018-09-18,AS Monaco,Atlético Madrid,Visitante,,0.2,1.0,3.0,1.2,1.0,0.8,2017-12-06,2017-12-05
+0e4e69445b5e640e,2018-19,2018-09-18,FC Barcelona,PSV Eindhoven,Local,,2.0,2.0,1.0,0.4,0.8,2.0,2018-04-10,2016-12-06
+24b4893a255aef56,2018-19,2018-09-18,Club Brugge KV,Borussia Dortmund,Visitante,,0.0,0.4,2.2,0.4,1.2,2.0,2016-12-07,2017-12-06
+4807ce8a355108a1,2018-19,2018-09-18,Crvena Zvezda,SSC Napoli,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+694b7b9a6728b2d9,2018-19,2018-09-18,Liverpool FC,Paris Saint-Germain,Local,,1.8,2.6,2.0,1.2,3.0,1.8,2018-05-26,2018-03-06
+78a96783ac989d42,2018-19,2018-09-18,Inter,Tottenham Hotspur,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d515979927fcfea5,2018-19,2018-09-18,FC Schalke 04,FC Porto,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fdb6ea0a254fbc80,2018-19,2018-09-18,Galatasaray,Lokomotiv Moskva,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1395052f7922daee,2018-19,2018-09-19,AFC Ajax,AEK Athen,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+50e7846ce28b1b18,2018-19,2018-09-19,Shakhtar Donetsk,1899 Hoffenheim,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6293e553b4fc2660,2018-19,2018-09-19,Real Madrid,AS Roma,Local,,2.0,2.2,1.4,1.8,2.2,2.2,2018-05-26,2018-05-02
+9b02dfb48704de52,2018-19,2018-09-19,Viktoria Plzeň,CSKA Moskva,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b8671977b20d871a,2018-19,2018-09-19,Valencia CF,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e5134054ba180f3c,2018-19,2018-09-19,BSC Young Boys,Manchester United,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f0b0c8e1e96ddd7a,2018-19,2018-09-19,Manchester City,Olympique Lyonnais,Visitante,,0.6,1.4,1.8,1.0,0.4,0.6,2018-04-10,2016-12-07
+f595d4716898d50d,2018-19,2018-09-19,SL Benfica,Bayern München,Visitante,,0.0,0.0,2.4,1.6,1.6,1.2,2017-12-05,2018-05-01
+0d7f6898d62c2217,2018-19,2018-10-02,AS Roma,Viktoria Plzeň,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+33ffd54d07e7783a,2018-19,2018-10-02,CSKA Moskva,Real Madrid,Local,,1.4,1.4,1.4,2.0,2.2,1.4,2018-09-19,2018-09-19
+4834c21ed7f8bab4,2018-19,2018-10-02,Bayern München,AFC Ajax,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4c9508b1f61dc00c,2018-19,2018-10-02,Juventus,BSC Young Boys,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ab49489c7b468906,2018-19,2018-10-02,Manchester United,Valencia CF,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e0200a3da08584af,2018-19,2018-10-02,AEK Athen,SL Benfica,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f17a958409ae730a,2018-19,2018-10-02,1899 Hoffenheim,Manchester City,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ff1fbf208f8bbc2f,2018-19,2018-10-02,Olympique Lyonnais,Shakhtar Donetsk,Empate,,1.6,0.8,0.6,1.4,1.2,1.6,2018-09-19,2018-09-19
+1df49defb6ec3a5b,2018-19,2018-10-03,Lokomotiv Moskva,FC Schalke 04,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5ee249ccde5dcc32,2018-19,2018-10-03,PSV Eindhoven,Inter,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+826e326b3526a8e1,2018-19,2018-10-03,Borussia Dortmund,AS Monaco,Local,,1.0,1.2,1.4,0.2,1.2,2.8,2018-09-18,2018-09-18
+85cffebbb2e6561c,2018-19,2018-10-03,FC Porto,Galatasaray,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b9963b4c443ccc4e,2018-19,2018-10-03,Atlético Madrid,Club Brugge KV,Local,,1.8,1.2,0.6,0.0,0.4,1.6,2018-09-18,2018-09-18
+dc2d9b03d6e5abd6,2018-19,2018-10-03,SSC Napoli,Liverpool FC,Local,,0.8,1.4,1.6,1.8,2.6,2.4,2018-09-18,2018-09-18
+e3fa27cd52e8273c,2018-19,2018-10-03,Tottenham Hotspur,FC Barcelona,Visitante,,1.4,1.8,1.4,2.0,2.4,1.0,2018-09-18,2018-09-18
+f130dc2b9f186547,2018-19,2018-10-03,Paris Saint-Germain,Crvena Zvezda,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+11268adb224983f2,2018-19,2018-10-23,Manchester United,Juventus,Visitante,,1.6,1.2,0.6,2.4,2.0,1.0,2018-10-02,2018-10-02
+1190d86f6a10f6d4,2018-19,2018-10-23,BSC Young Boys,Valencia CF,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+700decd7e5908cc1,2018-19,2018-10-23,Real Madrid,Viktoria Plzeň,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+715d72b838be2057,2018-19,2018-10-23,AS Roma,CSKA Moskva,Local,,1.8,2.8,2.0,2.0,1.6,1.0,2018-10-02,2018-10-02
+8b41e03503b6f0b9,2018-19,2018-10-23,1899 Hoffenheim,Olympique Lyonnais,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+aa65ef971434c9de,2018-19,2018-10-23,AFC Ajax,SL Benfica,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c798400555638151,2018-19,2018-10-23,Shakhtar Donetsk,Manchester City,Visitante,,1.6,1.6,1.4,0.6,1.0,2.0,2018-10-02,2018-10-02
+f7164f246f9c43fb,2018-19,2018-10-23,AEK Athen,Bayern München,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0bc2a7d09a9eab1e,2018-19,2018-10-24,PSV Eindhoven,Tottenham Hotspur,Empate,,0.2,0.4,2.0,0.8,1.8,2.0,2018-10-03,2018-10-03
+0d3038a91278f6b8,2018-19,2018-10-24,Liverpool FC,Crvena Zvezda,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+17b1ec2359fefa37,2018-19,2018-10-24,FC Barcelona,Inter,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+522cb905bda09c79,2018-19,2018-10-24,Paris Saint-Germain,SSC Napoli,Empate,,0.6,2.2,2.4,1.4,1.4,1.2,2018-10-03,2018-10-03
+9dba5a4cb7410207,2018-19,2018-10-24,Lokomotiv Moskva,FC Porto,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a0e0a1f4ebff7455,2018-19,2018-10-24,Galatasaray,FC Schalke 04,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a9bb1e21648ed4c5,2018-19,2018-10-24,Club Brugge KV,AS Monaco,Empate,,0.0,0.4,1.8,0.2,1.0,3.0,2018-10-03,2018-10-03
+aecdda39e6d06dd5,2018-19,2018-10-24,Borussia Dortmund,Atlético Madrid,Local,,1.4,1.6,1.2,2.2,1.8,0.8,2018-10-03,2018-10-03
+370e94e0839e38d2,2018-19,2018-11-06,FC Porto,Lokomotiv Moskva,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5206ab7961a78bc2,2018-19,2018-11-06,AS Monaco,Club Brugge KV,Visitante,,0.2,1.0,3.0,0.2,0.6,1.8,2018-10-24,2018-10-24
+624e1ee843d26b03,2018-19,2018-11-06,FC Schalke 04,Galatasaray,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6d2d1e81314a2015,2018-19,2018-11-06,Atlético Madrid,Borussia Dortmund,Local,,2.0,1.6,1.4,1.8,2.2,1.0,2018-10-24,2018-10-24
+8fe048b6eb0059f5,2018-19,2018-11-06,Tottenham Hotspur,PSV Eindhoven,Local,,0.4,1.6,2.4,0.4,0.6,2.0,2018-10-24,2018-10-24
+a07d1320d996433a,2018-19,2018-11-06,Inter,FC Barcelona,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a66f896b7341ce52,2018-19,2018-11-06,Crvena Zvezda,Liverpool FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d879f196e72d46de,2018-19,2018-11-06,SSC Napoli,Paris Saint-Germain,Empate,,1.6,1.4,0.8,0.8,2.4,2.2,2018-10-24,2018-10-24
+0fde77ee0bf186a0,2018-19,2018-11-07,Olympique Lyonnais,1899 Hoffenheim,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+128674201438879f,2018-19,2018-11-07,Bayern München,AEK Athen,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+218bb3da94233264,2018-19,2018-11-07,Manchester City,Shakhtar Donetsk,Local,,1.2,1.4,1.6,1.0,1.2,1.8,2018-10-23,2018-10-23
+90a6cfead7f08364,2018-19,2018-11-07,CSKA Moskva,AS Roma,Visitante,,1.4,1.2,1.4,1.8,2.8,2.0,2018-10-23,2018-10-23
+a5503580b286e693,2018-19,2018-11-07,Juventus,Manchester United,Visitante,,2.4,1.8,0.8,1.0,0.8,0.6,2018-10-23,2018-10-23
+a5fa700d545a8c1d,2018-19,2018-11-07,Valencia CF,BSC Young Boys,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b49c69eb200b72e2,2018-19,2018-11-07,SL Benfica,AFC Ajax,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+da3a81ad9b336fd4,2018-19,2018-11-07,Viktoria Plzeň,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+913b152625509c06,2018-19,2018-11-27,Olympique Lyonnais,Manchester City,Empate,,1.4,1.8,1.6,1.8,2.6,1.0,2018-11-07,2018-11-07
+a2b78afe1f85ef9b,2018-19,2018-11-27,Manchester United,BSC Young Boys,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b216a8863d8a5b46,2018-19,2018-11-27,AS Roma,Real Madrid,Visitante,,2.4,2.8,1.2,2.4,2.6,0.6,2018-11-07,2018-11-07
+bc2d4a150372b03a,2018-19,2018-11-27,Juventus,Valencia CF,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d1f8c1e0c6fe5c3c,2018-19,2018-11-27,1899 Hoffenheim,Shakhtar Donetsk,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d72d9dd5bcca069e,2018-19,2018-11-27,CSKA Moskva,Viktoria Plzeň,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+dfdb3a2ff233fd5e,2018-19,2018-11-27,AEK Athen,AFC Ajax,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e7ec5525b944ecdb,2018-19,2018-11-27,Bayern München,SL Benfica,Local,,2.2,1.8,0.6,0.8,0.8,1.6,2018-11-07,2018-11-07
+06fdceb7587ecdec,2018-19,2018-11-28,Tottenham Hotspur,Inter,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+295cddb0cf56b6d0,2018-19,2018-11-28,Atlético Madrid,AS Monaco,Local,,2.0,1.6,1.4,0.2,0.8,3.0,2018-11-06,2018-11-06
+4af7cabf8a9665a1,2018-19,2018-11-28,Borussia Dortmund,Club Brugge KV,Empate,,1.8,2.0,1.0,0.8,1.2,1.4,2018-11-06,2018-11-06
+99e945eed73a867c,2018-19,2018-11-28,Lokomotiv Moskva,Galatasaray,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a34e7fe53fb1c6ac,2018-19,2018-11-28,PSV Eindhoven,FC Barcelona,Visitante,,0.4,0.8,2.0,2.0,2.2,1.2,2018-11-06,2018-11-06
+c185b7a22aefea6c,2018-19,2018-11-28,SSC Napoli,Crvena Zvezda,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d37fa9bf28ef0333,2018-19,2018-11-28,FC Porto,FC Schalke 04,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e1f18111ca1b6350,2018-19,2018-11-28,Paris Saint-Germain,Liverpool FC,Local,,1.0,2.4,1.8,1.2,1.6,1.6,2018-11-06,2018-11-06
+0f909e74df847706,2018-19,2018-12-11,FC Schalke 04,Lokomotiv Moskva,Local,,1.6,1.0,0.8,0.6,0.8,2.2,2018-11-28,2018-11-28
+5d46eec6ddd0c016,2018-19,2018-12-11,Crvena Zvezda,Paris Saint-Germain,Visitante,,0.8,0.8,2.6,1.6,2.6,1.6,2018-11-28,2018-11-28
+5f90ded716c1063a,2018-19,2018-12-11,FC Barcelona,Tottenham Hotspur,Empate,,2.6,2.6,0.8,1.4,1.6,1.8,2018-11-28,2018-11-28
+6a8eea0d9d1b3711,2018-19,2018-12-11,Club Brugge KV,Atlético Madrid,Empate,,1.0,1.2,1.0,2.4,1.8,1.2,2018-11-28,2018-11-28
+80ebda54d39462bb,2018-19,2018-12-11,AS Monaco,Borussia Dortmund,Visitante,,0.2,0.4,2.4,2.0,1.6,0.4,2018-11-28,2018-11-28
+910f4a62edbb51e4,2018-19,2018-12-11,Liverpool FC,SSC Napoli,Local,,1.2,1.6,1.4,1.8,1.4,0.8,2018-11-28,2018-11-28
+c6f5f3108948b4f4,2018-19,2018-12-11,Inter,PSV Eindhoven,Empate,,1.4,1.0,1.2,0.2,1.0,2.4,2018-11-28,2018-11-28
+f2a02450a2dbca79,2018-19,2018-12-11,Galatasaray,FC Porto,Visitante,,0.8,0.6,1.0,2.6,2.4,0.8,2018-11-28,2018-11-28
+04fc2d5499b6b473,2018-19,2018-12-12,Viktoria Plzeň,AS Roma,Local,,0.8,1.0,3.0,1.8,2.0,1.2,2018-11-27,2018-11-27
+0c718a71423222fe,2018-19,2018-12-12,Valencia CF,Manchester United,Local,,1.0,0.8,1.0,2.0,1.2,0.4,2018-11-27,2018-11-27
+471adeeff13c90f7,2018-19,2018-12-12,AFC Ajax,Bayern München,Empate,,2.2,1.6,0.4,2.6,2.4,0.4,2018-11-27,2018-11-27
+476fbfb5a185c01e,2018-19,2018-12-12,Shakhtar Donetsk,Olympique Lyonnais,Empate,,1.0,1.4,3.0,1.4,2.2,2.0,2018-11-27,2018-11-27
+84b4cac30bbf7bc8,2018-19,2018-12-12,SL Benfica,AEK Athen,Local,,0.8,1.0,2.2,0.0,0.4,2.4,2018-11-27,2018-11-27
+869253c32d1a1d6d,2018-19,2018-12-12,BSC Young Boys,Juventus,Local,,0.2,0.4,2.2,2.4,1.6,0.4,2018-11-27,2018-11-27
+ab3b13f210bfdfda,2018-19,2018-12-12,Real Madrid,CSKA Moskva,Visitante,,2.4,2.4,0.4,0.8,1.0,1.8,2018-11-27,2018-11-27
+eaa29e7fa2013b60,2018-19,2018-12-12,Manchester City,1899 Hoffenheim,Local,,2.0,2.8,1.0,0.6,2.0,2.4,2018-11-27,2018-11-27
+17502e47a89859ea,2018-19,2019-02-12,Manchester United,Paris Saint-Germain,Visitante,,1.4,0.8,0.8,2.2,3.0,1.2,2018-12-12,2018-12-11
+637b8be533bfbb56,2018-19,2019-02-12,AS Roma,FC Porto,Local,,1.8,2.2,1.0,3.0,2.8,1.0,2018-12-12,2018-12-11
+06a6a1ec76e232bd,2018-19,2019-02-13,Tottenham Hotspur,Borussia Dortmund,Local,,1.6,1.6,1.6,2.0,1.8,0.4,2018-12-11,2018-12-11
+676c404e6b30ea46,2018-19,2019-02-13,AFC Ajax,Real Madrid,Visitante,,1.8,1.6,1.0,1.8,1.8,1.0,2018-12-12,2018-12-12
+07e554ef84aef4a0,2018-19,2019-02-19,Liverpool FC,Bayern München,Empate,,1.2,1.2,1.0,2.2,2.6,1.0,2018-12-11,2018-12-12
+21d913dc68ee26b9,2018-19,2019-02-19,Olympique Lyonnais,FC Barcelona,Empate,,1.0,2.0,2.0,2.2,2.0,1.0,2018-12-12,2018-12-11
+86712de292ccb1c8,2018-19,2019-02-20,Atlético Madrid,Juventus,Local,,2.0,1.4,1.0,1.8,1.4,0.8,2018-12-11,2018-12-12
+8ced4f74cb16bf08,2018-19,2019-02-20,FC Schalke 04,Manchester City,Visitante,,2.0,1.0,0.6,2.6,3.0,0.8,2018-12-11,2018-12-12
+b6128fdf30106de9,2018-19,2019-03-05,Borussia Dortmund,Tottenham Hotspur,Visitante,,1.4,1.2,1.0,2.2,1.8,0.8,2019-02-13,2019-02-13
+e97b73c83fe561d0,2018-19,2019-03-05,Real Madrid,AFC Ajax,Visitante,,2.4,2.2,1.0,1.6,1.6,1.2,2019-02-13,2019-02-13
+03444a53ad55bc71,2018-19,2019-03-06,FC Porto,AS Roma,Local,,2.4,2.8,1.4,1.8,1.6,1.2,2019-02-12,2019-02-12
+ca33db72fef7528a,2018-19,2019-03-06,Paris Saint-Germain,Manchester United,Visitante,,2.2,2.2,1.0,1.2,0.8,1.2,2019-02-12,2019-02-12
+176f9c5b2f096294,2018-19,2019-03-12,Juventus,Atlético Madrid,Local,,1.2,0.8,1.2,2.0,1.2,0.8,2019-02-20,2019-02-20
+33a345a723e8aec0,2018-19,2019-03-12,Manchester City,FC Schalke 04,Local,,2.6,3.2,1.0,1.4,1.2,1.2,2019-02-20,2019-02-20
+56f650c598c3391a,2018-19,2019-03-13,FC Barcelona,Olympique Lyonnais,Local,,1.8,1.2,0.6,1.0,1.6,1.6,2019-02-19,2019-02-19
+805628356f7350f7,2018-19,2019-03-13,Bayern München,Liverpool FC,Visitante,,2.2,2.4,0.8,1.4,1.2,0.8,2019-02-19,2019-02-19
+29cef9cf6b3ee2c6,2018-19,2019-04-09,Tottenham Hotspur,Manchester City,Local,,2.6,1.6,0.4,2.6,4.0,1.0,2019-03-05,2019-03-12
+c674a7c4d06b9b17,2018-19,2019-04-09,Liverpool FC,FC Porto,Local,,1.4,1.0,1.0,2.4,2.6,1.4,2019-03-13,2019-03-06
+23941fde45159337,2018-19,2019-04-10,AFC Ajax,Juventus,Empate,,1.6,2.2,1.4,1.2,1.2,1.2,2019-03-05,2019-03-12
+b09a514c3ab793d1,2018-19,2019-04-10,Manchester United,FC Barcelona,Visitante,,1.8,1.4,1.2,1.8,1.8,0.8,2019-03-06,2019-03-13
+1f0697b975f83def,2018-19,2019-04-16,Juventus,AFC Ajax,Visitante,,1.4,1.2,1.0,1.6,2.2,1.4,2019-04-10,2019-04-10
+cbd9a2875dcbcc70,2018-19,2019-04-16,FC Barcelona,Manchester United,Local,,2.2,1.8,0.6,1.2,1.0,1.2,2019-04-10,2019-04-10
+2694baf5c29728f9,2018-19,2019-04-17,FC Porto,Liverpool FC,Visitante,,1.8,1.8,1.6,2.0,1.4,0.6,2019-04-09,2019-04-09
+d13d3a79ec56856b,2018-19,2019-04-17,Manchester City,Tottenham Hotspur,Local,,2.0,2.8,1.2,2.6,1.4,0.2,2019-04-09,2019-04-09
+ec04d37a69cc01d0,2018-19,2019-04-30,Tottenham Hotspur,AFC Ajax,Visitante,,2.0,1.8,1.0,1.6,2.2,1.6,2019-04-17,2019-04-16
+0a67280b951ece80,2018-19,2019-05-01,FC Barcelona,Liverpool FC,Local,,2.2,2.0,0.4,2.6,2.0,0.4,2019-04-16,2019-04-17
+6882f735f0e3dcaa,2018-19,2019-05-07,Liverpool FC,FC Barcelona,Local,,2.0,1.8,1.0,2.6,2.4,0.2,2019-05-01,2019-05-01
+81c40affde43e935,2018-19,2019-05-08,AFC Ajax,Tottenham Hotspur,Visitante,,2.0,1.8,1.0,1.8,1.6,1.0,2019-04-30,2019-04-30
+8304b2b19e7ee6e9,2018-19,2019-06-01,Tottenham Hotspur,Liverpool FC,Visitante,final_sede_neutral,,,,,,,,
+0d21cae926ad8b19,2019-20,2019-09-17,SL Benfica,RB Leipzig,Visitante,,1.4,1.2,1.8,1.2,1.8,2.0,2018-12-12,2017-12-06
+69556472fdbffd01,2019-20,2019-09-17,AFC Ajax,Lille OSC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+722f01ccaa528494,2019-20,2019-09-17,Borussia Dortmund,FC Barcelona,Empate,,0.8,0.4,1.2,2.4,2.4,1.0,2019-03-05,2019-05-07
+8fc0de201372563a,2019-20,2019-09-17,SSC Napoli,Liverpool FC,Local,,1.6,1.4,1.0,2.4,2.4,0.8,2018-12-11,2019-06-01
+b2b5263b8c9c7538,2019-20,2019-09-17,Olympique Lyonnais,Zenit St. Petersburg,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c24370f5e3a32a31,2019-20,2019-09-17,Inter,Slavia Praha,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c3e80a6347f4e971,2019-20,2019-09-17,Chelsea FC,Valencia CF,Visitante,,1.0,1.2,1.6,1.6,1.2,0.8,2018-03-14,2018-12-12
+dd3512e362ce141f,2019-20,2019-09-17,RB Salzburg,KRC Genk,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5e67aaa46a87ade3,2019-20,2019-09-18,Olympiakos Piraeus,Tottenham Hotspur,Empate,,0.2,0.4,2.0,1.2,1.4,1.8,2017-12-05,2019-06-01
+6a01efff4411c665,2019-20,2019-09-18,Atlético Madrid,Juventus,Empate,,2.0,1.2,0.6,0.8,1.2,1.4,2019-03-12,2019-04-16
+948ac98ed2665356,2019-20,2019-09-18,Dinamo Zagreb,Atalanta,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b44d0442fb0cb1ea,2019-20,2019-09-18,Club Brugge KV,Galatasaray,Empate,,1.2,1.2,0.8,0.2,0.4,1.6,2018-12-11,2018-12-11
+ba66efccbe4eb21d,2019-20,2019-09-18,Paris Saint-Germain,Real Madrid,Local,,2.0,2.0,1.2,1.8,2.0,1.6,2019-03-06,2019-03-05
+c418c8c1d81ce1de,2019-20,2019-09-18,Bayer Leverkusen,Lokomotiv Moskva,Visitante,,1.6,1.4,1.0,0.6,0.8,1.8,2017-03-15,2018-12-11
+d68992ac5b88329f,2019-20,2019-09-18,Shakhtar Donetsk,Manchester City,Visitante,,1.0,1.2,2.8,2.4,3.2,1.4,2018-12-12,2019-04-17
+dc1699818a659d75,2019-20,2019-09-18,Bayern München,Crvena Zvezda,Local,,1.6,2.2,1.4,0.6,1.0,3.4,2019-03-13,2018-12-11
+2c5abe1dc65cc93f,2019-20,2019-10-01,Manchester City,Dinamo Zagreb,Local,,2.4,3.4,1.2,0.6,0.8,1.6,2019-09-18,2019-09-18
+2fd9dc32bda09fe1,2019-20,2019-10-01,Tottenham Hotspur,Bayern München,Visitante,,0.8,1.6,2.2,1.6,2.4,1.4,2019-09-18,2019-09-18
+31bd37a5fce4d081,2019-20,2019-10-01,Galatasaray,Paris Saint-Germain,Visitante,,0.4,0.4,1.4,2.4,2.4,1.0,2019-09-18,2019-09-18
+4302f0216b29edb4,2019-20,2019-10-01,Crvena Zvezda,Olympiakos Piraeus,Local,,0.6,0.8,2.8,0.4,0.8,2.0,2019-09-18,2019-09-18
+6eca841fbeac75c3,2019-20,2019-10-01,Real Madrid,Club Brugge KV,Empate,,1.2,1.0,2.2,1.4,1.0,0.2,2019-09-18,2019-09-18
+703267fd65dd58d3,2019-20,2019-10-01,Atalanta,Shakhtar Donetsk,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+afe7380811e567b6,2019-20,2019-10-01,Lokomotiv Moskva,Atlético Madrid,Visitante,,1.2,1.2,1.8,1.6,1.2,1.0,2019-09-18,2019-09-18
+f3736ffc8cc5960d,2019-20,2019-10-01,Juventus,Bayer Leverkusen,Local,,1.0,1.4,1.4,1.0,1.4,1.4,2019-09-18,2019-09-18
+45716a503ab31625,2019-20,2019-10-02,RB Leipzig,Olympique Lyonnais,Visitante,,1.8,2.2,1.8,0.8,1.0,1.8,2019-09-17,2019-09-17
+45b1624f1c279c7a,2019-20,2019-10-02,KRC Genk,SSC Napoli,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5adc02746983979b,2019-20,2019-10-02,Slavia Praha,Borussia Dortmund,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6ec24a2769fe3952,2019-20,2019-10-02,Zenit St. Petersburg,SL Benfica,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+80ff922772bc8ae9,2019-20,2019-10-02,Liverpool FC,RB Salzburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9bfd900f9bc2db23,2019-20,2019-10-02,Valencia CF,AFC Ajax,Visitante,,2.0,1.4,0.8,2.0,1.8,1.0,2019-09-17,2019-09-17
+ce1a14fa437b5ce7,2019-20,2019-10-02,FC Barcelona,Inter,Local,,2.0,1.4,0.8,0.6,0.6,1.2,2019-09-17,2019-09-17
+f99a39de4027f009,2019-20,2019-10-02,Lille OSC,Chelsea FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2c00eebc05230021,2019-20,2019-10-22,Olympiakos Piraeus,Bayern München,Visitante,,0.4,0.8,2.0,1.6,2.8,1.6,2019-10-01,2019-10-01
+7761148eb6c19f35,2019-20,2019-10-22,Juventus,Lokomotiv Moskva,Local,,1.6,2.0,1.0,1.2,1.0,1.6,2019-10-01,2019-10-01
+93cb138e22f165e2,2019-20,2019-10-22,Shakhtar Donetsk,Dinamo Zagreb,Empate,,1.4,1.2,2.6,0.6,0.8,1.8,2019-10-01,2019-10-01
+b69192e9da9f076e,2019-20,2019-10-22,Tottenham Hotspur,Crvena Zvezda,Local,,0.8,1.4,2.8,1.2,1.4,2.2,2019-10-01,2019-10-01
+da6a32e42ac387f5,2019-20,2019-10-22,Club Brugge KV,Paris Saint-Germain,Visitante,,1.4,1.2,0.4,2.4,2.2,0.8,2019-10-01,2019-10-01
+e8647c855359403d,2019-20,2019-10-22,Manchester City,Atalanta,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f1423cc19f6a0271,2019-20,2019-10-22,Galatasaray,Real Madrid,Visitante,,0.2,0.4,1.6,0.8,1.0,2.6,2019-10-01,2019-10-01
+fe9c10ac73f0e941,2019-20,2019-10-22,Atlético Madrid,Bayer Leverkusen,Local,,1.6,1.2,1.0,0.8,1.2,1.8,2019-10-01,2019-10-01
+13f00d8c55469915,2019-20,2019-10-23,RB Leipzig,Zenit St. Petersburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3527186218f03c6a,2019-20,2019-10-23,Inter,Borussia Dortmund,Local,,0.6,0.8,1.2,1.4,0.8,0.8,2019-10-02,2019-10-02
+3cb99fc4260a1c56,2019-20,2019-10-23,RB Salzburg,SSC Napoli,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5f45733ff0488c05,2019-20,2019-10-23,Slavia Praha,FC Barcelona,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+64304c9fe1312610,2019-20,2019-10-23,AFC Ajax,Chelsea FC,Visitante,,2.4,2.2,0.8,1.0,0.8,1.4,2019-10-02,2019-10-02
+8df0e4b26cd7c81d,2019-20,2019-10-23,SL Benfica,Olympique Lyonnais,Local,,0.8,1.0,2.2,1.2,1.0,1.4,2019-10-02,2019-10-02
+9ddd5dc78c6185d2,2019-20,2019-10-23,KRC Genk,Liverpool FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d16358ffb9131bd8,2019-20,2019-10-23,Lille OSC,Valencia CF,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0a6b98a1ccc935fc,2019-20,2019-11-05,Valencia CF,Lille OSC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+26d062289d5f12e4,2019-20,2019-11-05,Borussia Dortmund,Inter,Local,,0.8,0.4,1.2,1.0,1.0,1.0,2019-10-23,2019-10-23
+3c61e0d601a4fee7,2019-20,2019-11-05,Chelsea FC,AFC Ajax,Empate,,1.4,0.8,1.2,1.8,1.8,0.8,2019-10-23,2019-10-23
+78999ada03b94dfa,2019-20,2019-11-05,Liverpool FC,KRC Genk,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9e62eb4baf538313,2019-20,2019-11-05,Olympique Lyonnais,SL Benfica,Local,,1.0,1.0,1.6,1.2,1.2,2.2,2019-10-23,2019-10-23
+a69b4bb5c77d677b,2019-20,2019-11-05,Zenit St. Petersburg,RB Leipzig,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b1c600a9c4cb8291,2019-20,2019-11-05,SSC Napoli,RB Salzburg,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c32ecc0d8ddb4805,2019-20,2019-11-05,FC Barcelona,Slavia Praha,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0746d299c40cecb6,2019-20,2019-11-06,Real Madrid,Galatasaray,Local,,1.4,1.2,2.0,0.2,0.4,1.4,2019-10-22,2019-10-22
+1222e9918863aa8f,2019-20,2019-11-06,Paris Saint-Germain,Club Brugge KV,Local,,2.4,2.4,0.6,0.8,0.4,1.4,2019-10-22,2019-10-22
+189d85348bf497cc,2019-20,2019-11-06,Dinamo Zagreb,Shakhtar Donetsk,Empate,,0.8,1.2,1.4,1.6,1.6,1.8,2019-10-22,2019-10-22
+6d461b860a663a62,2019-20,2019-11-06,Crvena Zvezda,Tottenham Hotspur,Visitante,,0.6,1.0,3.2,1.4,2.4,2.6,2019-10-22,2019-10-22
+7376f283be516d9e,2019-20,2019-11-06,Bayer Leverkusen,Atlético Madrid,Local,,0.2,0.6,2.0,2.0,1.4,1.0,2019-10-22,2019-10-22
+a43aa61d8000d019,2019-20,2019-11-06,Lokomotiv Moskva,Juventus,Visitante,,1.2,1.0,1.2,1.6,1.8,1.2,2019-10-22,2019-10-22
+d310ff5de727e64e,2019-20,2019-11-06,Bayern München,Olympiakos Piraeus,Local,,2.0,2.8,1.4,0.2,1.2,2.6,2019-10-22,2019-10-22
+e5da0f8a7c13bbbc,2019-20,2019-11-06,Atalanta,Manchester City,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2d1843d190d8a86a,2019-20,2019-11-26,Galatasaray,Club Brugge KV,Empate,,0.2,0.4,2.2,0.6,0.4,1.6,2019-11-06,2019-11-06
+2e05eedb2cf17c0b,2019-20,2019-11-26,Manchester City,Shakhtar Donetsk,Empate,,2.6,3.0,1.0,1.2,1.6,2.0,2019-11-06,2019-11-06
+2ef1801ebc841afe,2019-20,2019-11-26,Real Madrid,Paris Saint-Germain,Empate,,1.4,2.0,1.8,2.4,2.2,0.6,2019-11-06,2019-11-06
+310d7541c9509fb3,2019-20,2019-11-26,Atalanta,Dinamo Zagreb,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+70b27b380e80296c,2019-20,2019-11-26,Tottenham Hotspur,Olympiakos Piraeus,Local,,1.4,2.6,2.2,0.2,1.0,2.4,2019-11-06,2019-11-06
+81d18881b4520782,2019-20,2019-11-26,Lokomotiv Moskva,Bayer Leverkusen,Visitante,,0.6,0.8,1.6,0.8,0.6,1.4,2019-11-06,2019-11-06
+c35be57089bdb870,2019-20,2019-11-26,Crvena Zvezda,Bayern München,Visitante,,0.6,0.8,3.4,2.4,3.2,1.4,2019-11-06,2019-11-06
+f7cd0b0a7c0dae8e,2019-20,2019-11-26,Juventus,Atlético Madrid,Local,,2.0,2.0,1.2,1.4,1.2,1.4,2019-11-06,2019-11-06
+021cf14cbd71199f,2019-20,2019-11-27,FC Barcelona,Borussia Dortmund,Local,,1.6,0.8,1.2,1.4,1.0,1.0,2019-11-05,2019-11-05
+13f1c93a43e10697,2019-20,2019-11-27,RB Leipzig,SL Benfica,Empate,,1.8,1.4,1.2,1.2,1.2,1.8,2019-11-05,2019-11-05
+39561f63c7d93cf9,2019-20,2019-11-27,Zenit St. Petersburg,Olympique Lyonnais,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4d82c7e88cd6d950,2019-20,2019-11-27,Valencia CF,Chelsea FC,Empate,,2.0,1.6,1.2,1.4,1.4,1.8,2019-11-05,2019-11-05
+94b2a75dc9b16251,2019-20,2019-11-27,KRC Genk,RB Salzburg,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9f73f4f33d4fad0b,2019-20,2019-11-27,Slavia Praha,Inter,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c96a79a9661c0e1e,2019-20,2019-11-27,Liverpool FC,SSC Napoli,Empate,,2.4,2.4,1.4,1.6,1.2,0.8,2019-11-05,2019-11-05
+ee9ec88f9e754791,2019-20,2019-11-27,Lille OSC,AFC Ajax,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+19117dd8d510efd7,2019-20,2019-12-10,SL Benfica,Zenit St. Petersburg,Local,,0.8,1.4,2.2,1.4,1.4,1.2,2019-11-27,2019-11-27
+2ca63a4e7f680022,2019-20,2019-12-10,Borussia Dortmund,Slavia Praha,Local,,1.4,1.2,1.4,0.4,0.6,1.6,2019-11-27,2019-11-27
+31da46255e7eae09,2019-20,2019-12-10,AFC Ajax,Valencia CF,Visitante,,2.0,2.4,1.0,1.6,1.6,1.4,2019-11-27,2019-11-27
+67accf0b5ec39d1b,2019-20,2019-12-10,RB Salzburg,Liverpool FC,Visitante,,1.4,3.2,2.2,2.0,2.2,1.6,2019-11-27,2019-11-27
+9b48a892d4545e8e,2019-20,2019-12-10,Chelsea FC,Lille OSC,Local,,1.6,1.8,1.6,0.2,0.6,2.4,2019-11-27,2019-11-27
+9f609c83fde28a44,2019-20,2019-12-10,Inter,FC Barcelona,Visitante,,1.4,1.8,1.4,2.2,1.4,0.6,2019-11-27,2019-11-27
+d29bc92d04d11dc4,2019-20,2019-12-10,Olympique Lyonnais,RB Leipzig,Empate,,1.4,1.4,1.2,2.0,1.6,1.2,2019-11-27,2019-11-27
+fcc0560006b78f9f,2019-20,2019-12-10,SSC Napoli,KRC Genk,Local,,1.8,1.4,0.8,0.2,1.0,3.2,2019-11-27,2019-11-27
+2caa3f64e26fa369,2019-20,2019-12-11,Bayer Leverkusen,Juventus,Visitante,,1.2,1.0,1.4,2.6,2.0,0.8,2019-11-26,2019-11-26
+44211e0abcc86992,2019-20,2019-12-11,Shakhtar Donetsk,Atalanta,Visitante,,1.2,1.6,2.0,0.8,1.0,2.4,2019-11-26,2019-11-26
+44ffce254b94d346,2019-20,2019-12-11,Club Brugge KV,Real Madrid,Visitante,,0.6,0.6,1.8,1.6,2.2,1.4,2019-11-26,2019-11-26
+4d2ff7881be0ab6d,2019-20,2019-12-11,Dinamo Zagreb,Manchester City,Visitante,,1.0,1.8,1.8,2.2,2.4,0.6,2019-11-26,2019-11-26
+673cac0261d3a046,2019-20,2019-12-11,Bayern München,Tottenham Hotspur,Local,,3.0,4.2,0.8,2.0,3.4,2.2,2019-11-26,2019-11-26
+92ff250f3e619ea5,2019-20,2019-12-11,Paris Saint-Germain,Galatasaray,Local,,2.6,2.4,0.4,0.4,0.2,1.8,2019-11-26,2019-11-26
+9ef204c357fc8c87,2019-20,2019-12-11,Olympiakos Piraeus,Crvena Zvezda,Local,,0.2,1.4,2.8,0.6,0.6,3.8,2019-11-26,2019-11-26
+c47c235929b17803,2019-20,2019-12-11,Atlético Madrid,Lokomotiv Moskva,Local,,1.4,1.2,1.0,0.6,0.8,1.8,2019-11-26,2019-11-26
+1dda6fcc33fbd64b,2019-20,2020-02-18,Atlético Madrid,Liverpool FC,Local,,1.8,1.2,0.6,2.6,2.6,1.2,2019-12-11,2019-12-10
+3d24bc837cb4ca48,2019-20,2020-02-18,Borussia Dortmund,Paris Saint-Germain,Local,,1.8,1.6,1.6,2.6,2.8,0.4,2019-12-10,2019-12-11
+0de9003e9f2da99b,2019-20,2020-02-19,Tottenham Hotspur,RB Leipzig,Visitante,,1.8,3.2,2.4,1.6,1.6,1.4,2019-12-11,2019-12-10
+17edea828ae274db,2019-20,2020-02-19,Atalanta,Valencia CF,Local,,1.4,1.6,1.6,1.6,1.6,1.4,2019-12-11,2019-12-10
+47cc2bd8ccb58354,2019-20,2020-02-25,SSC Napoli,FC Barcelona,Empate,,1.8,1.8,0.8,2.6,1.8,0.8,2019-12-10,2019-12-10
+59a11c877b05dc1a,2019-20,2020-02-25,Chelsea FC,Bayern München,Visitante,,2.2,2.2,1.6,3.0,4.2,1.0,2019-12-10,2019-12-11
+19ca2ed2bd6debca,2019-20,2020-02-26,Real Madrid,Manchester City,Visitante,,2.2,2.8,1.0,2.2,2.6,0.8,2019-12-11,2019-12-11
+adf016f7d802cd9f,2019-20,2020-02-26,Olympique Lyonnais,Juventus,Local,,1.4,1.6,1.4,3.0,2.0,0.4,2019-12-10,2019-12-11
+0660c9a8729fc7e9,2019-20,2020-03-10,Valencia CF,Atalanta,Visitante,,1.6,1.8,1.6,2.0,2.2,1.4,2020-02-19,2020-02-19
+eb8e93c6d03e9b0a,2019-20,2020-03-10,RB Leipzig,Tottenham Hotspur,Local,,2.2,1.8,1.0,1.8,2.8,1.2,2020-02-19,2020-02-19
+448bba84da6c96c9,2019-20,2020-03-11,Paris Saint-Germain,Borussia Dortmund,Local,,2.0,2.8,0.8,1.8,1.6,1.8,2020-02-18,2020-02-18
+fcb21e808ffe44da,2019-20,2020-03-11,Liverpool FC,Atlético Madrid,Local,,2.0,1.8,0.8,1.8,1.0,0.6,2020-02-18,2020-02-18
+0817efff6670aa7d,2019-20,2020-08-07,Juventus,Olympique Lyonnais,Local,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+46251c361059a2b2,2019-20,2020-08-07,Manchester City,Real Madrid,Local,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+3fdecf6ecf4519e5,2019-20,2020-08-08,Bayern München,Chelsea FC,Local,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+f45a0484a5605078,2019-20,2020-08-08,FC Barcelona,SSC Napoli,Local,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+e5942b53909b03af,2019-20,2020-08-12,Atalanta,Paris Saint-Germain,Visitante,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+e4838199e25a7576,2019-20,2020-08-13,RB Leipzig,Atlético Madrid,Local,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+3b0e16eaf00fdf19,2019-20,2020-08-14,FC Barcelona,Bayern München,Visitante,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+f1522428a41f2c8f,2019-20,2020-08-15,Manchester City,Olympique Lyonnais,Visitante,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+7f96ef30ee480642,2019-20,2020-08-18,RB Leipzig,Paris Saint-Germain,Visitante,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+8139396c6022c20f,2019-20,2020-08-19,Olympique Lyonnais,Bayern München,Visitante,eliminatorias_agosto_2020_sedes_no_auditadas,,,,,,,,
+16f68d2894f0f3b9,2019-20,2020-08-23,Paris Saint-Germain,Bayern München,Visitante,final_sede_neutral,,,,,,,,
+0b654fd9828fd4bf,2020-21,2020-10-20,Dinamo Kiev,Juventus,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+3a9aa2d26b50a8f8,2020-21,2020-10-20,Chelsea FC,Sevilla FC,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cfaf3bcc8efa1b35,2020-21,2020-10-20,Lazio Roma,Borussia Dortmund,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d9d79a03b8abd16d,2020-21,2020-10-20,RB Leipzig,İstanbul Başakşehir,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+e59225acba0f8a40,2020-21,2020-10-20,Zenit St. Petersburg,Club Brugge KV,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+ea5b5adc14225048,2020-21,2020-10-20,FC Barcelona,Ferencvárosi TC,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+efcf8d32b62928bd,2020-21,2020-10-20,Stade Rennais,FK Krasnodar,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f18a736a8e3031d6,2020-21,2020-10-20,Paris Saint-Germain,Manchester United,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+02340b8f02bf3f0d,2020-21,2020-10-21,Bayern München,Atlético Madrid,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+034102c64e7475e7,2020-21,2020-10-21,RB Salzburg,Lokomotiv Moskva,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+20a2357bc86b3d03,2020-21,2020-10-21,FC Midtjylland,Atalanta,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+277643ad249960d3,2020-21,2020-10-21,AFC Ajax,Liverpool FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+45b5324949c4e5c2,2020-21,2020-10-21,Inter,Bor. Mönchengladbach,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cb531beee02c1312,2020-21,2020-10-21,Real Madrid,Shakhtar Donetsk,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cf2c5118ff627d9d,2020-21,2020-10-21,Manchester City,FC Porto,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d620af5f8142849e,2020-21,2020-10-21,Olympiakos Piraeus,Olympique Marseille,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+19338b45109b215b,2020-21,2020-10-27,Atlético Madrid,RB Salzburg,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+476026f3488e13a6,2020-21,2020-10-27,Lokomotiv Moskva,Bayern München,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+54e7f2101fab4bea,2020-21,2020-10-27,Bor. Mönchengladbach,Real Madrid,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+92c0107756a9427f,2020-21,2020-10-27,Liverpool FC,FC Midtjylland,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+9fe6eba321c7c23b,2020-21,2020-10-27,Shakhtar Donetsk,Inter,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b62a8bdf9f03f4ca,2020-21,2020-10-27,FC Porto,Olympiakos Piraeus,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+c9108ebfffc5b6cc,2020-21,2020-10-27,Olympique Marseille,Manchester City,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+e081b8c83858cdfc,2020-21,2020-10-27,Atalanta,AFC Ajax,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1c4e1e94053a833b,2020-21,2020-10-28,İstanbul Başakşehir,Paris Saint-Germain,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1c567403f139cae2,2020-21,2020-10-28,Ferencvárosi TC,Dinamo Kiev,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+2e3b59a8d0a7c46f,2020-21,2020-10-28,Juventus,FC Barcelona,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+3048a341bc491fd1,2020-21,2020-10-28,Manchester United,RB Leipzig,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+36f5ccdeff3a5b6b,2020-21,2020-10-28,Borussia Dortmund,Zenit St. Petersburg,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+7d2178e8c4635683,2020-21,2020-10-28,FK Krasnodar,Chelsea FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+926f97f9f4f7ddcc,2020-21,2020-10-28,Sevilla FC,Stade Rennais,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+a9189097f9033209,2020-21,2020-10-28,Club Brugge KV,Lazio Roma,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1121e589c7c3e6a7,2020-21,2020-11-03,Real Madrid,Inter,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+702c9ef9c116bb47,2020-21,2020-11-03,Atalanta,Liverpool FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+8a297a20c176c2d3,2020-21,2020-11-03,FC Porto,Olympique Marseille,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+9cdf55184c2b2794,2020-21,2020-11-03,Manchester City,Olympiakos Piraeus,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+9d2d3eee5985a430,2020-21,2020-11-03,FC Midtjylland,AFC Ajax,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+9dc6ba4937769bd4,2020-21,2020-11-03,Lokomotiv Moskva,Atlético Madrid,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+c636fca550697822,2020-21,2020-11-03,RB Salzburg,Bayern München,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+dc8e13b5f33859bc,2020-21,2020-11-03,Shakhtar Donetsk,Bor. Mönchengladbach,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+3c0381a51e073d3c,2020-21,2020-11-04,Club Brugge KV,Borussia Dortmund,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+42405f9f03be7b03,2020-21,2020-11-04,Chelsea FC,Stade Rennais,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+48f3ed0837e68b5e,2020-21,2020-11-04,Zenit St. Petersburg,Lazio Roma,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4b0b4934061f79f0,2020-21,2020-11-04,Sevilla FC,FK Krasnodar,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4fc8fc8971806d11,2020-21,2020-11-04,Ferencvárosi TC,Juventus,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+7d4ac7a9304ec082,2020-21,2020-11-04,FC Barcelona,Dinamo Kiev,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+ab93a4723346d7bd,2020-21,2020-11-04,İstanbul Başakşehir,Manchester United,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d0376eb036ea68bd,2020-21,2020-11-04,RB Leipzig,Paris Saint-Germain,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+04e8643301f399d9,2020-21,2020-11-24,Stade Rennais,Chelsea FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4416840374d2d9ad,2020-21,2020-11-24,Paris Saint-Germain,RB Leipzig,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4538d205e9a8e7d7,2020-21,2020-11-24,Juventus,Ferencvárosi TC,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+50a3eba3a35fd839,2020-21,2020-11-24,Dinamo Kiev,FC Barcelona,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+5e3d180dd285d159,2020-21,2020-11-24,Borussia Dortmund,Club Brugge KV,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+73b5e9caaa2d7123,2020-21,2020-11-24,Manchester United,İstanbul Başakşehir,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+8e2d381079229cbf,2020-21,2020-11-24,Lazio Roma,Zenit St. Petersburg,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+e7df5a773fb157ef,2020-21,2020-11-24,FK Krasnodar,Sevilla FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+04534806c2d112a5,2020-21,2020-11-25,Bor. Mönchengladbach,Shakhtar Donetsk,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+053152f613b90077,2020-21,2020-11-25,Bayern München,RB Salzburg,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+3bfbf4b27047ff23,2020-21,2020-11-25,Atlético Madrid,Lokomotiv Moskva,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+72d3e33c45eb9075,2020-21,2020-11-25,Olympiakos Piraeus,Manchester City,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+7e2df149cc6c3113,2020-21,2020-11-25,Olympique Marseille,FC Porto,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b285d259beb56ab8,2020-21,2020-11-25,AFC Ajax,FC Midtjylland,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+c129cbdd9094b0e6,2020-21,2020-11-25,Liverpool FC,Atalanta,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cb1ce84a9a3842eb,2020-21,2020-11-25,Inter,Real Madrid,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+03117247b740110d,2020-21,2020-12-01,Lokomotiv Moskva,RB Salzburg,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+2a057a3e8db45d41,2020-21,2020-12-01,Liverpool FC,AFC Ajax,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+38ba395aca177656,2020-21,2020-12-01,Atalanta,FC Midtjylland,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4862c7cf564058ca,2020-21,2020-12-01,Shakhtar Donetsk,Real Madrid,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+6cdaf974e7319fb3,2020-21,2020-12-01,FC Porto,Manchester City,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+8155369fb9b91f1f,2020-21,2020-12-01,Atlético Madrid,Bayern München,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+94ddb59b0ec8bea3,2020-21,2020-12-01,Olympique Marseille,Olympiakos Piraeus,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+efd92e065b6d3ac1,2020-21,2020-12-01,Bor. Mönchengladbach,Inter,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+20c45e0f0a369083,2020-21,2020-12-02,Borussia Dortmund,Lazio Roma,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+212328f8146ef640,2020-21,2020-12-02,Juventus,Dinamo Kiev,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+7036ef64ccf4556f,2020-21,2020-12-02,Club Brugge KV,Zenit St. Petersburg,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+7b0e298a1c99e860,2020-21,2020-12-02,Manchester United,Paris Saint-Germain,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+a78ca255db167c0e,2020-21,2020-12-02,FK Krasnodar,Stade Rennais,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b571c2ccacc2d654,2020-21,2020-12-02,Sevilla FC,Chelsea FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d258df31d3a47ff7,2020-21,2020-12-02,İstanbul Başakşehir,RB Leipzig,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d9e67dcb30213885,2020-21,2020-12-02,Ferencvárosi TC,FC Barcelona,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+246f2d615553c723,2020-21,2020-12-08,FC Barcelona,Juventus,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+29ee8efa50015ec9,2020-21,2020-12-08,Zenit St. Petersburg,Borussia Dortmund,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+847d77de6897c9ea,2020-21,2020-12-08,Chelsea FC,FK Krasnodar,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+90b22e56a9e58f5a,2020-21,2020-12-08,Lazio Roma,Club Brugge KV,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cbfd035b4d589141,2020-21,2020-12-08,Dinamo Kiev,Ferencvárosi TC,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d62fe000db560a86,2020-21,2020-12-08,Stade Rennais,Sevilla FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+efe28b00f8f2c990,2020-21,2020-12-08,RB Leipzig,Manchester United,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+11beaefb4a7d45cd,2020-21,2020-12-09,Real Madrid,Bor. Mönchengladbach,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1ca4520915edbf88,2020-21,2020-12-09,Bayern München,Lokomotiv Moskva,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+32ac6ce628e137b9,2020-21,2020-12-09,FC Midtjylland,Liverpool FC,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+4040bbfd5f578412,2020-21,2020-12-09,Olympiakos Piraeus,FC Porto,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+44455bd8b3a7cbdf,2020-21,2020-12-09,Manchester City,Olympique Marseille,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+5ae90e55e98ff2c9,2020-21,2020-12-09,RB Salzburg,Atlético Madrid,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+bbc2a7bd32aa8e09,2020-21,2020-12-09,Inter,Shakhtar Donetsk,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f87adc8e980f5b1c,2020-21,2020-12-09,Paris Saint-Germain,İstanbul Başakşehir,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+fcde873618209407,2020-21,2020-12-09,AFC Ajax,Atalanta,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+14cb775291efdef9,2020-21,2021-02-16,RB Leipzig,Liverpool FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+35eb2cdad7161db0,2020-21,2021-02-16,FC Barcelona,Paris Saint-Germain,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1b2ff78bfbf0b9bd,2020-21,2021-02-17,Sevilla FC,Borussia Dortmund,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d28256dd53d855ad,2020-21,2021-02-17,FC Porto,Juventus,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+89a071c92509970f,2020-21,2021-02-23,Atlético Madrid,Chelsea FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+e7d76aaed48b38ce,2020-21,2021-02-23,Lazio Roma,Bayern München,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+1a1928091f1f7b81,2020-21,2021-02-24,Atalanta,Real Madrid,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+75a97ccaf2a4e0d4,2020-21,2021-02-24,Bor. Mönchengladbach,Manchester City,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+5c49762577195bd3,2020-21,2021-03-09,Borussia Dortmund,Sevilla FC,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+d47e78e88a12823a,2020-21,2021-03-09,Juventus,FC Porto,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b461caf9d3be5e50,2020-21,2021-03-10,Liverpool FC,RB Leipzig,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+c4c936779e5bdb30,2020-21,2021-03-10,Paris Saint-Germain,FC Barcelona,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+48b0558a49891485,2020-21,2021-03-16,Manchester City,Bor. Mönchengladbach,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b83cf5a3f9525f05,2020-21,2021-03-16,Real Madrid,Atalanta,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+acb82b043cccc821,2020-21,2021-03-17,Chelsea FC,Atlético Madrid,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+cc51458618aeff66,2020-21,2021-03-17,Bayern München,Lazio Roma,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+0da6d9623130e7ee,2020-21,2021-04-06,Real Madrid,Liverpool FC,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+28eac16d1f0da4ea,2020-21,2021-04-06,Manchester City,Borussia Dortmund,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+009d4f9b3119aa63,2020-21,2021-04-07,FC Porto,Chelsea FC,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+01be5845de057223,2020-21,2021-04-07,Bayern München,Paris Saint-Germain,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+62dc3211c1a1cda0,2020-21,2021-04-13,Paris Saint-Germain,Bayern München,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f608bf6b273ccff6,2020-21,2021-04-13,Chelsea FC,FC Porto,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+b7aae9cb659f0ea0,2020-21,2021-04-14,Borussia Dortmund,Manchester City,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f51867d539abcbb5,2020-21,2021-04-14,Liverpool FC,Real Madrid,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f72aff10ef7e3b5c,2020-21,2021-04-27,Real Madrid,Chelsea FC,Empate,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+00601c3affc13645,2020-21,2021-04-28,Paris Saint-Germain,Manchester City,Visitante,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+c10ba196d1df6649,2020-21,2021-05-04,Manchester City,Paris Saint-Germain,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+f3ec6b00471c27ff,2020-21,2021-05-05,Chelsea FC,Real Madrid,Local,temporada_2020_21_sedes_no_auditadas,,,,,,,,
+00012673fc00a783,2020-21,2021-05-29,Manchester City,Chelsea FC,Visitante,final_sede_neutral,,,,,,,,
+14b41a33fc150909,2021-22,2021-09-14,Villarreal CF,Atalanta,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+66772bd7b1405318,2021-22,2021-09-14,Malmö FF,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+77cac44a5444d5de,2021-22,2021-09-14,BSC Young Boys,Manchester United,Local,,0.8,0.8,1.8,1.2,2.6,1.8,2018-12-12,2020-12-08
+91015683eb714947,2021-22,2021-09-14,Sevilla FC,RB Salzburg,Empate,,1.4,1.8,2.2,0.6,1.6,3.0,2021-03-09,2020-12-09
+a4f2dd19b5f3d47a,2021-22,2021-09-14,FC Barcelona,Bayern München,Visitante,,1.4,1.8,1.6,2.4,2.2,1.0,2021-03-10,2021-04-13
+c03988a1211e66a8,2021-22,2021-09-14,Chelsea FC,Zenit St. Petersburg,Local,,2.0,1.2,0.4,0.2,0.6,2.2,2021-05-29,2020-12-08
+c1d3faff10c0c60a,2021-22,2021-09-14,Lille OSC,VfL Wolfsburg,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fe5263e0c24de287,2021-22,2021-09-14,Dinamo Kiev,SL Benfica,Empate,,0.8,0.8,2.2,1.4,1.8,1.8,2020-12-08,2019-12-10
+957e47b8edd82c61,2021-22,2021-09-15,Manchester City,RB Leipzig,Local,,2.4,1.6,0.8,1.2,1.4,2.0,2021-05-29,2021-03-10
+add3c7c654fd4e14,2021-22,2021-09-15,FC Sheriff,Shakhtar Donetsk,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d5bba8d0e1375b70,2021-22,2021-09-15,Liverpool FC,AC Milan,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e0815bd96e6586fc,2021-22,2021-09-15,Club Brugge KV,Paris Saint-Germain,Empate,,1.0,1.2,1.8,0.8,1.0,1.6,2020-12-08,2021-05-04
+e34971ac5b0bfd9f,2021-22,2021-09-15,Atlético Madrid,FC Porto,Empate,,1.0,0.6,0.8,1.8,1.2,1.0,2021-03-17,2021-04-13
+ec2639ae2c9f8975,2021-22,2021-09-15,Beşiktaş,Borussia Dortmund,Visitante,,1.0,1.0,2.2,1.4,1.8,1.8,2018-03-14,2021-04-14
+f6244eae5527bbc1,2021-22,2021-09-15,Sporting CP,AFC Ajax,Visitante,,0.8,1.0,1.4,1.4,1.4,1.2,2017-12-05,2020-12-09
+f7fbf04406c1ae5c,2021-22,2021-09-15,Inter,Real Madrid,Visitante,,1.0,1.0,1.4,1.6,1.4,1.0,2020-12-09,2021-05-05
+026afd3b3a1e8ab5,2021-22,2021-09-28,Borussia Dortmund,Sporting CP,Local,,1.4,1.8,1.8,0.8,1.2,2.2,2021-09-15,2021-09-15
+305d91d057bc02cd,2021-22,2021-09-28,RB Leipzig,Club Brugge KV,Visitante,,1.2,2.0,3.0,1.0,1.2,1.8,2021-09-15,2021-09-15
+50230860c9204560,2021-22,2021-09-28,Shakhtar Donetsk,Inter,Empate,,0.8,0.4,2.4,0.8,1.0,1.6,2021-09-15,2021-09-15
+77fc70021d8a7fa0,2021-22,2021-09-28,Paris Saint-Germain,Manchester City,Local,,0.8,1.0,1.6,2.4,2.4,1.2,2021-09-15,2021-09-15
+91bb88bc46f8f0d6,2021-22,2021-09-28,FC Porto,Liverpool FC,Visitante,,1.4,0.8,1.0,2.0,1.6,1.0,2021-09-15,2021-09-15
+ba1215cb2e977c35,2021-22,2021-09-28,Real Madrid,FC Sheriff,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c83e20581844473e,2021-22,2021-09-28,AFC Ajax,Beşiktaş,Local,,1.8,2.0,1.0,0.8,1.0,2.4,2021-09-15,2021-09-15
+f7cfad3e03e50e33,2021-22,2021-09-28,AC Milan,Atlético Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0fa7ad28fb9008f9,2021-22,2021-09-29,Juventus,Chelsea FC,Local,,2.4,2.4,0.6,2.0,1.0,0.4,2021-09-14,2021-09-14
+21cea07fad1f0a12,2021-22,2021-09-29,Zenit St. Petersburg,Malmö FF,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4132361cba9656e3,2021-22,2021-09-29,VfL Wolfsburg,Sevilla FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9fd763c735774eed,2021-22,2021-09-29,SL Benfica,FC Barcelona,Local,,1.6,1.6,1.2,0.8,1.0,2.2,2021-09-14,2021-09-14
+a2b98b9292e9408d,2021-22,2021-09-29,Manchester United,Villarreal CF,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c7acd2675cc73294,2021-22,2021-09-29,Atalanta,BSC Young Boys,Local,,1.0,1.0,1.4,1.4,1.2,1.4,2021-09-14,2021-09-14
+f324f2a3f560adc0,2021-22,2021-09-29,Bayern München,Dinamo Kiev,Local,,2.4,2.4,1.0,0.8,0.4,1.8,2021-09-14,2021-09-14
+f732f911dbce4153,2021-22,2021-09-29,RB Salzburg,Lille OSC,Local,,0.8,1.4,2.6,0.4,0.6,1.8,2021-09-14,2021-09-14
+0ca7517431dd429c,2021-22,2021-10-19,Paris Saint-Germain,RB Leipzig,Local,,0.8,0.8,1.2,0.6,1.4,2.8,2021-09-28,2021-09-28
+1e6ff0e528e46e48,2021-22,2021-10-19,Atlético Madrid,Liverpool FC,Visitante,,1.4,0.8,0.8,2.0,2.2,1.2,2021-09-28,2021-09-28
+642a70ea10701f73,2021-22,2021-10-19,Club Brugge KV,Manchester City,Visitante,,1.6,1.6,1.4,1.8,2.0,1.4,2021-09-28,2021-09-28
+6b394c12e50e7ac9,2021-22,2021-10-19,Beşiktaş,Sporting CP,Visitante,,0.6,0.8,2.6,0.8,1.0,2.0,2021-09-28,2021-09-28
+793e94ebcbc9faa2,2021-22,2021-10-19,Shakhtar Donetsk,Real Madrid,Visitante,,1.0,0.4,1.2,1.0,0.6,1.0,2021-09-28,2021-09-28
+e95e908ca779317e,2021-22,2021-10-19,Inter,FC Sheriff,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+efe0314dbcef44ac,2021-22,2021-10-19,AFC Ajax,Borussia Dortmund,Local,,1.8,2.0,0.8,1.4,1.4,1.4,2021-09-28,2021-09-28
+f52175874559613c,2021-22,2021-10-19,FC Porto,AC Milan,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1779e794e913cf00,2021-22,2021-10-20,Lille OSC,Sevilla FC,Empate,,0.2,0.6,2.0,1.2,1.8,1.6,2021-09-29,2021-09-29
+18537a03398bb966,2021-22,2021-10-20,RB Salzburg,VfL Wolfsburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2af890da4b5c180a,2021-22,2021-10-20,FC Barcelona,Dinamo Kiev,Local,,0.2,0.4,2.8,0.8,0.2,2.4,2021-09-29,2021-09-29
+67650bee1af34fa0,2021-22,2021-10-20,Chelsea FC,Malmö FF,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+88a0c34d4b7e7ffa,2021-22,2021-10-20,Zenit St. Petersburg,Juventus,Visitante,,0.6,1.2,1.8,2.4,2.0,0.6,2021-09-29,2021-09-29
+897e17081f59817a,2021-22,2021-10-20,SL Benfica,Bayern München,Visitante,,1.6,1.8,1.0,2.4,2.6,0.8,2021-09-29,2021-09-29
+a06f0313921fc1a9,2021-22,2021-10-20,BSC Young Boys,Villarreal CF,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fc38fd3cae399bb3,2021-22,2021-10-20,Manchester United,Atalanta,Local,,1.2,2.0,2.0,1.4,1.0,1.2,2021-09-29,2021-09-29
+12d8355b0cba5bc4,2021-22,2021-11-02,Villarreal CF,BSC Young Boys,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+42457c4462a7c836,2021-22,2021-11-02,Atalanta,Manchester United,Empate,,0.8,1.2,1.8,1.2,1.8,2.2,2021-10-20,2021-10-20
+5376807670e7dbef,2021-22,2021-11-02,VfL Wolfsburg,RB Salzburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7bfffe760f8e1551,2021-22,2021-11-02,Sevilla FC,Lille OSC,Visitante,,0.8,1.2,1.4,0.4,0.4,1.2,2021-10-20,2021-10-20
+bb4bfbe534c35839,2021-22,2021-11-02,Bayern München,SL Benfica,Local,,2.4,3.0,0.6,1.6,1.6,1.2,2021-10-20,2021-10-20
+fb8c144e74629986,2021-22,2021-11-02,Malmö FF,Chelsea FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fc35c0f8fc4e5cbc,2021-22,2021-11-02,Dinamo Kiev,FC Barcelona,Visitante,,0.8,0.2,1.8,0.8,0.6,2.2,2021-10-20,2021-10-20
+ffbfe339538e73fc,2021-22,2021-11-02,Juventus,Zenit St. Petersburg,Local,,2.4,1.6,0.6,0.6,1.0,1.4,2021-10-20,2021-10-20
+25dfab1211c10e5d,2021-22,2021-11-03,FC Sheriff,Inter,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+50f451d64b12686f,2021-22,2021-11-03,Liverpool FC,Atlético Madrid,Local,,2.0,2.4,1.6,0.8,0.8,1.4,2021-10-19,2021-10-19
+5416a3f8e466c07f,2021-22,2021-11-03,Manchester City,Club Brugge KV,Local,,1.8,2.6,1.4,1.6,1.8,1.8,2021-10-19,2021-10-19
+7dd48e64808da07b,2021-22,2021-11-03,Real Madrid,Shakhtar Donetsk,Local,,1.4,1.6,1.0,1.0,0.4,1.4,2021-10-19,2021-10-19
+b62c6546fca81374,2021-22,2021-11-03,Sporting CP,Beşiktaş,Local,,1.2,1.6,2.0,0.0,0.6,3.2,2021-10-19,2021-10-19
+c11697972d256bba,2021-22,2021-11-03,Borussia Dortmund,AFC Ajax,Visitante,,1.2,1.0,1.8,1.8,2.2,0.6,2021-10-19,2021-10-19
+c41d6e82e029e570,2021-22,2021-11-03,AC Milan,FC Porto,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+eef5a04a97798b4f,2021-22,2021-11-03,RB Leipzig,Paris Saint-Germain,Empate,,0.0,1.2,3.0,1.4,1.4,1.4,2021-10-19,2021-10-19
+096d1cac5ccf913c,2021-22,2021-11-23,BSC Young Boys,Atalanta,Empate,,1.2,1.0,1.8,1.0,1.6,2.0,2021-11-02,2021-11-02
+0b6f5b438fae5b5c,2021-22,2021-11-23,Villarreal CF,Manchester United,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+69f08694275e5cb6,2021-22,2021-11-23,Lille OSC,RB Salzburg,Local,,1.0,0.8,1.0,1.4,1.4,1.4,2021-11-02,2021-11-02
+755214d0a7506f7a,2021-22,2021-11-23,Dinamo Kiev,Bayern München,Visitante,,0.8,0.2,1.4,3.0,3.6,0.4,2021-11-02,2021-11-02
+893dc7de006557dc,2021-22,2021-11-23,Chelsea FC,Juventus,Local,,2.4,1.4,0.2,3.0,2.2,0.6,2021-11-02,2021-11-02
+c8dd615ab8e178dc,2021-22,2021-11-23,Sevilla FC,VfL Wolfsburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d017836494928ee4,2021-22,2021-11-23,FC Barcelona,SL Benfica,Empate,,1.4,0.6,1.4,1.4,1.6,1.8,2021-11-02,2021-11-02
+dd91bae8a64d714a,2021-22,2021-11-23,Malmö FF,Zenit St. Petersburg,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0c1a87620133b45f,2021-22,2021-11-24,Inter,Shakhtar Donetsk,Local,,1.6,1.2,0.6,0.4,0.2,1.8,2021-11-03,2021-11-03
+2f3d5c0809941563,2021-22,2021-11-24,Liverpool FC,FC Porto,Local,,2.6,2.6,1.0,1.6,0.8,1.2,2021-11-03,2021-11-03
+32f46fa324eb036d,2021-22,2021-11-24,Sporting CP,Borussia Dortmund,Local,,1.2,1.8,1.8,1.2,1.0,2.0,2021-11-03,2021-11-03
+5f9bcb05d1be39e7,2021-22,2021-11-24,Atlético Madrid,AC Milan,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c785fb6953a71c13,2021-22,2021-11-24,Club Brugge KV,RB Leipzig,Visitante,,1.0,1.4,2.6,0.2,1.6,3.0,2021-11-03,2021-11-03
+eb282804df99f8d4,2021-22,2021-11-24,Beşiktaş,AFC Ajax,Visitante,,0.0,0.6,3.0,2.4,2.8,0.6,2021-11-03,2021-11-03
+eb6d9fd306dece61,2021-22,2021-11-24,Manchester City,Paris Saint-Germain,Local,,1.8,3.0,1.6,1.6,1.6,1.4,2021-11-03,2021-11-03
+ee4bd3aa73d00dbb,2021-22,2021-11-24,FC Sheriff,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+16a9077b527445bf,2021-22,2021-12-07,RB Leipzig,Manchester City,Local,,0.8,2.6,2.6,2.4,3.4,1.6,2021-11-24,2021-11-24
+1d2ab0d7dfdbeedd,2021-22,2021-12-07,AFC Ajax,Sporting CP,Local,,3.0,3.2,0.6,1.8,2.4,1.6,2021-11-24,2021-11-24
+24447e43f4154679,2021-22,2021-12-07,Shakhtar Donetsk,FC Sheriff,Empate,,0.2,0.2,2.2,1.2,1.2,2.0,2021-11-24,2021-11-24
+2f8021fc4609ab50,2021-22,2021-12-07,FC Porto,Atlético Madrid,Visitante,,1.0,0.6,1.6,0.8,0.8,1.4,2021-11-24,2021-11-24
+30e022025b6eb3d7,2021-22,2021-12-07,AC Milan,Liverpool FC,Visitante,,0.8,1.0,1.4,3.0,3.0,1.0,2021-11-24,2021-11-24
+32045e242bcce8c4,2021-22,2021-12-07,Borussia Dortmund,Beşiktaş,Local,,1.2,1.0,2.2,0.0,0.6,2.8,2021-11-24,2021-11-24
+ad2412a39afbd557,2021-22,2021-12-07,Real Madrid,Inter,Local,,2.4,2.4,0.6,2.0,1.6,0.6,2021-11-24,2021-11-24
+fd6524bea2bc4b6f,2021-22,2021-12-07,Paris Saint-Germain,Club Brugge KV,Local,,1.6,1.8,1.4,0.8,1.0,3.2,2021-11-24,2021-11-24
+32388177fa994ed2,2021-22,2021-12-08,Bayern München,FC Barcelona,Local,,3.0,3.8,0.6,1.4,0.4,1.2,2021-11-23,2021-11-23
+5812f6fed03cdd70,2021-22,2021-12-08,Zenit St. Petersburg,Chelsea FC,Empate,,0.8,1.4,1.4,2.4,2.0,0.2,2021-11-23,2021-11-23
+5ce828a414504e21,2021-22,2021-12-08,Manchester United,BSC Young Boys,Empate,,2.0,2.0,1.4,0.8,1.2,2.2,2021-11-23,2021-11-23
+6f25c76a0fb97070,2021-22,2021-12-08,SL Benfica,Dinamo Kiev,Local,,1.0,1.0,1.8,0.2,0.2,1.8,2021-11-23,2021-11-23
+af758e14a9e7e836,2021-22,2021-12-08,RB Salzburg,Sevilla FC,Local,,1.4,1.4,1.2,1.2,1.0,0.8,2021-11-23,2021-11-23
+c8f4787c7bc66b4d,2021-22,2021-12-08,VfL Wolfsburg,Lille OSC,Visitante,,1.0,0.8,1.4,1.6,0.8,0.6,2021-11-23,2021-11-23
+ee69e8dcde8ad4ad,2021-22,2021-12-08,Juventus,Malmö FF,Local,,2.4,1.8,1.2,0.2,0.2,2.6,2021-11-23,2021-11-23
+556717176f430d1c,2021-22,2021-12-09,Atalanta,Villarreal CF,Visitante,,1.2,2.0,2.0,1.4,1.8,1.4,2021-11-23,2021-11-23
+3b74f1e613c4c0a7,2021-22,2022-02-15,Sporting CP,Manchester City,Visitante,,1.8,2.6,1.4,1.8,2.4,1.4,2021-12-07,2021-12-07
+be5213c074405ecc,2021-22,2022-02-15,Paris Saint-Germain,Real Madrid,Local,,2.0,2.4,1.4,2.4,2.6,0.6,2021-12-07,2021-12-07
+527ba11a4514856a,2021-22,2022-02-16,RB Salzburg,Bayern München,Empate,,1.8,1.4,1.0,3.0,3.8,0.6,2021-12-08,2021-12-08
+729bc77ab06d47ec,2021-22,2022-02-16,Inter,Liverpool FC,Visitante,,2.0,1.6,0.8,3.0,2.8,0.8,2021-12-07,2021-12-07
+66af479e6d5855f7,2021-22,2022-02-22,Chelsea FC,Lille OSC,Local,,2.0,2.4,0.8,2.0,1.4,0.8,2021-12-08,2021-12-08
+b40354ac4ba18cd1,2021-22,2022-02-22,Villarreal CF,Juventus,Empate,,1.8,2.0,1.4,2.4,1.4,1.2,2021-12-09,2021-12-08
+6757bfe3b46fa754,2021-22,2022-02-23,Atlético Madrid,Manchester United,Empate,,1.2,1.4,1.6,2.2,2.0,1.2,2021-12-07,2021-12-08
+d11282bdfe736c5d,2021-22,2022-02-23,SL Benfica,AFC Ajax,Empate,,1.4,1.4,1.8,3.0,3.0,0.8,2021-12-08,2021-12-07
+976d90d31f466be5,2021-22,2022-03-08,Bayern München,RB Salzburg,Local,,2.6,3.0,0.8,1.4,1.2,1.0,2022-02-16,2022-02-16
+bf08a84ef346d20f,2021-22,2022-03-08,Liverpool FC,Inter,Visitante,,3.0,2.2,0.6,1.8,1.6,1.2,2022-02-16,2022-02-16
+27babf09827928b9,2021-22,2022-03-09,Manchester City,Sporting CP,Empate,,2.4,3.4,1.0,1.8,2.6,2.2,2022-02-15,2022-02-15
+38b31f74180e1b62,2021-22,2022-03-09,Real Madrid,Paris Saint-Germain,Local,,2.4,2.4,0.4,2.0,2.2,1.4,2022-02-15,2022-02-15
+07c81b3315da1c3a,2021-22,2022-03-15,AFC Ajax,SL Benfica,Visitante,,2.6,3.0,1.2,1.0,1.2,2.2,2022-02-23,2022-02-23
+49b2d4a06a798ec7,2021-22,2022-03-15,Manchester United,Atlético Madrid,Visitante,,1.8,1.8,1.2,0.8,1.2,1.6,2022-02-23,2022-02-23
+28a83899ad27a2c7,2021-22,2022-03-16,Juventus,Villarreal CF,Visitante,,2.0,1.4,1.4,2.0,2.0,1.2,2022-02-22,2022-02-22
+29541b3e09258d1c,2021-22,2022-03-16,Lille OSC,Chelsea FC,Visitante,,2.0,1.2,0.8,2.6,2.8,0.6,2022-02-22,2022-02-22
+05ac24960fc55c15,2021-22,2022-04-05,SL Benfica,Liverpool FC,Visitante,,1.6,1.4,1.4,2.4,1.6,0.4,2022-03-15,2022-03-08
+6ab33999f41060bd,2021-22,2022-04-05,Manchester City,Atlético Madrid,Local,,2.0,2.4,0.8,1.4,1.0,1.0,2022-03-09,2022-03-15
+4217c66409cadca7,2021-22,2022-04-06,Chelsea FC,Real Madrid,Visitante,,2.6,2.4,0.8,2.4,2.0,0.6,2022-03-16,2022-03-09
+ba00e607f8c0243e,2021-22,2022-04-06,Villarreal CF,Bayern München,Local,,2.0,1.8,1.0,2.6,3.6,1.0,2022-03-16,2022-03-08
+1654419efac72008,2021-22,2022-04-12,Real Madrid,Chelsea FC,Visitante,,2.4,2.2,0.6,2.0,2.4,1.4,2022-04-06,2022-04-06
+31ac5927cb3c3614,2021-22,2022-04-12,Bayern München,Villarreal CF,Empate,,2.0,2.6,0.8,2.0,1.6,1.0,2022-04-06,2022-04-06
+7bf5592fb75252a3,2021-22,2022-04-13,Liverpool FC,SL Benfica,Empate,,2.4,1.8,0.6,1.6,1.2,1.0,2022-04-05,2022-04-05
+ffadedf2df08dc50,2021-22,2022-04-13,Atlético Madrid,Manchester City,Empate,,1.4,1.0,0.8,2.0,1.8,0.6,2022-04-05,2022-04-05
+4c3ee0ee71322903,2021-22,2022-04-26,Manchester City,Real Madrid,Local,,1.6,1.4,0.4,1.8,1.8,1.2,2022-04-13,2022-04-12
+5835a6fbbdd3db13,2021-22,2022-04-27,Liverpool FC,Villarreal CF,Local,,2.0,2.0,1.2,2.2,1.8,0.8,2022-04-13,2022-04-12
+a94ce0301a712b88,2021-22,2022-05-03,Villarreal CF,Liverpool FC,Visitante,,1.6,1.2,0.8,2.0,2.0,1.0,2022-04-27,2022-04-27
+dff09a98c4fd7f87,2021-22,2022-05-04,Real Madrid,Manchester City,Local,,1.2,2.0,2.0,2.2,2.0,0.6,2022-04-26,2022-04-26
+1a6a79e2829708f7,2021-22,2022-05-28,Liverpool FC,Real Madrid,Visitante,final_sede_neutral,,,,,,,,
+3cc755003cfd6175,2022-23,2022-09-06,Borussia Dortmund,FC København,Local,,1.2,1.6,2.0,1.6,1.2,0.2,2021-12-07,2016-12-07
+3f977cbe9ed1529d,2022-23,2022-09-06,RB Leipzig,Shakhtar Donetsk,Visitante,,1.4,2.4,1.6,0.4,0.4,2.0,2021-12-07,2021-12-07
+7d109c99a982c220,2022-23,2022-09-06,RB Salzburg,AC Milan,Empate,,0.8,0.8,2.2,0.8,0.8,1.2,2022-03-08,2021-12-07
+97fc8aeca79a8a2c,2022-23,2022-09-06,Paris Saint-Germain,Juventus,Local,,1.4,1.8,1.6,1.4,1.2,2.0,2022-03-09,2022-03-16
+e05a7f8862b0241d,2022-23,2022-09-06,Sevilla FC,Manchester City,Visitante,,1.0,0.8,0.8,1.6,1.2,1.0,2021-12-08,2022-05-04
+e1c1d5ecafd3b622,2022-23,2022-09-06,Celtic FC,Real Madrid,Visitante,,0.6,1.0,2.6,1.8,2.0,1.8,2017-12-05,2022-05-28
+f538313540e5063b,2022-23,2022-09-06,Dinamo Zagreb,Chelsea FC,Local,,0.4,1.2,2.6,2.0,2.2,1.6,2019-12-11,2022-04-12
+f9ed5bf27f93e687,2022-23,2022-09-06,SL Benfica,Maccabi Haifa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+03871731bf8c7427,2022-23,2022-09-07,AFC Ajax,Rangers FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+409745ed3c382581,2022-23,2022-09-07,SSC Napoli,Liverpool FC,Local,,1.2,1.6,1.2,2.0,2.2,1.4,2020-08-08,2022-05-28
+8d0fdba97b3e9708,2022-23,2022-09-07,Inter,Bayern München,Visitante,,1.8,1.2,1.0,1.6,2.4,0.8,2022-03-08,2022-04-12
+9cb142ff58df833a,2022-23,2022-09-07,FC Barcelona,Viktoria Plzeň,Local,,1.4,0.4,1.2,1.2,1.0,2.8,2021-12-08,2018-12-12
+af4a5386d7cb1b41,2022-23,2022-09-07,Tottenham Hotspur,Olympique Marseille,Local,,1.2,1.8,1.8,0.6,0.4,2.4,2020-03-10,2020-12-09
+dcb8d8dbf5f3e8a8,2022-23,2022-09-07,Atlético Madrid,FC Porto,Local,,1.6,1.0,0.6,0.8,0.8,2.2,2022-04-13,2021-12-07
+df0a94283f3cc2e7,2022-23,2022-09-07,Club Brugge KV,Bayer Leverkusen,Local,,0.6,1.0,3.8,1.2,0.8,1.4,2021-12-07,2019-12-11
+f60a04e6fcc7b3c2,2022-23,2022-09-07,Eintracht Frankfurt,Sporting CP,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+30e2d4159c0ebc90,2022-23,2022-09-13,FC Porto,Club Brugge KV,Visitante,,0.8,0.8,1.6,0.6,0.8,3.6,2022-09-07,2022-09-07
+3bbd7ee9bfaf2b54,2022-23,2022-09-13,Bayer Leverkusen,Atlético Madrid,Local,,1.2,0.8,1.0,1.6,0.8,0.6,2022-09-07,2022-09-07
+463787075bdad715,2022-23,2022-09-13,Liverpool FC,AFC Ajax,Local,,1.4,1.8,2.0,2.0,2.4,1.2,2022-09-07,2022-09-07
+93b5cb66654e45a3,2022-23,2022-09-13,Bayern München,FC Barcelona,Local,,1.6,2.2,0.8,2.0,1.4,0.8,2022-09-07,2022-09-07
+98f31e0b21bfc072,2022-23,2022-09-13,Sporting CP,Tottenham Hotspur,Local,,1.4,1.6,2.0,1.2,1.4,1.8,2022-09-07,2022-09-07
+ac11f1a0e7c48282,2022-23,2022-09-13,Viktoria Plzeň,Inter,Visitante,,1.2,1.2,2.8,1.2,0.6,1.2,2022-09-07,2022-09-07
+c5f2114bceadd214,2022-23,2022-09-13,Olympique Marseille,Eintracht Frankfurt,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+16fb01d721ccf4bd,2022-23,2022-09-14,Maccabi Haifa,Paris Saint-Germain,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+48786811185752de,2022-23,2022-09-14,Chelsea FC,RB Salzburg,Empate,,1.8,1.6,1.2,1.0,0.8,2.0,2022-09-06,2022-09-06
+522301f551b5d9ea,2022-23,2022-09-14,Manchester City,Borussia Dortmund,Local,,2.0,2.0,1.0,1.2,2.0,2.0,2022-09-06,2022-09-06
+734b376ce1aa433b,2022-23,2022-09-14,Shakhtar Donetsk,Celtic FC,Empate,,0.8,1.2,2.2,0.0,0.4,3.2,2022-09-06,2022-09-06
+84aa017c77e2132f,2022-23,2022-09-14,FC København,Sevilla FC,Empate,,1.0,0.4,0.8,0.8,0.6,1.4,2022-09-06,2022-09-06
+c3eca5adba8c7782,2022-23,2022-09-14,AC Milan,Dinamo Zagreb,Local,,1.0,0.8,1.0,1.0,1.4,2.2,2022-09-06,2022-09-06
+e72fc949685092a5,2022-23,2022-09-14,Juventus,SL Benfica,Visitante,,0.8,0.6,2.0,1.6,1.8,1.6,2022-09-06,2022-09-06
+f3d77ab56a3a89b4,2022-23,2022-09-14,Real Madrid,RB Leipzig,Local,,1.8,2.0,1.6,1.4,2.4,2.0,2022-09-06,2022-09-06
+fdeeceb12ff049eb,2022-23,2022-09-14,Rangers FC,SSC Napoli,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+315a32813769aedc,2022-23,2022-10-04,Bayern München,Viktoria Plzeň,Local,,2.0,2.4,0.6,1.2,1.0,2.8,2022-09-13,2022-09-13
+453ff05c5d1e37bb,2022-23,2022-10-04,FC Porto,Bayer Leverkusen,Local,,0.2,0.6,2.4,1.8,1.2,0.8,2022-09-13,2022-09-13
+5b9f5306fb1cb9fe,2022-23,2022-10-04,Olympique Marseille,Sporting CP,Local,,0.6,0.4,1.8,1.4,1.4,1.8,2022-09-13,2022-09-13
+610e85325b50ce6d,2022-23,2022-10-04,Liverpool FC,Rangers FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+66afe8dbb343867d,2022-23,2022-10-04,Club Brugge KV,Atlético Madrid,Local,,1.2,1.4,2.6,1.4,0.6,0.8,2022-09-13,2022-09-13
+bb51815b25a99476,2022-23,2022-10-04,Inter,FC Barcelona,Local,,1.2,0.6,1.2,1.4,1.2,1.2,2022-09-13,2022-09-13
+c20f7efb54355cee,2022-23,2022-10-04,AFC Ajax,SSC Napoli,Visitante,,1.4,2.2,1.4,2.0,2.6,1.0,2022-09-13,2022-09-14
+df31ec11b16c6e31,2022-23,2022-10-04,Eintracht Frankfurt,Tottenham Hotspur,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0676c9707be5f6e6,2022-23,2022-10-05,Sevilla FC,Borussia Dortmund,Visitante,,0.8,0.6,1.4,1.2,2.2,1.6,2022-09-14,2022-09-14
+2821a5e46fa273e2,2022-23,2022-10-05,Manchester City,FC København,Local,,2.0,2.2,1.2,1.2,0.4,0.6,2022-09-14,2022-09-14
+4c578c1ad0063545,2022-23,2022-10-05,RB Leipzig,Celtic FC,Local,,1.4,2.0,1.8,0.2,0.6,2.8,2022-09-14,2022-09-14
+57dd8231471e2fa9,2022-23,2022-10-05,Real Madrid,Shakhtar Donetsk,Local,,2.4,2.2,1.0,1.0,1.4,1.4,2022-09-14,2022-09-14
+607508f63e4a3008,2022-23,2022-10-05,Chelsea FC,AC Milan,Local,,1.4,1.4,1.4,1.6,1.4,1.0,2022-09-14,2022-09-14
+97929061a12ed445,2022-23,2022-10-05,RB Salzburg,Dinamo Zagreb,Local,,1.2,1.0,2.0,0.8,1.2,2.4,2022-09-14,2022-09-14
+f8762da05ef8927b,2022-23,2022-10-05,Juventus,Maccabi Haifa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f91f402559157611,2022-23,2022-10-05,SL Benfica,Paris Saint-Germain,Empate,,2.0,1.8,1.4,2.4,2.2,1.2,2022-09-14,2022-09-14
+5960d3be23651b55,2022-23,2022-10-11,Shakhtar Donetsk,Real Madrid,Empate,,1.0,1.4,1.4,3.0,2.0,0.4,2022-10-05,2022-10-05
+809cb6a3406a62ab,2022-23,2022-10-11,Borussia Dortmund,Sevilla FC,Empate,,1.8,2.8,1.2,0.8,0.6,1.8,2022-10-05,2022-10-05
+9cba49ac4d4b730d,2022-23,2022-10-11,AC Milan,Chelsea FC,Visitante,,1.4,1.2,1.4,1.4,1.6,1.2,2022-10-05,2022-10-05
+9d5e91adf5cabfb5,2022-23,2022-10-11,FC København,Manchester City,Empate,,1.0,0.4,1.6,2.4,3.2,1.2,2022-10-05,2022-10-05
+a9ea73347fee989d,2022-23,2022-10-11,Maccabi Haifa,Juventus,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b1b8b1e9613d7e36,2022-23,2022-10-11,Dinamo Zagreb,RB Salzburg,Empate,,0.6,0.6,2.0,1.2,1.0,2.0,2022-10-05,2022-10-05
+c18cc762d5cb73d9,2022-23,2022-10-11,Paris Saint-Germain,SL Benfica,Empate,,2.0,1.6,1.2,1.6,1.8,1.6,2022-10-05,2022-10-05
+c451c8f3d4dbd58f,2022-23,2022-10-11,Celtic FC,RB Leipzig,Visitante,,0.2,0.6,3.0,1.8,2.2,1.6,2022-10-05,2022-10-05
+3b5d2622776d71a7,2022-23,2022-10-12,SSC Napoli,AFC Ajax,Local,,2.0,3.0,1.2,0.8,1.6,2.2,2022-10-04,2022-10-04
+3cad92c324f9d386,2022-23,2022-10-12,Tottenham Hotspur,Eintracht Frankfurt,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+68d190076a132d31,2022-23,2022-10-12,Viktoria Plzeň,Bayern München,Visitante,,1.2,1.0,2.8,2.0,2.0,0.4,2022-10-04,2022-10-04
+8e6d69d549a5336b,2022-23,2022-10-12,Rangers FC,Liverpool FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b5dc861bc7b3d075,2022-23,2022-10-12,Sporting CP,Olympique Marseille,Visitante,,1.4,1.2,1.8,1.2,1.2,1.6,2022-10-04,2022-10-04
+b81cdb2eccbf82de,2022-23,2022-10-12,Bayer Leverkusen,FC Porto,Visitante,,1.2,0.8,1.0,0.6,0.8,2.2,2022-10-04,2022-10-04
+bf5c4a871eecd758,2022-23,2022-10-12,FC Barcelona,Inter,Empate,,0.8,1.0,1.4,1.8,0.8,0.8,2022-10-04,2022-10-04
+c88111295d81d264,2022-23,2022-10-12,Atlético Madrid,Club Brugge KV,Empate,,0.8,0.4,1.2,1.8,1.6,1.8,2022-10-04,2022-10-04
+0fa352b91b5bdb19,2022-23,2022-10-25,Paris Saint-Germain,Maccabi Haifa,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1e1477d4e105e29d,2022-23,2022-10-25,SL Benfica,Juventus,Local,,1.8,1.8,1.2,0.6,1.0,2.0,2022-10-11,2022-10-11
+2b1b7c5f2085630c,2022-23,2022-10-25,RB Salzburg,Chelsea FC,Visitante,,1.2,1.0,2.0,2.0,1.8,0.6,2022-10-11,2022-10-11
+3a66b9ea92d9b5e6,2022-23,2022-10-25,RB Leipzig,Real Madrid,Local,,1.8,1.6,1.6,2.6,1.8,0.4,2022-10-11,2022-10-11
+6a8060f9d2201176,2022-23,2022-10-25,Dinamo Zagreb,AC Milan,Visitante,,0.8,0.8,1.8,0.8,1.0,1.8,2022-10-11,2022-10-11
+9d7419db86cbf453,2022-23,2022-10-25,Borussia Dortmund,Manchester City,Empate,,2.0,2.8,0.8,2.0,2.4,0.6,2022-10-11,2022-10-11
+b8a4a4b4b4163082,2022-23,2022-10-25,Celtic FC,Shakhtar Donetsk,Empate,,0.2,0.4,2.0,1.2,1.6,1.2,2022-10-11,2022-10-11
+bd0676083cfc1da1,2022-23,2022-10-25,Sevilla FC,FC København,Local,,0.4,0.4,2.0,1.0,0.4,1.6,2022-10-11,2022-10-11
+658671aacf14a693,2022-23,2022-10-26,Tottenham Hotspur,Sporting CP,Empate,,1.4,1.0,1.4,1.4,1.2,1.2,2022-10-12,2022-10-12
+6b40818c99cae338,2022-23,2022-10-26,FC Barcelona,Bayern München,Visitante,,0.8,1.6,2.0,2.6,2.8,0.6,2022-10-12,2022-10-12
+780396af65106f34,2022-23,2022-10-26,SSC Napoli,Rangers FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8c3c3612a7d777f1,2022-23,2022-10-26,Club Brugge KV,FC Porto,Visitante,,2.0,1.6,0.8,1.2,1.4,1.8,2022-10-12,2022-10-12
+bc4fb20d7642cd85,2022-23,2022-10-26,AFC Ajax,Liverpool FC,Visitante,,0.6,1.6,2.6,1.8,2.4,1.4,2022-10-12,2022-10-12
+bc7fe50aafe3085f,2022-23,2022-10-26,Eintracht Frankfurt,Olympique Marseille,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+d3727fad7a9d3b66,2022-23,2022-10-26,Atlético Madrid,Bayer Leverkusen,Empate,,1.0,0.4,1.0,0.6,0.4,1.6,2022-10-12,2022-10-12
+fb6b0fd54d18c1a1,2022-23,2022-10-26,Inter,Viktoria Plzeň,Local,,2.0,1.4,1.0,0.6,1.0,3.4,2022-10-12,2022-10-12
+033be85609f1ef5b,2022-23,2022-11-01,Bayern München,Inter,Local,,3.0,3.2,0.4,2.0,2.0,1.0,2022-10-26,2022-10-26
+086a8327601c2aeb,2022-23,2022-11-01,FC Porto,Atlético Madrid,Local,,1.8,2.0,1.2,1.0,0.8,1.4,2022-10-26,2022-10-26
+0df4d770036cea3b,2022-23,2022-11-01,Rangers FC,AFC Ajax,Visitante,,0.0,0.2,3.8,0.6,1.6,3.0,2022-10-26,2022-10-26
+0f872be27c9eb7ad,2022-23,2022-11-01,Liverpool FC,SSC Napoli,Local,,2.4,3.0,1.2,3.0,4.0,0.8,2022-10-26,2022-10-26
+39f2a7e37388e01f,2022-23,2022-11-01,Viktoria Plzeň,FC Barcelona,Visitante,,0.0,0.6,4.0,0.8,1.6,2.0,2022-10-26,2022-10-26
+8a08b389f06dd96c,2022-23,2022-11-01,Sporting CP,Eintracht Frankfurt,Visitante,,1.4,1.4,1.4,1.4,1.0,1.4,2022-10-26,2022-10-26
+cf1a4cd9b26d387a,2022-23,2022-11-01,Olympique Marseille,Tottenham Hotspur,Visitante,,1.2,1.4,1.2,1.6,1.2,1.0,2022-10-26,2022-10-26
+f2b2de7552904bf1,2022-23,2022-11-01,Bayer Leverkusen,Club Brugge KV,Empate,,0.8,0.8,1.6,2.0,1.4,0.8,2022-10-26,2022-10-26
+0bb9fc7dc434b927,2022-23,2022-11-02,Shakhtar Donetsk,RB Leipzig,Visitante,,1.2,1.6,1.2,1.8,1.8,1.8,2022-10-25,2022-10-25
+1ad9617cda8de371,2022-23,2022-11-02,FC København,Borussia Dortmund,Empate,,0.4,0.0,2.2,1.6,1.8,0.8,2022-10-25,2022-10-25
+3bab29c7d7d3f13f,2022-23,2022-11-02,Manchester City,Sevilla FC,Local,,2.2,2.2,0.2,1.0,1.0,1.8,2022-10-25,2022-10-25
+602f54c1fe092230,2022-23,2022-11-02,Chelsea FC,Dinamo Zagreb,Local,,2.0,1.6,0.6,0.8,0.6,1.8,2022-10-25,2022-10-25
+94ca804d8025de05,2022-23,2022-11-02,Maccabi Haifa,SL Benfica,Visitante,,0.6,1.2,3.0,2.2,2.0,1.2,2022-10-25,2022-10-25
+9e38219e698d6a5a,2022-23,2022-11-02,Juventus,Paris Saint-Germain,Visitante,,0.6,1.6,2.2,2.2,2.8,1.2,2022-10-25,2022-10-25
+be404cf1808432bc,2022-23,2022-11-02,Real Madrid,Celtic FC,Local,,2.0,2.0,1.0,0.4,0.6,2.0,2022-10-25,2022-10-25
+d927de078710fa24,2022-23,2022-11-02,AC Milan,RB Salzburg,Local,,1.4,1.6,1.4,1.2,1.0,1.0,2022-10-25,2022-10-25
+41caced316738b97,2022-23,2023-02-14,AC Milan,Tottenham Hotspur,Local,,1.8,2.2,1.2,1.6,1.2,1.2,2022-11-02,2022-11-01
+d40b18144672d4d3,2022-23,2023-02-14,Paris Saint-Germain,Bayern München,Visitante,,2.2,2.8,1.2,3.0,3.2,0.4,2022-11-02,2022-11-01
+06ce67f9b220a9a3,2022-23,2023-02-15,Club Brugge KV,SL Benfica,Visitante,,1.6,1.2,0.8,2.2,2.8,1.4,2022-11-01,2022-11-02
+fd2649b2ac9f44f6,2022-23,2023-02-15,Borussia Dortmund,Chelsea FC,Local,,1.2,1.4,1.0,2.6,2.0,0.6,2022-11-02,2022-11-02
+42fc2fb342563dd1,2022-23,2023-02-21,Liverpool FC,Real Madrid,Visitante,,3.0,3.2,0.4,2.0,2.4,1.2,2022-11-01,2022-11-02
+ead681d285856aa3,2022-23,2023-02-21,Eintracht Frankfurt,SSC Napoli,Visitante,,2.0,1.4,1.0,2.4,3.2,1.0,2022-11-01,2022-11-01
+92846b481595c920,2022-23,2023-02-22,Inter,FC Porto,Local,,2.0,2.0,1.0,2.4,2.2,1.0,2022-11-01,2022-11-01
+a72796c87aa790e1,2022-23,2023-02-22,RB Leipzig,Manchester City,Empate,,2.4,2.4,1.0,2.2,2.0,0.4,2022-11-02,2022-11-02
+5a48302b94cb193c,2022-23,2023-03-07,Chelsea FC,Borussia Dortmund,Local,,2.4,1.8,0.6,1.8,1.4,0.6,2023-02-15,2023-02-15
+8bda7154ac90f6c0,2022-23,2023-03-07,SL Benfica,Club Brugge KV,Local,,2.2,2.8,1.2,1.0,0.4,1.2,2023-02-15,2023-02-15
+074d698efcc55256,2022-23,2023-03-08,Tottenham Hotspur,AC Milan,Empate,,1.6,1.2,1.0,1.8,1.8,1.0,2023-02-14,2023-02-14
+1809abee672463a9,2022-23,2023-03-08,Bayern München,Paris Saint-Germain,Local,,3.0,3.0,0.4,1.6,2.2,1.2,2023-02-14,2023-02-14
+8e5e8c81aa434e37,2022-23,2023-03-14,Manchester City,RB Leipzig,Local,,1.8,1.8,0.4,2.6,2.6,0.8,2023-02-22,2023-02-22
+f3d88bfd3bf5869d,2022-23,2023-03-14,FC Porto,Inter,Empate,,2.4,2.2,0.4,2.0,1.8,1.0,2023-02-22,2023-02-22
+b8edf55941b30bd4,2022-23,2023-03-15,SSC Napoli,Eintracht Frankfurt,Local,,2.4,3.0,1.0,1.4,1.2,1.4,2023-02-21,2023-02-21
+cb1abcc7704f59e3,2022-23,2023-03-15,Real Madrid,Liverpool FC,Local,,2.0,3.0,1.6,2.4,3.2,1.2,2023-02-21,2023-02-21
+19abc2f48327c3c5,2022-23,2023-04-11,SL Benfica,Inter,Visitante,,2.6,3.6,1.2,1.6,1.6,1.0,2023-03-07,2023-03-14
+1f0fdd2891da01f0,2022-23,2023-04-11,Manchester City,Bayern München,Local,,1.8,2.2,0.4,3.0,2.4,0.4,2023-03-14,2023-03-08
+3246b9d82b4c2d68,2022-23,2023-04-12,AC Milan,SSC Napoli,Local,,2.0,1.8,0.4,2.4,2.4,0.8,2023-03-08,2023-03-15
+55f036cf0a30cbf5,2022-23,2023-04-12,Real Madrid,Chelsea FC,Local,,2.0,2.8,1.4,2.4,1.6,0.6,2023-03-15,2023-03-07
+06156046d4fe32fb,2022-23,2023-04-18,SSC Napoli,AC Milan,Empate,,1.8,1.6,0.6,2.6,2.0,0.0,2023-04-12,2023-04-12
+6105bf944844fed8,2022-23,2023-04-18,Chelsea FC,Real Madrid,Visitante,,1.8,1.2,1.0,2.4,3.0,1.2,2023-04-12,2023-04-12
+8c6c87f2c0c8bed8,2022-23,2023-04-19,Bayern München,Manchester City,Empate,,2.4,1.6,0.6,2.2,2.8,0.4,2023-04-11,2023-04-11
+bd90ab0b1c528819,2022-23,2023-04-19,Inter,SL Benfica,Empate,,2.0,1.4,0.4,2.4,3.4,1.4,2023-04-11,2023-04-11
+815af14021dc05e7,2022-23,2023-05-09,Real Madrid,Manchester City,Empate,,3.0,3.0,0.6,2.2,3.0,0.6,2023-04-18,2023-04-19
+68994dca82931b89,2022-23,2023-05-10,AC Milan,Inter,Visitante,,2.2,1.4,0.2,1.6,1.2,1.0,2023-04-18,2023-04-19
+3ceba06177f091a6,2022-23,2023-05-16,Inter,AC Milan,Local,,2.2,1.6,0.6,1.6,0.6,0.6,2023-05-10,2023-05-10
+4323492c998085ec,2022-23,2023-05-17,Manchester City,Real Madrid,Local,,1.8,2.6,0.6,2.6,2.2,0.6,2023-05-09,2023-05-09
+c7dbad6b2d89927d,2022-23,2023-06-10,Manchester City,Inter,Local,final_sede_neutral,,,,,,,,
+3683a650cd8c1b0b,2023-24,2023-09-19,BSC Young Boys,RB Leipzig,Visitante,,0.4,1.0,2.2,2.0,2.0,2.0,2021-12-08,2023-03-14
+7100e60d68f1e425,2023-24,2023-09-19,Manchester City,Crvena Zvezda,Local,,2.2,2.0,0.4,0.6,0.6,3.4,2023-06-10,2019-12-11
+7ef1f2abf67a8054,2023-24,2023-09-19,Shakhtar Donetsk,FC Porto,Visitante,,0.6,0.8,1.8,2.0,1.8,0.4,2022-11-02,2023-03-14
+9c878d0266ae7f64,2023-24,2023-09-19,Paris Saint-Germain,Borussia Dortmund,Local,,1.4,2.0,1.4,1.2,0.6,0.8,2023-03-08,2023-03-07
+a823d70324fdee55,2023-24,2023-09-19,Lazio Roma,Atlético Madrid,Empate,,1.0,1.6,2.0,0.4,0.6,1.6,2021-03-17,2022-11-01
+efad52e2046dc710,2023-24,2023-09-19,Feyenoord,Celtic FC,Local,,0.6,1.0,2.0,0.4,0.8,2.4,2017-12-06,2022-11-02
+f1ccbd18e0dc9feb,2023-24,2023-09-19,FC Barcelona,Royal Antwerp FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f8ce6e8f9fd44e17,2023-24,2023-09-19,AC Milan,Newcastle United FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+25fd34cd8912ae61,2023-24,2023-09-20,Bayern München,Manchester United,Local,,2.0,1.2,0.8,1.2,1.2,1.0,2023-04-19,2022-03-15
+63f2766a6fa64763,2023-24,2023-09-20,Real Sociedad de Fútbol,Inter,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+648cca0948da7409,2023-24,2023-09-20,Arsenal FC,PSV Eindhoven,Local,,1.4,2.2,3.0,0.4,1.2,1.8,2017-03-07,2018-12-11
+93bd25650ad3d54b,2023-24,2023-09-20,SL Benfica,RB Salzburg,Visitante,,2.0,3.2,1.4,1.0,0.8,1.6,2023-04-19,2022-11-02
+b31569d77407f04c,2023-24,2023-09-20,Sporting Clube de Braga,SSC Napoli,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+baaa64b606f3fbbd,2023-24,2023-09-20,Galatasaray,FC København,Empate,,0.2,0.2,2.8,0.6,0.2,1.8,2019-12-11,2022-11-02
+e23e4e011710836e,2023-24,2023-09-20,Real Madrid,1. FC Union Berlin,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+ffdc9621345fb420,2023-24,2023-09-20,Sevilla FC,Racing Club de Lens,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+24ed62bff1b0d99b,2023-24,2023-10-03,PSV Eindhoven,Sevilla FC,Empate,,0.4,1.0,2.2,1.0,1.4,1.8,2023-09-20,2023-09-20
+49b2a329aad877dc,2023-24,2023-10-03,Racing Club de Lens,Arsenal FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4c98cf73ba41423d,2023-24,2023-10-03,FC København,Bayern München,Visitante,,0.6,0.6,2.2,2.0,1.6,1.4,2023-09-20,2023-09-20
+4f887a1dd407efe8,2023-24,2023-10-03,RB Salzburg,Real Sociedad de Fútbol,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+52e91fdfe0078087,2023-24,2023-10-03,1. FC Union Berlin,Sporting Clube de Braga,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+878cc8e80d2ead7f,2023-24,2023-10-03,SSC Napoli,Real Madrid,Visitante,,2.0,1.6,0.6,2.0,1.2,1.0,2023-09-20,2023-09-20
+bb2061cff9095966,2023-24,2023-10-03,Inter,SL Benfica,Local,,1.6,1.4,1.0,1.4,2.0,1.6,2023-09-20,2023-09-20
+d7287b34cbcbd7d5,2023-24,2023-10-03,Manchester United,Galatasaray,Visitante,,1.0,1.4,1.4,0.4,0.6,3.0,2023-09-20,2023-09-20
+1b9d003301b91dd3,2023-24,2023-10-04,Crvena Zvezda,BSC Young Boys,Empate,,0.0,0.2,3.8,0.4,1.2,2.6,2023-09-19,2023-09-19
+29fc09ed8370010b,2023-24,2023-10-04,Newcastle United FC,Paris Saint-Germain,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3819da085ed21aa4,2023-24,2023-10-04,Atlético Madrid,Feyenoord,Local,,0.6,0.8,1.4,1.2,1.2,1.4,2023-09-19,2023-09-19
+61c302cecbab0933,2023-24,2023-10-04,Celtic FC,Lazio Roma,Visitante,,0.2,0.6,2.6,0.6,1.2,2.0,2023-09-19,2023-09-19
+8529537592fdfeff,2023-24,2023-10-04,Borussia Dortmund,AC Milan,Empate,,1.0,0.4,1.0,1.0,0.4,0.8,2023-09-19,2023-09-19
+8b5019e247e3362a,2023-24,2023-10-04,RB Leipzig,Manchester City,Visitante,,2.0,2.2,2.2,2.2,2.0,0.6,2023-09-19,2023-09-19
+a67f2866480a2321,2023-24,2023-10-04,FC Porto,FC Barcelona,Visitante,,2.0,1.8,0.6,1.4,2.4,1.8,2023-09-19,2023-09-19
+e7ce99ef4a6fe29f,2023-24,2023-10-04,Royal Antwerp FC,Shakhtar Donetsk,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3e427f2f3c4c4533,2023-24,2023-10-24,Manchester United,FC København,Local,,0.4,1.4,2.0,0.6,0.8,1.6,2023-10-03,2023-10-03
+44ecc6750561c727,2023-24,2023-10-24,Inter,RB Salzburg,Local,,2.0,1.0,0.4,0.8,0.8,1.8,2023-10-03,2023-10-03
+45d0a6ec0ce9128e,2023-24,2023-10-24,Sporting Clube de Braga,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8c14d33d909bc531,2023-24,2023-10-24,Sevilla FC,Arsenal FC,Visitante,,1.2,1.6,1.4,1.2,2.2,2.6,2023-10-03,2023-10-03
+8dd64250e210d710,2023-24,2023-10-24,SL Benfica,Real Sociedad de Fútbol,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c5486b1f23ae73bf,2023-24,2023-10-24,Galatasaray,Bayern München,Visitante,,1.0,1.2,3.2,2.0,1.8,1.6,2023-10-03,2023-10-03
+df70245333863065,2023-24,2023-10-24,Racing Club de Lens,PSV Eindhoven,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+fca924bfc0fe4e72,2023-24,2023-10-24,1. FC Union Berlin,SSC Napoli,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1a58d4f4066a9d29,2023-24,2023-10-25,RB Leipzig,Crvena Zvezda,Local,,1.4,1.8,2.4,0.2,0.6,3.2,2023-10-04,2023-10-04
+3b4ad5f569db3101,2023-24,2023-10-25,Royal Antwerp FC,FC Porto,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4f8e43b737a96689,2023-24,2023-10-25,Newcastle United FC,Borussia Dortmund,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7653156db6cc35f2,2023-24,2023-10-25,Feyenoord,Lazio Roma,Local,,1.2,1.4,1.6,1.0,1.4,2.0,2023-10-04,2023-10-04
+b696e14dcd6c3e8c,2023-24,2023-10-25,BSC Young Boys,Manchester City,Visitante,,0.6,1.4,2.2,2.6,2.4,0.6,2023-10-04,2023-10-04
+ceee62717d3350fd,2023-24,2023-10-25,FC Barcelona,Shakhtar Donetsk,Local,,2.0,2.6,1.6,1.0,1.2,2.2,2023-10-04,2023-10-04
+d72ca8093dab3564,2023-24,2023-10-25,Paris Saint-Germain,AC Milan,Local,,1.2,1.0,1.6,0.6,0.2,0.8,2023-10-04,2023-10-04
+ee93922d12439822,2023-24,2023-10-25,Celtic FC,Atlético Madrid,Empate,,0.2,0.6,2.4,1.2,1.4,1.4,2023-10-04,2023-10-04
+101fd3c3b523b2be,2023-24,2023-11-07,Lazio Roma,Feyenoord,Local,,0.8,1.2,2.2,1.8,1.8,1.2,2023-10-25,2023-10-25
+47efde137f5c03bf,2023-24,2023-11-07,Atlético Madrid,Celtic FC,Local,,1.2,1.8,1.8,0.4,1.0,2.4,2023-10-25,2023-10-25
+4a7975f25f510617,2023-24,2023-11-07,Borussia Dortmund,Newcastle United FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+61b1bbd522249b9b,2023-24,2023-11-07,Manchester City,BSC Young Boys,Local,,3.0,2.8,0.6,0.6,1.6,2.4,2023-10-25,2023-10-25
+6bb9ed7fa905d2b1,2023-24,2023-11-07,Crvena Zvezda,RB Leipzig,Visitante,,0.2,0.8,3.0,1.4,1.6,2.6,2023-10-25,2023-10-25
+9dd40b375e0eac16,2023-24,2023-11-07,Shakhtar Donetsk,FC Barcelona,Local,,0.8,1.2,2.4,2.4,2.4,1.2,2023-10-25,2023-10-25
+a9c9f6045ae96eb1,2023-24,2023-11-07,AC Milan,Paris Saint-Germain,Local,,0.4,0.0,1.2,1.2,1.2,1.4,2023-10-25,2023-10-25
+e329710e845cebdb,2023-24,2023-11-07,FC Porto,Royal Antwerp FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+05613df76368bb11,2023-24,2023-11-08,Arsenal FC,Sevilla FC,Local,,1.2,1.8,2.6,1.0,1.6,1.6,2023-10-24,2023-10-24
+1c7996e44ad76e5f,2023-24,2023-11-08,PSV Eindhoven,Racing Club de Lens,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+396f874e25c5d71f,2023-24,2023-11-08,SSC Napoli,1. FC Union Berlin,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4dbfd10051b853d3,2023-24,2023-11-08,Real Madrid,Sporting Clube de Braga,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+6239896dad9ec55b,2023-24,2023-11-08,RB Salzburg,Inter,Visitante,,0.6,0.8,2.0,2.0,1.0,0.6,2023-10-24,2023-10-24
+67d03a27d29b8065,2023-24,2023-11-08,Real Sociedad de Fútbol,SL Benfica,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+914e85fdb9cd5a30,2023-24,2023-11-08,FC København,Manchester United,Local,,0.4,0.8,1.8,0.8,1.4,1.8,2023-10-24,2023-10-24
+ee1c083c56832d54,2023-24,2023-11-08,Bayern München,Galatasaray,Local,,2.0,2.0,1.8,1.0,1.4,2.6,2023-10-24,2023-10-24
+171f7d1e324b706b,2023-24,2023-11-28,Feyenoord,Atlético Madrid,Visitante,,1.8,1.8,1.2,1.6,2.6,1.4,2023-11-07,2023-11-07
+2d587299d970b4b2,2023-24,2023-11-28,Paris Saint-Germain,Newcastle United FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+4126647020c76395,2023-24,2023-11-28,Manchester City,RB Leipzig,Local,,3.0,2.6,0.6,1.8,1.8,2.6,2023-11-07,2023-11-07
+91baaa9c275046a5,2023-24,2023-11-28,FC Barcelona,FC Porto,Local,,2.4,2.4,0.8,2.0,1.8,0.6,2023-11-07,2023-11-07
+ab5d8ec9eb3cbca9,2023-24,2023-11-28,Shakhtar Donetsk,Royal Antwerp FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+dc281fecff3f869e,2023-24,2023-11-28,AC Milan,Borussia Dortmund,Visitante,,1.0,0.4,1.0,1.4,0.6,0.8,2023-11-07,2023-11-07
+df76d74e3b86c8c8,2023-24,2023-11-28,BSC Young Boys,Crvena Zvezda,Local,,0.4,1.0,2.4,0.2,1.0,2.2,2023-11-07,2023-11-07
+fcb96f875c6c4e61,2023-24,2023-11-28,Lazio Roma,Celtic FC,Local,,1.4,1.2,1.4,0.2,0.8,3.4,2023-11-07,2023-11-07
+105cfba413810cce,2023-24,2023-11-29,Real Madrid,SSC Napoli,Local,,2.4,1.8,1.4,1.6,1.4,1.2,2023-11-08,2023-11-08
+1499d9ba4541d138,2023-24,2023-11-29,Arsenal FC,Racing Club de Lens,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+296b4bded1552382,2023-24,2023-11-29,Real Sociedad de Fútbol,RB Salzburg,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+2b11a54cec0d0e57,2023-24,2023-11-29,SL Benfica,Inter,Empate,,0.2,0.8,2.0,2.0,1.0,0.6,2023-11-08,2023-11-08
+9d85c67c8ff7b117,2023-24,2023-11-29,Galatasaray,Manchester United,Empate,,0.8,1.4,2.8,0.6,1.8,2.4,2023-11-08,2023-11-08
+bab2660c9e850984,2023-24,2023-11-29,Bayern München,FC København,Empate,,2.6,2.4,1.4,1.0,1.6,1.8,2023-11-08,2023-11-08
+c18cc03d607df2e3,2023-24,2023-11-29,Sporting Clube de Braga,1. FC Union Berlin,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c9f97e6e1d9bd00d,2023-24,2023-11-29,Sevilla FC,PSV Eindhoven,Visitante,,0.4,1.0,2.0,1.2,1.0,1.6,2023-11-08,2023-11-08
+584bb8801984d6f8,2023-24,2023-12-12,1. FC Union Berlin,Real Madrid,Visitante,,0.4,0.8,1.4,3.0,2.6,1.0,2023-11-29,2023-11-29
+82b44e1d8295b524,2023-24,2023-12-12,SSC Napoli,Sporting Clube de Braga,Local,,1.4,1.6,1.8,0.8,1.2,2.0,2023-11-29,2023-11-29
+84df51a8c1799ffd,2023-24,2023-12-12,Racing Club de Lens,Sevilla FC,Local,,1.0,0.8,2.0,0.4,1.2,2.0,2023-11-29,2023-11-29
+a2cf6967ce1b6164,2023-24,2023-12-12,PSV Eindhoven,Arsenal FC,Empate,,1.6,1.4,1.8,2.4,3.0,0.6,2023-11-29,2023-11-29
+b63baef2a8eb49ad,2023-24,2023-12-12,Manchester United,Bayern München,Visitante,,0.8,2.4,2.8,2.6,2.2,1.2,2023-11-29,2023-11-29
+d29edf05abfb65c3,2023-24,2023-12-12,RB Salzburg,SL Benfica,Visitante,,0.8,0.6,1.0,0.2,0.8,2.0,2023-11-29,2023-11-29
+d7a2d05b9a86e583,2023-24,2023-12-12,FC København,Galatasaray,Local,,1.0,1.4,1.6,1.0,2.0,2.4,2023-11-29,2023-11-29
+dae63ec655d1f348,2023-24,2023-12-12,Inter,Real Sociedad de Fútbol,Empate,,2.2,1.6,1.0,2.2,1.4,0.4,2023-11-29,2023-11-29
+351884758e9fb00d,2023-24,2023-12-13,Newcastle United FC,AC Milan,Visitante,,1.0,1.0,1.0,1.0,0.6,1.4,2023-11-28,2023-11-28
+3dab88018f7e85bc,2023-24,2023-12-13,Borussia Dortmund,Paris Saint-Germain,Empate,,2.0,1.2,0.6,1.4,1.6,1.4,2023-11-28,2023-11-28
+506e6fa6d2b30445,2023-24,2023-12-13,Atlético Madrid,Lazio Roma,Local,,2.2,3.0,1.2,2.0,1.4,1.0,2023-11-28,2023-11-28
+80b325cdfea0e7c7,2023-24,2023-12-13,FC Porto,Shakhtar Donetsk,Local,,1.8,2.0,1.0,1.8,1.4,1.4,2023-11-28,2023-11-28
+80fc3502a40fe7c4,2023-24,2023-12-13,RB Leipzig,BSC Young Boys,Local,,1.8,2.2,1.8,0.8,1.2,2.2,2023-11-28,2023-11-28
+8b9b3e19b06dfa85,2023-24,2023-12-13,Celtic FC,Feyenoord,Local,,0.2,0.6,2.8,1.2,1.6,1.6,2023-11-28,2023-11-28
+9e2787c0dc33d4f3,2023-24,2023-12-13,Royal Antwerp FC,FC Barcelona,Local,,0.0,0.6,3.0,2.4,2.0,0.6,2023-11-28,2023-11-28
+a76c10f31784f38a,2023-24,2023-12-13,Crvena Zvezda,Manchester City,Visitante,,0.2,1.0,2.4,3.0,3.0,1.0,2023-11-28,2023-11-28
+2c3009d112cfa4bc,2023-24,2024-02-13,FC København,Manchester City,Visitante,,1.4,1.2,1.2,3.0,3.0,1.2,2023-12-12,2023-12-13
+93686ac72cd31c8f,2023-24,2024-02-13,RB Leipzig,Real Madrid,Visitante,,1.8,2.0,1.8,3.0,3.0,1.4,2023-12-13,2023-12-12
+53227e7d826e0604,2023-24,2024-02-14,Lazio Roma,Bayern München,Local,,1.8,1.2,1.2,2.6,1.6,0.6,2023-12-13,2023-12-12
+b84c5ade963ab4fe,2023-24,2024-02-14,Paris Saint-Germain,Real Sociedad de Fútbol,Local,,1.0,1.4,1.6,2.2,1.2,0.2,2023-12-13,2023-12-12
+60f56ad7837edaf5,2023-24,2024-02-20,PSV Eindhoven,Borussia Dortmund,Empate,,1.8,1.6,1.2,2.2,1.4,0.4,2023-12-12,2023-12-13
+aca2451e12958fac,2023-24,2024-02-20,Inter,Atlético Madrid,Local,,2.2,1.4,0.8,2.6,3.2,1.0,2023-12-12,2023-12-13
+982b8265ff62c008,2023-24,2024-02-21,SSC Napoli,FC Barcelona,Empate,,1.4,1.6,1.6,1.8,1.4,1.2,2023-12-12,2023-12-13
+9aa3283c523aee25,2023-24,2024-02-21,FC Porto,Arsenal FC,Local,,1.8,2.4,1.4,2.0,2.4,0.8,2023-12-13,2023-12-12
+6e457522a5ee2db8,2023-24,2024-03-05,Real Sociedad de Fútbol,Paris Saint-Germain,Visitante,,1.6,0.8,0.6,1.6,1.6,0.8,2024-02-14,2024-02-14
+c7d09df0265ea440,2023-24,2024-03-05,Bayern München,Lazio Roma,Local,,2.0,1.2,0.6,1.8,1.0,1.0,2024-02-14,2024-02-14
+25c6d6b647b67f2c,2023-24,2024-03-06,Real Madrid,RB Leipzig,Empate,,3.0,2.6,1.0,1.8,1.8,1.4,2024-02-13,2024-02-13
+a4b732d59391b766,2023-24,2024-03-06,Manchester City,FC København,Local,,3.0,3.0,1.2,1.4,1.2,1.4,2024-02-13,2024-02-13
+677f7633737f86bd,2023-24,2024-03-12,Arsenal FC,FC Porto,Local,,2.0,2.2,0.6,2.4,2.6,1.2,2024-02-21,2024-02-21
+97ff0650487719f9,2023-24,2024-03-12,FC Barcelona,SSC Napoli,Local,,1.4,1.4,1.4,1.6,1.4,1.2,2024-02-21,2024-02-21
+589b2c433d07fb24,2023-24,2024-03-13,Borussia Dortmund,PSV Eindhoven,Local,,2.2,1.6,0.6,1.8,1.4,1.0,2024-02-20,2024-02-20
+94352666a7fabad6,2023-24,2024-03-13,Atlético Madrid,Inter,Local,,2.0,2.6,0.8,2.2,1.4,0.8,2024-02-20,2024-02-20
+18550587edde402c,2023-24,2024-04-09,Real Madrid,Manchester City,Empate,,2.6,2.4,1.0,3.0,3.0,1.2,2024-03-06,2024-03-06
+d7637e4807a98ab8,2023-24,2024-04-09,Arsenal FC,Bayern München,Empate,,2.0,2.0,0.4,2.0,1.2,0.4,2024-03-12,2024-03-05
+0a698558f08020ee,2023-24,2024-04-10,Paris Saint-Germain,FC Barcelona,Visitante,,1.6,1.4,1.0,1.4,1.6,1.4,2024-03-05,2024-03-12
+6c5a024b723e049c,2023-24,2024-04-10,Atlético Madrid,Borussia Dortmund,Local,,2.4,2.6,0.6,2.2,1.8,0.6,2024-03-13,2024-03-13
+b006e8ecdeb8b82b,2023-24,2024-04-16,Borussia Dortmund,Atlético Madrid,Local,,1.6,1.6,1.0,2.4,1.8,0.8,2024-04-10,2024-04-10
+bcf83d9b5fc20dd3,2023-24,2024-04-16,FC Barcelona,Paris Saint-Germain,Visitante,,2.0,2.2,1.6,1.6,1.6,1.2,2024-04-10,2024-04-10
+99c3c2ae6373b7af,2023-24,2024-04-17,Manchester City,Real Madrid,Empate,,2.6,3.0,1.8,2.2,2.4,1.6,2024-04-09,2024-04-09
+ba194daf4d152d00,2023-24,2024-04-17,Bayern München,Arsenal FC,Local,,1.6,1.2,0.6,1.6,2.0,0.8,2024-04-09,2024-04-09
+5a358036e54a7b73,2023-24,2024-04-30,Bayern München,Real Madrid,Empate,,2.0,1.4,0.6,1.8,1.8,1.4,2024-04-17,2024-04-17
+d0267aa2a844b004,2023-24,2024-05-01,Borussia Dortmund,Paris Saint-Germain,Local,,1.6,1.8,1.2,2.0,2.2,1.2,2024-04-16,2024-04-16
+01595db1c37ae305,2023-24,2024-05-07,Paris Saint-Germain,Borussia Dortmund,Visitante,,1.8,2.0,1.2,2.0,1.8,1.0,2024-05-01,2024-05-01
+9ae38d4344db5418,2023-24,2024-05-08,Real Madrid,Bayern München,Local,,1.4,1.6,1.4,1.6,1.6,1.0,2024-04-30,2024-04-30
+d105cab37b010621,2023-24,2024-06-01,Borussia Dortmund,Real Madrid,Visitante,final_sede_neutral,,,,,,,,
+50e1e0145042d58b,2024-25,2024-09-17,Sporting CP,Lille OSC,Local,,0.8,1.0,1.8,1.8,1.4,1.2,2022-11-01,2022-03-16
+7d844f75c3c30d18,2024-25,2024-09-17,Real Madrid,VfB Stuttgart,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+80c86e28f8c1bc40,2024-25,2024-09-17,Juventus,PSV Eindhoven,Local,,0.6,1.6,2.2,1.6,1.2,1.2,2022-11-02,2024-03-13
+958714d3c1f54f8f,2024-25,2024-09-17,Bayern München,Dinamo Zagreb,Local,,1.6,1.8,1.2,0.2,0.6,2.2,2024-05-08,2022-11-02
+9744a7acf03b3c8c,2024-25,2024-09-17,BSC Young Boys,Aston Villa FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+98e7510f90ed0527,2024-25,2024-09-17,AC Milan,Liverpool FC,Visitante,,1.4,1.0,1.6,1.8,2.8,1.4,2023-12-13,2023-03-15
+79a829c9504abd33,2024-25,2024-09-18,Celtic FC,ŠK Slovan Bratislava,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7ff5fbca5131ba3f,2024-25,2024-09-18,Paris Saint-Germain,Girona FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+84a8d88fea11bb59,2024-25,2024-09-18,AC Sparta Praha,RB Salzburg,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b95be258c5105e35,2024-25,2024-09-18,Manchester City,Inter,Empate,,2.2,2.6,1.6,1.6,1.2,1.0,2024-04-17,2024-03-13
+c04015643482f7de,2024-25,2024-09-18,Club Brugge KV,Borussia Dortmund,Visitante,,0.4,0.2,2.2,1.8,1.4,1.2,2023-03-07,2024-06-01
+d39e3bd64338282b,2024-25,2024-09-18,Bologna FC 1909,Shakhtar Donetsk,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0b889c44721ccb6a,2024-25,2024-09-19,Atlético Madrid,RB Leipzig,Local,,1.8,1.6,1.4,1.4,1.4,1.4,2024-04-16,2024-03-06
+0c707ebe1f3a7414,2024-25,2024-09-19,Crvena Zvezda,SL Benfica,Visitante,,0.2,1.2,2.4,0.8,1.4,1.8,2023-12-13,2023-12-12
+5e1f96a552ed3a07,2024-25,2024-09-19,AS Monaco,FC Barcelona,Local,,0.2,0.2,2.4,1.4,2.0,2.2,2018-12-11,2024-04-16
+7aac0297ae16fcf3,2024-25,2024-09-19,Stade Brestois 29,SK Sturm Graz,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8a0cb735b3545657,2024-25,2024-09-19,Feyenoord,Bayer Leverkusen,Visitante,,0.6,1.4,2.0,1.0,0.8,1.4,2023-12-13,2022-11-01
+8a256b1c6bc9358f,2024-25,2024-09-19,Atalanta,Arsenal FC,Empate,,1.0,2.0,2.2,1.0,0.8,1.0,2021-12-09,2024-04-17
+45233dd260a64d8b,2024-25,2024-10-01,Bayer Leverkusen,AC Milan,Local,,1.0,1.2,1.4,1.2,1.2,2.2,2024-09-19,2024-09-17
+4f19b22ae6e27b9f,2024-25,2024-10-01,FC Barcelona,BSC Young Boys,Local,,1.4,1.8,2.0,0.6,0.8,2.2,2024-09-19,2024-09-17
+8197abaefcfc0bad,2024-25,2024-10-01,RB Salzburg,Stade Brestois 29,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c0dbfa11ca350123,2024-25,2024-10-01,Inter,Crvena Zvezda,Local,,1.2,1.0,1.0,0.0,1.0,2.4,2024-09-18,2024-09-19
+d8418efe00869fff,2024-25,2024-10-01,ŠK Slovan Bratislava,Manchester City,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+dc8217003fc0b9a3,2024-25,2024-10-01,PSV Eindhoven,Sporting CP,Empate,,1.0,1.2,1.8,0.8,1.0,1.8,2024-09-17,2024-09-17
+dd547ded2ee1f5b2,2024-25,2024-10-01,Arsenal FC,Paris Saint-Germain,Local,,1.0,0.6,0.8,1.2,1.4,1.2,2024-09-19,2024-09-18
+e0b188e525709140,2024-25,2024-10-01,VfB Stuttgart,AC Sparta Praha,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+edfce2804e0d0709,2024-25,2024-10-01,Borussia Dortmund,Celtic FC,Local,,2.4,1.8,0.8,1.4,1.8,2.4,2024-09-18,2024-09-18
+0afc1b6867615ff0,2024-25,2024-10-02,RB Leipzig,Juventus,Visitante,,0.8,1.2,1.6,1.2,2.0,2.0,2024-09-19,2024-09-17
+13ced330f183bee9,2024-25,2024-10-02,Liverpool FC,Bologna FC 1909,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+56e23f3a6225d5db,2024-25,2024-10-02,Dinamo Zagreb,AS Monaco,Empate,,0.2,0.8,3.4,0.8,0.6,2.0,2024-09-17,2024-09-19
+6eb1ac9c4fb2f61e,2024-25,2024-10-02,Aston Villa FC,Bayern München,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+70137b75638533f4,2024-25,2024-10-02,Shakhtar Donetsk,Atalanta,Visitante,,1.4,1.2,1.4,0.6,1.8,2.2,2024-09-18,2024-09-19
+8fdccfb7bb4572c1,2024-25,2024-10-02,Lille OSC,Real Madrid,Local,,1.2,1.0,1.4,2.2,2.0,1.0,2024-09-17,2024-09-17
+a02cb8463678a7b6,2024-25,2024-10-02,SL Benfica,Atlético Madrid,Local,,1.4,1.8,1.8,1.8,1.6,1.6,2024-09-19,2024-09-19
+a885856d97131ad4,2024-25,2024-10-02,Girona FC,Feyenoord,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f84c7a6122610368,2024-25,2024-10-02,SK Sturm Graz,Club Brugge KV,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3e9073297dae6c0b,2024-25,2024-10-22,Aston Villa FC,Bologna FC 1909,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+410da2d6da6f0e60,2024-25,2024-10-22,Paris Saint-Germain,PSV Eindhoven,Empate,,1.2,1.0,1.0,0.6,0.8,1.6,2024-10-01,2024-10-01
+5164706ba3dcec76,2024-25,2024-10-22,AS Monaco,Crvena Zvezda,Local,,0.8,0.8,2.2,0.0,0.8,2.6,2024-10-02,2024-10-01
+579cb713bda74f04,2024-25,2024-10-22,AC Milan,Club Brugge KV,Local,,1.2,1.2,1.8,0.8,0.4,2.0,2024-10-01,2024-10-02
+7d325b6c4504562c,2024-25,2024-10-22,SK Sturm Graz,Sporting CP,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9c870b8cde171d48,2024-25,2024-10-22,Girona FC,ŠK Slovan Bratislava,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9d54f1fd4f0ea822,2024-25,2024-10-22,Juventus,VfB Stuttgart,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f2a5d6a6fca86bbb,2024-25,2024-10-22,Real Madrid,Borussia Dortmund,Local,,2.0,1.8,1.0,2.4,2.4,0.6,2024-10-02,2024-10-01
+f9ad5c13db155523,2024-25,2024-10-22,Arsenal FC,Shakhtar Donetsk,Local,,1.6,1.0,0.6,1.4,1.0,1.6,2024-10-01,2024-10-02
+13d06fed3f84914a,2024-25,2024-10-23,FC Barcelona,Bayern München,Local,,1.8,2.6,1.8,1.4,2.6,1.4,2024-10-01,2024-10-02
+324ebe4b2539cb6a,2024-25,2024-10-23,Manchester City,AC Sparta Praha,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+36de6dff98d79a14,2024-25,2024-10-23,RB Salzburg,Dinamo Zagreb,Visitante,,0.2,0.2,2.2,0.4,1.2,3.6,2024-10-01,2024-10-02
+4fa1b64e5ff3b03c,2024-25,2024-10-23,SL Benfica,Feyenoord,Visitante,,2.0,2.6,1.6,0.6,1.0,2.4,2024-10-02,2024-10-02
+abdc876967f84ad8,2024-25,2024-10-23,RB Leipzig,Liverpool FC,Visitante,,0.8,1.2,1.6,1.8,1.8,1.4,2024-10-02,2024-10-02
+b1b1447695ad7e91,2024-25,2024-10-23,Atalanta,Celtic FC,Empate,,1.2,2.0,1.6,1.2,1.6,3.4,2024-10-02,2024-10-01
+b53e30e060974176,2024-25,2024-10-23,Stade Brestois 29,Bayer Leverkusen,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c6bb5af328231db9,2024-25,2024-10-23,Atlético Madrid,Lille OSC,Visitante,,1.8,1.6,2.2,1.2,1.0,1.4,2024-10-02,2024-10-02
+e7c882cd81439620,2024-25,2024-10-23,BSC Young Boys,Inter,Visitante,,0.6,0.6,2.6,1.6,1.2,0.4,2024-10-01,2024-10-01
+0236792ab13ed7a7,2024-25,2024-11-05,Lille OSC,Juventus,Empate,,1.2,1.0,1.4,1.2,2.0,2.0,2024-10-23,2024-10-22
+32a8eb1e16038272,2024-25,2024-11-05,Celtic FC,RB Leipzig,Local,,1.4,1.6,2.2,0.2,0.8,1.6,2024-10-23,2024-10-23
+475a1dfe320cfec0,2024-25,2024-11-05,Real Madrid,AC Milan,Visitante,,2.4,2.4,1.0,1.2,1.4,1.8,2024-10-22,2024-10-22
+693d2e0df31849fd,2024-25,2024-11-05,PSV Eindhoven,Girona FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+91098e1c2ca0b5ac,2024-25,2024-11-05,Liverpool FC,Bayer Leverkusen,Local,,1.8,1.6,1.4,1.8,1.6,0.6,2024-10-23,2024-10-23
+a69ac08b817a2e3b,2024-25,2024-11-05,Bologna FC 1909,AS Monaco,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c24dfaf3ad63f837,2024-25,2024-11-05,ŠK Slovan Bratislava,Dinamo Zagreb,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c40cb81e539af444,2024-25,2024-11-05,Sporting CP,Manchester City,Local,,1.6,1.4,0.8,1.8,2.6,0.8,2024-10-22,2024-10-23
+e6fe51fb54e53b90,2024-25,2024-11-05,Borussia Dortmund,SK Sturm Graz,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0ec491f1ebc151a7,2024-25,2024-11-06,Bayern München,SL Benfica,Local,,0.8,2.6,2.2,2.0,2.6,1.6,2024-10-23,2024-10-23
+108156af168bed3d,2024-25,2024-11-06,Paris Saint-Germain,Atlético Madrid,Visitante,,0.8,0.4,1.0,1.2,1.4,2.6,2024-10-22,2024-10-23
+1258338b1b22449e,2024-25,2024-11-06,Inter,Arsenal FC,Local,,2.0,1.4,0.4,1.6,1.0,0.6,2024-10-23,2024-10-22
+29e8d493c457582f,2024-25,2024-11-06,Crvena Zvezda,FC Barcelona,Visitante,,0.0,0.8,3.2,1.8,2.8,1.8,2024-10-22,2024-10-23
+6716db6152a958bd,2024-25,2024-11-06,Shakhtar Donetsk,BSC Young Boys,Local,,0.8,0.8,1.8,0.6,0.6,2.2,2024-10-22,2024-10-23
+9514ecdd733ce1ae,2024-25,2024-11-06,Club Brugge KV,Aston Villa FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9987f60790be4b8e,2024-25,2024-11-06,VfB Stuttgart,Atalanta,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c954d62ca2b3bd2c,2024-25,2024-11-06,AC Sparta Praha,Stade Brestois 29,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f25d9ed6a0dae2db,2024-25,2024-11-06,Feyenoord,RB Salzburg,Visitante,,1.2,1.6,2.4,0.2,0.2,2.4,2024-10-23,2024-10-23
+2730d01dc6027e50,2024-25,2024-11-26,FC Barcelona,Stade Brestois 29,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+3429b3056c1fd7ec,2024-25,2024-11-26,Manchester City,Feyenoord,Empate,,1.6,2.2,1.0,1.2,1.6,2.4,2024-11-05,2024-11-06
+81e4507d10c9e3a3,2024-25,2024-11-26,AC Sparta Praha,Atlético Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+94e4e7a39ccdb315,2024-25,2024-11-26,Bayer Leverkusen,RB Salzburg,Local,,1.6,1.2,1.0,0.6,0.8,2.6,2024-11-05,2024-11-06
+9c49b83fa8bf009f,2024-25,2024-11-26,Inter,RB Leipzig,Local,,2.0,1.4,0.4,0.2,1.0,2.0,2024-11-06,2024-11-05
+b08776dc72316062,2024-25,2024-11-26,Sporting CP,Arsenal FC,Visitante,,2.0,2.0,0.8,1.4,0.6,0.4,2024-11-05,2024-11-06
+bd04d816d38d204e,2024-25,2024-11-26,BSC Young Boys,Atalanta,Visitante,,0.0,0.4,2.6,1.6,1.4,0.6,2024-11-06,2024-11-06
+c44b72aa569c9f1b,2024-25,2024-11-26,Bayern München,Paris Saint-Germain,Local,,1.2,2.4,1.8,0.8,0.6,1.2,2024-11-06,2024-11-06
+cfee3b06a0dc3dfc,2024-25,2024-11-26,ŠK Slovan Bratislava,AC Milan,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0349b43ca054f4f6,2024-25,2024-11-27,Aston Villa FC,Juventus,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0594bcd2304605aa,2024-25,2024-11-27,PSV Eindhoven,Shakhtar Donetsk,Local,,1.0,1.4,1.4,0.8,1.0,2.0,2024-11-05,2024-11-06
+14a5dfa7c4808756,2024-25,2024-11-27,Liverpool FC,Real Madrid,Local,,2.4,2.0,0.4,1.8,2.2,1.4,2024-11-05,2024-11-05
+428807418dfc02fb,2024-25,2024-11-27,Celtic FC,Club Brugge KV,Empate,,2.0,2.2,2.0,1.2,0.8,2.2,2024-11-05,2024-11-06
+d92b059baf2134a4,2024-25,2024-11-27,AS Monaco,SL Benfica,Visitante,,2.0,2.0,1.2,1.8,2.0,1.2,2024-11-05,2024-11-06
+de3bf09933f70a9f,2024-25,2024-11-27,SK Sturm Graz,Girona FC,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e35c080897ece67c,2024-25,2024-11-27,Crvena Zvezda,VfB Stuttgart,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+e9c2c42084651f0f,2024-25,2024-11-27,Dinamo Zagreb,Borussia Dortmund,Visitante,,1.4,2.2,2.8,1.8,2.6,1.6,2024-11-05,2024-11-05
+f5b887fcde72229b,2024-25,2024-11-27,Bologna FC 1909,Lille OSC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+0a20d0a8f9572e0f,2024-25,2024-12-10,Atalanta,Real Madrid,Visitante,,2.2,2.2,0.2,1.2,1.8,1.8,2024-11-26,2024-11-27
+35dad5c5d0d856de,2024-25,2024-12-10,RB Leipzig,Aston Villa FC,Visitante,,0.0,0.8,2.0,2.0,1.2,0.2,2024-11-26,2024-11-27
+45702d33f85383c5,2024-25,2024-12-10,Club Brugge KV,Sporting CP,Local,,1.4,0.8,1.4,2.0,2.0,1.4,2024-11-27,2024-11-26
+4b0ce1cf5ad82e9a,2024-25,2024-12-10,Stade Brestois 29,PSV Eindhoven,Local,,2.0,1.8,1.2,1.6,2.0,1.4,2024-11-26,2024-11-27
+4c8b47b44c6bc542,2024-25,2024-12-10,Bayer Leverkusen,Inter,Local,,2.0,2.2,1.0,2.6,1.4,0.0,2024-11-26,2024-11-26
+62740c0b5d79c553,2024-25,2024-12-10,RB Salzburg,Paris Saint-Germain,Visitante,,0.6,0.6,3.0,0.8,0.6,1.2,2024-11-26,2024-11-26
+6a8b524e27718d38,2024-25,2024-12-10,Shakhtar Donetsk,Bayern München,Visitante,,0.8,0.8,1.6,1.8,2.4,1.4,2024-11-27,2024-11-26
+98d2bad25e96e360,2024-25,2024-12-10,Dinamo Zagreb,Celtic FC,Empate,,1.4,2.0,3.0,1.6,2.0,2.0,2024-11-27,2024-11-27
+aebadce11329e245,2024-25,2024-12-10,Girona FC,Liverpool FC,Visitante,,0.6,0.8,1.8,3.0,2.4,0.2,2024-11-27,2024-11-27
+2fdccdb40a3184ff,2024-25,2024-12-11,Feyenoord,AC Sparta Praha,Local,,1.4,2.0,2.6,0.8,1.0,2.8,2024-11-26,2024-11-26
+37259fb695dc443e,2024-25,2024-12-11,Lille OSC,SK Sturm Graz,Local,,2.0,1.4,1.0,0.6,0.4,1.2,2024-11-27,2024-11-27
+5826d6118dcd30f6,2024-25,2024-12-11,VfB Stuttgart,BSC Young Boys,Local,,0.8,0.8,2.2,0.0,0.4,3.4,2024-11-27,2024-11-26
+822b79791ad7e007,2024-25,2024-12-11,Arsenal FC,AS Monaco,Local,,2.0,1.6,0.4,2.0,2.4,1.4,2024-11-26,2024-11-27
+8a7834c6227fbe56,2024-25,2024-12-11,Borussia Dortmund,FC Barcelona,Visitante,,2.4,3.2,1.2,2.4,3.6,1.0,2024-11-27,2024-11-26
+a0327f65a590a5fb,2024-25,2024-12-11,SL Benfica,Bologna FC 1909,Empate,,1.8,2.0,1.4,0.2,0.2,1.4,2024-11-27,2024-11-27
+a0e35d104b3ac078,2024-25,2024-12-11,Juventus,Manchester City,Local,,1.6,1.4,1.0,1.6,2.6,1.4,2024-11-27,2024-11-26
+bda257e27f2529c9,2024-25,2024-12-11,Atlético Madrid,ŠK Slovan Bratislava,Local,,1.8,2.2,1.8,0.0,0.8,3.6,2024-11-26,2024-11-26
+e690694be35e1d58,2024-25,2024-12-11,AC Milan,Crvena Zvezda,Local,,1.8,2.0,1.6,0.6,1.8,3.4,2024-11-26,2024-11-27
+02f987c1143a959e,2024-25,2025-01-21,Liverpool FC,Lille OSC,Local,,3.0,2.0,0.0,2.6,2.0,1.0,2024-12-10,2024-12-11
+0ea96722f2a54e41,2024-25,2025-01-21,ŠK Slovan Bratislava,VfB Stuttgart,Visitante,,0.0,0.8,3.2,1.4,1.6,1.8,2024-12-11,2024-12-11
+1969c1be67ac5ec7,2024-25,2025-01-21,SL Benfica,FC Barcelona,Visitante,,1.4,1.6,1.2,3.0,4.0,1.0,2024-12-11,2024-12-11
+2190cd6bfb63ce6d,2024-25,2025-01-21,Crvena Zvezda,PSV Eindhoven,Visitante,,0.6,1.8,3.4,1.6,1.8,1.0,2024-12-11,2024-12-10
+311bd1170fe7ccff,2024-25,2025-01-21,Club Brugge KV,Juventus,Empate,,2.0,1.2,1.0,1.6,1.2,0.8,2024-12-10,2024-12-11
+63216e1d30b36f4a,2024-25,2025-01-21,Bologna FC 1909,Borussia Dortmund,Local,,0.2,0.2,1.4,1.8,3.0,1.8,2024-12-11,2024-12-11
+93838586baa02d51,2024-25,2025-01-21,Atalanta,SK Sturm Graz,Local,,2.0,2.6,0.8,0.6,0.6,1.4,2024-12-10,2024-12-11
+d98a98a8fd3128ee,2024-25,2025-01-21,Atlético Madrid,Bayer Leverkusen,Local,,1.8,2.4,1.8,2.0,1.6,1.0,2024-12-11,2024-12-10
+e08e66b18cfd64f6,2024-25,2025-01-21,AS Monaco,Aston Villa FC,Local,,1.4,2.0,1.8,2.0,1.2,0.6,2024-12-11,2024-12-10
+0172bcfb895803ce,2024-25,2025-01-22,RB Leipzig,Sporting CP,Local,,0.0,1.0,2.2,1.4,1.8,1.8,2024-12-10,2024-12-10
+1472e48cb8a5b862,2024-25,2025-01-22,AC Milan,Girona FC,Local,,2.4,2.2,1.2,0.6,0.8,1.8,2024-12-11,2024-12-10
+443f959ac3704136,2024-25,2025-01-22,Shakhtar Donetsk,Stade Brestois 29,Local,,0.6,1.0,2.6,2.0,1.6,1.0,2024-12-10,2024-12-10
+81262239560252ad,2024-25,2025-01-22,Real Madrid,RB Salzburg,Local,,1.2,1.8,2.0,0.6,0.6,3.0,2024-12-10,2024-12-10
+90d337d26e316e80,2024-25,2025-01-22,Celtic FC,BSC Young Boys,Local,,1.2,1.0,1.8,0.0,0.6,3.8,2024-12-10,2024-12-11
+dabfe15b53b5289c,2024-25,2025-01-22,AC Sparta Praha,Inter,Visitante,,0.2,0.8,3.6,2.4,1.4,0.2,2024-12-11,2024-12-10
+e41316460e1693e1,2024-25,2025-01-22,Paris Saint-Germain,Manchester City,Local,,0.8,1.0,1.2,1.4,2.6,1.8,2024-12-10,2024-12-11
+f286f1f096cc14cb,2024-25,2025-01-22,Arsenal FC,Dinamo Zagreb,Local,,2.4,2.2,0.4,1.6,1.6,1.2,2024-12-11,2024-12-10
+fd6d624fd0c626de,2024-25,2025-01-22,Feyenoord,Bayern München,Local,,2.0,2.8,2.2,1.8,1.6,1.2,2024-12-11,2024-12-10
+0aa26f6ff6d44c58,2024-25,2025-01-29,Borussia Dortmund,Shakhtar Donetsk,Local,,1.2,1.8,2.0,1.2,1.4,2.0,2025-01-21,2025-01-22
+0e41d1430820887b,2024-25,2025-01-29,Dinamo Zagreb,AC Milan,Local,,1.4,1.2,1.4,3.0,2.4,1.0,2025-01-22,2025-01-22
+1b1113610f4d588a,2024-25,2025-01-29,Bayern München,ŠK Slovan Bratislava,Local,,1.8,1.6,1.6,0.0,1.0,3.0,2025-01-22,2025-01-21
+27a3eec4a0ec87ba,2024-25,2025-01-29,Juventus,SL Benfica,Visitante,,1.2,0.6,0.4,0.8,1.6,2.2,2025-01-21,2025-01-21
+2f0a156d9f23dd13,2024-25,2025-01-29,SK Sturm Graz,RB Leipzig,Local,,0.6,0.6,2.2,0.6,1.0,1.8,2025-01-21,2025-01-22
+4621f853e8c58c6c,2024-25,2025-01-29,Girona FC,Arsenal FC,Visitante,,0.6,0.4,1.4,2.4,2.4,0.4,2025-01-22,2025-01-22
+4a13c10494cd551a,2024-25,2025-01-29,Inter,AS Monaco,Local,,2.4,0.8,0.2,1.8,1.8,1.4,2025-01-22,2025-01-21
+59c8cf0091162d5f,2024-25,2025-01-29,Aston Villa FC,Celtic FC,Local,,1.4,1.0,0.8,1.8,1.0,0.4,2025-01-21,2025-01-22
+5df832d71eea2042,2024-25,2025-01-29,FC Barcelona,Atalanta,Empate,,3.0,4.0,1.8,2.0,3.0,0.8,2025-01-21,2025-01-21
+67e5e0f1a83b548d,2024-25,2025-01-29,Bayer Leverkusen,AC Sparta Praha,Local,,1.4,1.6,1.4,0.0,0.6,3.6,2025-01-21,2025-01-22
+6c19f09b14a0d21a,2024-25,2025-01-29,Sporting CP,Bologna FC 1909,Empate,,1.2,1.8,2.0,0.8,0.6,1.2,2025-01-22,2025-01-21
+8c691c2a65af9613,2024-25,2025-01-29,BSC Young Boys,Crvena Zvezda,Visitante,,0.0,0.6,3.0,0.6,2.2,3.2,2025-01-22,2025-01-21
+9fc6af27e4831c4f,2024-25,2025-01-29,Lille OSC,Feyenoord,Local,,2.0,2.0,1.4,2.0,2.8,1.8,2025-01-21,2025-01-22
+a46a6a981fd3d6f6,2024-25,2025-01-29,Manchester City,Club Brugge KV,Local,,0.8,2.2,2.6,1.6,1.0,1.0,2025-01-22,2025-01-21
+b574201422683056,2024-25,2025-01-29,RB Salzburg,Atlético Madrid,Visitante,,0.6,0.8,3.2,2.4,2.8,1.2,2025-01-22,2025-01-21
+c10fc51de62827c3,2024-25,2025-01-29,PSV Eindhoven,Liverpool FC,Local,,2.0,2.2,1.2,3.0,2.0,0.2,2025-01-21,2025-01-21
+de225bc2da6270e1,2024-25,2025-01-29,Stade Brestois 29,Real Madrid,Visitante,,1.4,0.8,1.4,1.8,2.8,2.0,2025-01-22,2025-01-22
+f1dfa7909c581da5,2024-25,2025-01-29,VfB Stuttgart,Paris Saint-Germain,Visitante,,1.8,2.0,1.8,1.4,1.8,1.2,2025-01-21,2025-01-22
+6338b127ad78cd30,2024-25,2025-02-11,Juventus,PSV Eindhoven,Local,,1.2,0.6,0.6,2.4,2.6,1.4,2025-01-29,2025-01-29
+9425267d9959d653,2024-25,2025-02-11,Sporting CP,Borussia Dortmund,Visitante,,0.8,1.6,2.2,1.8,2.0,1.2,2025-01-29,2025-01-29
+9c39571eafd2088c,2024-25,2025-02-11,Stade Brestois 29,Paris Saint-Germain,Visitante,,1.2,0.6,1.8,1.8,2.4,1.2,2025-01-29,2025-01-29
+9ffd16c6bf67f75f,2024-25,2025-02-11,Manchester City,Real Madrid,Visitante,,0.8,1.8,2.8,1.8,2.4,1.6,2025-01-29,2025-01-29
+0ac22ffb9bee1080,2024-25,2025-02-12,Club Brugge KV,Atalanta,Local,,1.6,1.0,1.0,2.0,3.4,1.2,2025-01-29,2025-01-29
+0bcf86c5c24cd7e0,2024-25,2025-02-12,Feyenoord,AC Milan,Local,,1.4,2.4,2.8,2.4,2.0,1.2,2025-01-29,2025-01-29
+42dfa8cc76999aea,2024-25,2025-02-12,Celtic FC,Bayern München,Visitante,,1.6,1.4,1.2,2.4,2.0,1.0,2025-01-29,2025-01-29
+e76d60dd022e64c4,2024-25,2025-02-12,AS Monaco,SL Benfica,Visitante,,1.2,0.8,1.8,1.4,1.8,1.6,2025-01-29,2025-01-29
+1f15d2f8113b017e,2024-25,2025-02-18,Bayern München,Celtic FC,Empate,,2.4,2.2,1.2,1.0,1.0,1.4,2025-02-12,2025-02-12
+1f25a8d352a99f40,2024-25,2025-02-18,SL Benfica,AS Monaco,Empate,,2.0,2.0,1.4,0.6,0.6,2.0,2025-02-12,2025-02-12
+6dc5faaf8ca215c4,2024-25,2025-02-18,Atalanta,Club Brugge KV,Visitante,,1.4,3.2,1.6,1.6,1.2,1.2,2025-02-12,2025-02-12
+f5758501c53651ac,2024-25,2025-02-18,AC Milan,Feyenoord,Empate,,1.8,1.4,1.2,2.0,2.4,2.2,2025-02-12,2025-02-12
+0abf008114eb9a8c,2024-25,2025-02-19,Real Madrid,Manchester City,Local,,2.4,2.8,1.4,0.8,2.0,2.6,2025-02-11,2025-02-11
+5e1e5ff6dfbb1ffd,2024-25,2025-02-19,Paris Saint-Germain,Stade Brestois 29,Local,,2.4,2.8,0.8,0.6,0.2,2.2,2025-02-11,2025-02-11
+669168c0ad8e5f74,2024-25,2025-02-19,PSV Eindhoven,Juventus,Local,,1.8,2.0,1.8,1.6,0.8,0.6,2025-02-11,2025-02-11
+82ebacc383707b47,2024-25,2025-02-19,Borussia Dortmund,Sporting CP,Empate,,1.8,2.4,1.2,0.2,0.8,2.6,2025-02-11,2025-02-11
+14195e8f4ea1088c,2024-25,2025-03-04,Real Madrid,Atlético Madrid,Local,,3.0,3.4,1.2,3.0,3.4,0.8,2025-02-19,2025-01-29
+1da48a990eb7da95,2024-25,2025-03-04,Club Brugge KV,Aston Villa FC,Visitante,,2.0,1.6,1.2,1.4,1.4,1.2,2025-02-18,2025-01-29
+9c196be337763f5c,2024-25,2025-03-04,PSV Eindhoven,Arsenal FC,Visitante,,1.8,1.8,1.6,2.4,2.6,0.6,2025-02-19,2025-01-29
+efc923c298a85ed0,2024-25,2025-03-04,Borussia Dortmund,Lille OSC,Empate,,1.4,1.8,1.2,2.0,2.6,1.4,2025-02-19,2025-01-29
+6eb2b0acae3c93a2,2024-25,2025-03-05,Paris Saint-Germain,Liverpool FC,Visitante,,3.0,4.2,0.6,2.4,2.2,0.8,2025-02-19,2025-01-29
+9c183e20af16a028,2024-25,2025-03-05,SL Benfica,FC Barcelona,Visitante,,1.6,2.0,1.6,2.6,3.6,2.0,2025-02-18,2025-01-29
+c4bd1a4faebf889c,2024-25,2025-03-05,Bayern München,Bayer Leverkusen,Local,,2.0,2.2,1.4,1.8,1.8,1.2,2025-02-18,2025-01-29
+dd5e48228f5ed26e,2024-25,2025-03-05,Feyenoord,Inter,Visitante,,2.0,2.0,1.8,2.4,1.2,0.2,2025-02-18,2025-01-29
+41f1f596450b62ae,2024-25,2025-03-11,Liverpool FC,Paris Saint-Germain,Visitante,,2.4,1.6,0.8,2.4,3.6,0.8,2025-03-05,2025-03-05
+5733be5555a0a142,2024-25,2025-03-11,Inter,Feyenoord,Local,,2.4,1.4,0.2,1.4,1.2,1.8,2025-03-05,2025-03-05
+dd498dac95babe39,2024-25,2025-03-11,FC Barcelona,SL Benfica,Local,,2.6,2.8,1.6,1.4,2.0,1.8,2025-03-05,2025-03-05
+e1b71281723db485,2024-25,2025-03-11,Bayer Leverkusen,Bayern München,Visitante,,1.8,1.8,1.0,2.0,1.8,1.2,2025-03-05,2025-03-05
+08ba84a3fb2df2f7,2024-25,2025-03-12,Lille OSC,Borussia Dortmund,Visitante,,2.0,2.6,1.4,1.6,1.6,0.8,2025-03-04,2025-03-04
+33317012fc577802,2024-25,2025-03-12,Atlético Madrid,Real Madrid,Local,,2.4,3.2,1.0,3.0,3.2,1.0,2025-03-04,2025-03-04
+7cc066b34e09f829,2024-25,2025-03-12,Arsenal FC,PSV Eindhoven,Empate,,3.0,4.0,0.6,1.8,2.0,2.8,2025-03-04,2025-03-04
+e297785ad873dd4c,2024-25,2025-03-12,Aston Villa FC,Club Brugge KV,Local,,2.0,2.0,1.2,1.4,1.4,1.6,2025-03-04,2025-03-04
+c429a32a059eb082,2024-25,2025-04-08,Arsenal FC,Real Madrid,Local,,2.6,3.4,0.8,2.4,2.2,1.0,2025-03-12,2025-03-12
+e8b2ef0daefb5a2a,2024-25,2025-04-08,Bayern München,Inter,Visitante,,2.6,2.2,0.6,2.4,1.6,0.4,2025-03-11,2025-03-11
+7b129170f7be682c,2024-25,2025-04-09,FC Barcelona,Borussia Dortmund,Local,,2.6,2.8,1.8,2.2,1.8,0.6,2025-03-11,2025-03-12
+7fd3992b223540d8,2024-25,2025-04-09,Paris Saint-Germain,Aston Villa FC,Local,,2.4,3.0,0.4,2.4,2.6,1.2,2025-03-11,2025-03-12
+6cd27907ea1d1faf,2024-25,2025-04-15,Aston Villa FC,Paris Saint-Germain,Local,,1.8,2.2,1.4,2.4,2.8,0.4,2025-04-09,2025-04-09
+839109aad97d2732,2024-25,2025-04-15,Borussia Dortmund,FC Barcelona,Local,,1.6,1.2,1.2,2.6,3.0,1.4,2025-04-09,2025-04-09
+112e759de6e4a381,2024-25,2025-04-16,Real Madrid,Arsenal FC,Visitante,,1.8,1.6,1.6,2.6,3.4,0.8,2025-04-08,2025-04-08
+330869adec0264d7,2024-25,2025-04-16,Inter,Bayern München,Empate,,3.0,2.0,0.4,2.0,1.8,0.8,2025-04-08,2025-04-08
+17d375634c4539de,2024-25,2025-04-29,Arsenal FC,Paris Saint-Germain,Visitante,,2.6,3.2,1.0,1.8,2.6,1.0,2025-04-16,2025-04-15
+6ba4b1b0d2a74a3d,2024-25,2025-04-30,FC Barcelona,Inter,Empate,,2.0,2.2,1.2,2.6,2.2,0.8,2025-04-15,2025-04-16
+90ec53a9fa559306,2024-25,2025-05-06,Inter,FC Barcelona,Empate,,2.2,2.2,1.4,2.0,2.4,1.4,2025-04-30,2025-04-30
+cd1bcd1a019d3b19,2024-25,2025-05-07,Paris Saint-Germain,Arsenal FC,Local,,1.8,1.4,1.0,2.0,2.8,1.0,2025-04-29,2025-04-29
+acdd61cf8b5645bc,2024-25,2025-05-31,Paris Saint-Germain,Inter,Local,final_sede_neutral,,,,,,,,
+1fe2b15ceefcc71d,2025-26,2025-09-16,Athletic Club,Arsenal FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+37cd60a007a7a250,2025-26,2025-09-16,PSV Eindhoven,Royale Union Saint-Gilloise,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5356df1625d8ec3a,2025-26,2025-09-16,SL Benfica,Qarabağ FK,Visitante,,1.4,1.4,1.4,0.4,0.4,1.6,2025-03-11,2017-12-05
+586c6954faa0c9c8,2025-26,2025-09-16,Juventus,Borussia Dortmund,Empate,,1.4,1.0,1.0,1.6,1.2,1.4,2025-02-19,2025-04-15
+64252f096870a858,2025-26,2025-09-16,Tottenham Hotspur,Villarreal CF,Local,,1.6,1.2,1.0,1.4,1.4,1.2,2023-03-08,2022-05-03
+c869a21e779f3f2d,2025-26,2025-09-16,Real Madrid,Olympique Marseille,Local,,1.2,1.2,1.6,1.2,1.6,1.2,2025-04-16,2022-11-01
+10b7aa9632b7e6e4,2025-26,2025-09-17,Paris Saint-Germain,Atalanta,Local,,2.4,2.6,1.0,0.8,2.2,2.0,2025-05-31,2025-02-18
+1370d223e3a9b94c,2025-26,2025-09-17,AFC Ajax,Inter,Visitante,,0.6,1.4,3.2,1.2,2.0,2.8,2022-11-01,2025-05-31
+8e98de5d3a3432bb,2025-26,2025-09-17,Liverpool FC,Atlético Madrid,Local,,1.8,1.2,1.0,2.4,2.2,1.0,2025-03-11,2025-03-12
+9f0388cb82d9bc59,2025-26,2025-09-17,Bayern München,Chelsea FC,Local,,1.6,1.8,1.0,1.2,0.8,1.2,2025-04-16,2023-04-18
+bb8eeefca8f0cdee,2025-26,2025-09-17,Slavia Praha,FK Bodø/Glimt,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+dea675e4afcc592a,2025-26,2025-09-17,Olympiakos Piraeus,Paphos FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+15219343dad5259f,2025-26,2025-09-18,Club Brugge KV,AS Monaco,Local,,1.2,1.4,2.2,0.8,0.8,2.0,2025-03-12,2025-02-18
+1e3a4065631061d2,2025-26,2025-09-18,Eintracht Frankfurt,Galatasaray,Local,,1.2,1.2,2.0,0.8,1.6,2.2,2023-03-15,2023-12-12
+37d839a16f20da7a,2025-26,2025-09-18,Sporting CP,FK Kairat,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+500328c66bfd98c6,2025-26,2025-09-18,Newcastle United FC,FC Barcelona,Visitante,,0.8,1.2,1.4,1.6,2.8,2.0,2023-12-13,2025-05-06
+65be0db764b1b0b6,2025-26,2025-09-18,FC København,Bayer Leverkusen,Empate,,1.4,1.4,1.8,1.2,0.8,1.4,2024-03-06,2025-03-11
+74489d8ae3cf821c,2025-26,2025-09-18,Manchester City,SSC Napoli,Local,,0.6,1.6,2.6,1.0,1.4,1.8,2025-02-19,2024-03-12
+218006def21bd958,2025-26,2025-09-30,Paphos FC,Bayern München,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+24a81019d91d2f47,2025-26,2025-09-30,Inter,Slavia Praha,Local,,1.2,2.0,2.6,0.4,1.0,1.8,2025-09-17,2025-09-17
+262be2ff8af73d3b,2025-26,2025-09-30,FK Kairat,Real Madrid,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+5e4f0c9652826a4c,2025-26,2025-09-30,Atalanta,Club Brugge KV,Local,,0.8,1.8,2.2,1.8,2.0,1.8,2025-09-17,2025-09-18
+8348c90b721697cb,2025-26,2025-09-30,FK Bodø/Glimt,Tottenham Hotspur,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b239c450b93f2a71,2025-26,2025-09-30,Galatasaray,Liverpool FC,Local,,0.2,1.2,2.8,1.8,1.6,1.4,2025-09-18,2025-09-17
+ebde5fb62162b2ca,2025-26,2025-09-30,Olympique Marseille,AFC Ajax,Local,,1.2,1.8,1.4,0.6,1.2,3.2,2025-09-16,2025-09-17
+f0c97720704b6597,2025-26,2025-09-30,Atlético Madrid,Eintracht Frankfurt,Local,,1.8,2.0,1.4,1.8,1.8,1.6,2025-09-17,2025-09-18
+fc6ece3ea889ea24,2025-26,2025-09-30,Chelsea FC,SL Benfica,Local,,0.6,0.6,1.6,0.8,1.4,2.0,2025-09-17,2025-09-16
+0d7a96a05430b45c,2025-26,2025-10-01,Villarreal CF,Juventus,Empate,,0.8,0.8,1.4,1.0,1.4,1.8,2025-09-16,2025-09-16
+1e00c57fc1ee588d,2025-26,2025-10-01,Arsenal FC,Olympiakos Piraeus,Local,,1.8,1.6,0.8,0.2,0.2,1.6,2025-09-16,2025-09-17
+1f990c73b63bf9d2,2025-26,2025-10-01,Qarabağ FK,FC København,Local,,1.0,0.8,1.6,1.0,1.0,1.6,2025-09-16,2025-09-18
+3e4d74a439a5389d,2025-26,2025-10-01,SSC Napoli,Sporting CP,Local,,0.8,1.2,2.0,1.0,1.2,1.4,2025-09-18,2025-09-18
+5b70c76d549c1b10,2025-26,2025-10-01,Bayer Leverkusen,PSV Eindhoven,Empate,,0.8,1.0,1.8,0.8,1.4,3.0,2025-09-18,2025-09-16
+71a415ecd681254b,2025-26,2025-10-01,Royale Union Saint-Gilloise,Newcastle United FC,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+8675acd28bbab4ae,2025-26,2025-10-01,FC Barcelona,Paris Saint-Germain,Visitante,,1.6,2.6,2.0,2.4,2.8,0.8,2025-09-18,2025-09-17
+f220b18906d93c12,2025-26,2025-10-01,AS Monaco,Manchester City,Empate,,0.8,1.0,2.2,1.2,2.0,2.2,2025-09-18,2025-09-18
+f97863999ca9088d,2025-26,2025-10-01,Borussia Dortmund,Athletic Club,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+013cf556b1fbb5f1,2025-26,2025-10-21,FK Kairat,Paphos FC,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+050cab1023b909ac,2025-26,2025-10-21,Newcastle United FC,SL Benfica,Local,,0.8,1.4,1.4,0.2,1.2,2.2,2025-10-01,2025-09-30
+0e82a1f2997863d1,2025-26,2025-10-21,FC Barcelona,Olympiakos Piraeus,Local,,1.0,2.0,2.4,0.2,0.2,1.4,2025-10-01,2025-10-01
+13a33915eaf94d0f,2025-26,2025-10-21,Villarreal CF,Manchester City,Visitante,,0.4,1.0,1.8,1.4,2.0,1.8,2025-10-01,2025-10-01
+192c51ea84696214,2025-26,2025-10-21,FC København,Borussia Dortmund,Visitante,,0.8,1.0,2.0,2.0,2.6,2.2,2025-10-01,2025-10-01
+28e389809b6e13ec,2025-26,2025-10-21,Bayer Leverkusen,Paris Saint-Germain,Visitante,,1.0,1.0,1.6,3.0,2.8,0.4,2025-10-01,2025-10-01
+3239a9bba37acc38,2025-26,2025-10-21,Royale Union Saint-Gilloise,Inter,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c5a19f2a5824f684,2025-26,2025-10-21,Arsenal FC,Atlético Madrid,Local,,1.8,1.4,0.8,1.8,2.6,1.4,2025-10-01,2025-09-30
+e4d193165afc5ffa,2025-26,2025-10-21,PSV Eindhoven,SSC Napoli,Local,,1.0,1.4,2.8,1.4,1.2,1.4,2025-10-01,2025-10-01
+2bddff2d6849c695,2025-26,2025-10-22,Bayern München,Club Brugge KV,Local,,2.0,2.6,1.2,1.2,1.8,2.0,2025-09-30,2025-09-30
+445db36dae8f238f,2025-26,2025-10-22,Real Madrid,Juventus,Local,,1.2,1.6,1.4,1.0,1.8,2.2,2025-09-30,2025-10-01
+56fae3980b5417a9,2025-26,2025-10-22,Galatasaray,FK Bodø/Glimt,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+62e8916d7bb84361,2025-26,2025-10-22,Sporting CP,Olympique Marseille,Local,,1.0,1.2,1.4,1.2,1.8,1.2,2025-10-01,2025-09-30
+67e6bcae62936f7d,2025-26,2025-10-22,Eintracht Frankfurt,Liverpool FC,Visitante,,1.2,1.6,2.4,1.2,1.2,1.4,2025-09-30,2025-09-30
+a0523b9497690ed6,2025-26,2025-10-22,Atalanta,Slavia Praha,Empate,,0.8,1.2,2.4,0.4,0.8,2.0,2025-09-30,2025-09-30
+d9a692fde7a3a4f0,2025-26,2025-10-22,AS Monaco,Tottenham Hotspur,Empate,,0.4,1.2,2.6,1.6,1.0,0.8,2025-10-01,2025-09-30
+ed6792d840c9de34,2025-26,2025-10-22,Athletic Club,Qarabağ FK,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f79039a15e71f38a,2025-26,2025-10-22,Chelsea FC,AFC Ajax,Local,,1.2,0.8,1.4,0.6,1.0,2.8,2025-09-30,2025-09-30
+17f39d3db28c93ec,2025-26,2025-11-04,Juventus,Sporting CP,Empate,,1.0,1.8,2.0,1.4,1.4,1.4,2025-10-22,2025-10-22
+1f679fbce0cd7f85,2025-26,2025-11-04,Paris Saint-Germain,Bayern München,Visitante,,3.0,4.0,0.8,2.0,3.0,1.2,2025-10-21,2025-10-22
+2a813bf81778b599,2025-26,2025-11-04,Slavia Praha,Arsenal FC,Visitante,,0.4,0.8,2.0,1.8,1.8,0.6,2025-10-22,2025-10-21
+4efd9034b49c8655,2025-26,2025-11-04,Atlético Madrid,Royale Union Saint-Gilloise,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+7d4b84d0440e17ce,2025-26,2025-11-04,Tottenham Hotspur,FC København,Local,,1.2,0.6,0.6,0.2,1.2,2.8,2025-10-22,2025-10-21
+7fccb292ab140ed6,2025-26,2025-11-04,SSC Napoli,Eintracht Frankfurt,Empate,,0.8,1.2,2.6,0.6,1.4,3.2,2025-10-21,2025-10-22
+ad8f91b7c87231c8,2025-26,2025-11-04,Liverpool FC,Real Madrid,Local,,1.8,1.8,1.0,1.8,1.8,1.2,2025-10-22,2025-10-22
+bc9506995525e5cc,2025-26,2025-11-04,Olympiakos Piraeus,PSV Eindhoven,Empate,,0.2,0.4,2.4,1.0,2.2,3.0,2025-10-21,2025-10-21
+ec994ae5441f077e,2025-26,2025-11-04,FK Bodø/Glimt,AS Monaco,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+1640114bf3f2ae2f,2025-26,2025-11-05,Newcastle United FC,Athletic Club,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+17d189748d0af357,2025-26,2025-11-05,Manchester City,Borussia Dortmund,Local,,1.4,1.8,1.6,2.0,3.0,2.4,2025-10-21,2025-10-21
+79b30df5b9ec6a30,2025-26,2025-11-05,SL Benfica,Bayer Leverkusen,Visitante,,0.0,0.6,2.2,0.4,1.0,3.0,2025-10-21,2025-10-21
+7d058f6cab900f56,2025-26,2025-11-05,Qarabağ FK,Chelsea FC,Empate,,1.2,1.2,2.0,1.2,1.4,1.6,2025-10-22,2025-10-22
+8865c95279757b71,2025-26,2025-11-05,Inter,FK Kairat,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+a28e47da2b932dec,2025-26,2025-11-05,AFC Ajax,Galatasaray,Visitante,,0.6,0.8,3.0,1.4,1.6,2.0,2025-10-22,2025-10-22
+b80c8c981e1e79cf,2025-26,2025-11-05,Olympique Marseille,Atalanta,Visitante,,0.6,1.6,1.6,0.8,0.8,2.0,2025-10-22,2025-10-22
+ca92b8bdd85dadde,2025-26,2025-11-05,Paphos FC,Villarreal CF,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+edca0bee46c2a6f6,2025-26,2025-11-05,Club Brugge KV,FC Barcelona,Empate,,0.6,1.2,2.6,1.6,3.0,2.0,2025-10-22,2025-10-21
+05923a6987267a32,2025-26,2025-11-25,Olympique Marseille,Newcastle United FC,Local,,0.6,1.4,1.4,1.8,2.2,0.8,2025-11-05,2025-11-05
+1868014e3c5ead17,2025-26,2025-11-25,AFC Ajax,SL Benfica,Visitante,,0.6,0.8,3.0,0.0,0.6,2.2,2025-11-05,2025-11-05
+801fe232b44d9710,2025-26,2025-11-25,Chelsea FC,FC Barcelona,Local,,1.4,1.8,1.6,1.6,3.0,2.0,2025-11-05,2025-11-05
+90fb94bb47e6e76a,2025-26,2025-11-25,Galatasaray,Royale Union Saint-Gilloise,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+9ff7e09356811f41,2025-26,2025-11-25,SSC Napoli,Qarabağ FK,Local,,0.8,1.0,2.4,1.4,1.6,1.6,2025-11-04,2025-11-05
+b085bbb3705a97fa,2025-26,2025-11-25,FK Bodø/Glimt,Juventus,Visitante,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+c37af99aa894900f,2025-26,2025-11-25,Borussia Dortmund,Villarreal CF,Local,,2.0,3.2,2.4,0.2,0.8,1.8,2025-11-05,2025-11-05
+ea6f8931e01c7c47,2025-26,2025-11-25,Slavia Praha,Athletic Club,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+f21f680433d2ad20,2025-26,2025-11-25,Manchester City,Bayer Leverkusen,Visitante,,2.0,2.2,1.2,1.0,1.2,2.4,2025-11-05,2025-11-05
+0af6ae194f16ab9c,2025-26,2025-11-26,Paris Saint-Germain,Tottenham Hotspur,Local,,2.4,3.8,1.0,1.8,1.4,0.4,2025-11-04,2025-11-04
+2739b9d3e2ec6786,2025-26,2025-11-26,Olympiakos Piraeus,Real Madrid,Visitante,,0.4,0.4,2.2,1.8,1.8,0.8,2025-11-04,2025-11-04
+4a562ad4ac75028e,2025-26,2025-11-26,Eintracht Frankfurt,Atalanta,Visitante,,0.8,1.4,2.8,1.4,0.8,1.6,2025-11-04,2025-11-05
+74d2b41c0ba0f9f5,2025-26,2025-11-26,Atlético Madrid,Inter,Local,,1.8,2.2,1.8,2.4,2.2,1.2,2025-11-04,2025-11-05
+9650297e6c799bed,2025-26,2025-11-26,Paphos FC,AS Monaco,Empate,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+b3a4f33046f40fa7,2025-26,2025-11-26,Liverpool FC,PSV Eindhoven,Visitante,,1.8,1.8,1.0,1.2,2.2,1.8,2025-11-04,2025-11-04
+de63c8553fc2588a,2025-26,2025-11-26,Arsenal FC,Bayern München,Local,,2.4,2.4,0.4,2.6,3.2,1.0,2025-11-04,2025-11-04
+e000bd75f5ed428c,2025-26,2025-11-26,Sporting CP,Club Brugge KV,Local,,1.6,1.6,1.0,0.8,1.6,2.6,2025-11-04,2025-11-05
+e28c5a6d530a7ceb,2025-26,2025-11-26,FC København,FK Kairat,Local,menos_de_5_partidos_previos_por_equipo,,,,,,,,
+10ae9871dd4e7af1,2025-26,2025-12-09,Tottenham Hotspur,Slavia Praha,Local,,1.6,2.0,1.4,0.6,0.4,1.6,2025-11-26,2025-11-25
+1b912e9e2b0aedce,2025-26,2025-12-09,PSV Eindhoven,Atlético Madrid,Visitante,,1.6,2.6,1.6,1.8,2.4,2.0,2025-11-26,2025-11-26
+5e6252b0784f3c73,2025-26,2025-12-09,FC Barcelona,Eintracht Frankfurt,Local,,1.4,2.4,2.0,0.8,1.4,2.8,2025-11-25,2025-11-26
+a633a5f6edfe3d18,2025-26,2025-12-09,Royale Union Saint-Gilloise,Olympique Marseille,Visitante,,1.2,1.0,2.4,1.2,1.6,1.2,2025-11-25,2025-11-25
+b47393af9f3c3732,2025-26,2025-12-09,Inter,Liverpool FC,Visitante,,2.4,2.4,0.6,1.8,2.0,1.6,2025-11-26,2025-11-26
+d16240c810ea9e5a,2025-26,2025-12-09,AS Monaco,Galatasaray,Local,,1.2,1.2,1.6,1.8,1.6,1.4,2025-11-26,2025-11-25
+d3d955f800d28ef8,2025-26,2025-12-09,Atalanta,Chelsea FC,Local,,2.0,1.2,1.0,2.0,2.4,1.2,2025-11-26,2025-11-25
+e6f001768165c0f3,2025-26,2025-12-09,FK Kairat,Olympiakos Piraeus,Visitante,,0.2,0.8,2.8,0.4,1.0,2.6,2025-11-26,2025-11-26
+f5f470a7c563c019,2025-26,2025-12-09,Bayern München,Sporting CP,Local,,2.4,3.0,1.2,2.0,2.2,1.0,2025-11-26,2025-11-26
+0d2f2ee6236ba385,2025-26,2025-12-10,Villarreal CF,FC København,Visitante,,0.2,0.4,2.0,0.8,1.4,2.8,2025-11-25,2025-11-26
+486816aad3b17efa,2025-26,2025-12-10,Real Madrid,Manchester City,Visitante,,2.4,2.4,1.0,2.0,2.0,1.0,2025-11-26,2025-11-25
+5882a137a31b0c6d,2025-26,2025-12-10,SL Benfica,SSC Napoli,Local,,0.6,0.8,1.6,1.4,1.2,1.8,2025-11-25,2025-11-25
+73dfc042ea0ded40,2025-26,2025-12-10,Juventus,Paphos FC,Local,,1.2,2.0,2.0,1.2,0.8,1.4,2025-11-25,2025-11-26
+8c81bc0e9f5ecefb,2025-26,2025-12-10,Bayer Leverkusen,Newcastle United FC,Empate,,1.6,1.6,2.0,1.8,2.2,0.8,2025-11-25,2025-11-25
+a4a389b663acca2e,2025-26,2025-12-10,Qarabağ FK,AFC Ajax,Visitante,,1.4,1.6,1.8,0.0,0.2,3.2,2025-11-25,2025-11-25
+ad9b9c9c1256bf88,2025-26,2025-12-10,Athletic Club,Paris Saint-Germain,Empate,,0.8,0.8,1.8,2.4,3.8,1.6,2025-11-25,2025-11-26
+cbc7d722ad00d967,2025-26,2025-12-10,Borussia Dortmund,FK Bodø/Glimt,Empate,,2.0,3.4,2.2,0.4,1.4,2.2,2025-11-25,2025-11-25
+d573d5e61b81d748,2025-26,2025-12-10,Club Brugge KV,Arsenal FC,Visitante,,0.8,1.6,2.6,3.0,2.8,0.2,2025-11-26,2025-11-26
+2072ee97f08c2b92,2025-26,2026-01-20,FK Bodø/Glimt,Manchester City,Local,,0.4,1.4,2.2,2.0,2.0,1.2,2025-12-10,2025-12-10
+228798cb275c5af7,2025-26,2026-01-20,Inter,Arsenal FC,Visitante,,1.8,2.0,0.8,3.0,3.0,0.2,2025-12-09,2025-12-10
+617e30498666d9d6,2025-26,2026-01-20,Tottenham Hotspur,Borussia Dortmund,Local,,1.6,2.4,1.4,2.0,3.0,1.8,2025-12-09,2025-12-10
+630fbb836afc8943,2025-26,2026-01-20,Sporting CP,Paris Saint-Germain,Local,,1.4,1.6,1.4,2.0,3.0,1.6,2025-12-09,2025-12-10
+a641b36357feb17e,2025-26,2026-01-20,FK Kairat,Club Brugge KV,Visitante,,0.2,0.6,2.2,0.2,0.8,3.0,2025-12-09,2025-12-10
+c53e8629d4ce2142,2025-26,2026-01-20,FC København,SSC Napoli,Empate,,1.2,1.6,2.8,1.4,1.2,1.8,2025-12-10,2025-12-10
+d811c4ae6f2f6d29,2025-26,2026-01-20,Villarreal CF,AFC Ajax,Visitante,,0.2,0.8,2.4,0.6,1.0,3.2,2025-12-10,2025-12-10
+e6b5653fc10a85eb,2025-26,2026-01-20,Olympiakos Piraeus,Bayer Leverkusen,Local,,0.8,1.2,2.6,1.6,1.6,2.0,2025-12-09,2025-12-10
+ee147dd3b7ce11d4,2025-26,2026-01-20,Real Madrid,AS Monaco,Local,,1.8,2.2,1.2,1.8,1.2,0.8,2025-12-10,2025-12-09
+08a6db6df1e00933,2025-26,2026-01-21,Atalanta,Athletic Club,Visitante,,2.6,1.6,0.4,1.0,0.8,1.4,2025-12-09,2025-12-10
+229b29b3eef7216b,2025-26,2026-01-21,Chelsea FC,Paphos FC,Local,,2.0,2.4,1.0,1.0,0.8,1.8,2025-12-09,2025-12-10
+4f7d5da809573271,2025-26,2026-01-21,Qarabağ FK,Eintracht Frankfurt,Local,,0.8,1.4,2.2,0.2,0.6,3.0,2025-12-10,2025-12-09
+550f7bd3ba2e89a9,2025-26,2026-01-21,Slavia Praha,FC Barcelona,Visitante,,0.4,0.0,1.8,1.4,2.4,2.0,2025-12-09,2025-12-09
+5664dfca6c50e06a,2025-26,2026-01-21,Galatasaray,Atlético Madrid,Empate,,1.8,1.4,0.6,2.4,2.6,1.8,2025-12-09,2025-12-09
+70885c1ecf03a034,2025-26,2026-01-21,Juventus,SL Benfica,Local,,1.6,1.6,1.2,1.2,0.8,1.0,2025-12-10,2025-12-10
+79377d75a6acd8af,2025-26,2026-01-21,Olympique Marseille,Liverpool FC,Visitante,,1.8,2.0,1.2,1.8,1.6,1.2,2025-12-09,2025-12-09
+950377aa0a1b25ae,2025-26,2026-01-21,Newcastle United FC,PSV Eindhoven,Local,,2.0,2.4,0.8,1.6,2.8,1.6,2025-12-10,2025-12-09
+952a345a34b0a601,2025-26,2026-01-21,Bayern München,Royale Union Saint-Gilloise,Local,,2.4,3.0,1.2,0.6,0.8,2.8,2025-12-09,2025-12-09
+04f5155dd0d66075,2025-26,2026-01-28,Manchester City,Galatasaray,Local,,1.8,1.8,1.4,1.4,1.4,0.8,2026-01-20,2026-01-21
+0e345ea2c5b3dbaf,2025-26,2026-01-28,Athletic Club,Sporting CP,Visitante,,1.6,1.2,1.0,2.0,1.8,1.2,2026-01-21,2026-01-20
+1c624e3a2507e460,2025-26,2026-01-28,Atlético Madrid,FK Bodø/Glimt,Visitante,,2.0,1.8,1.8,0.8,1.6,2.0,2026-01-21,2026-01-20
+1e11708ebc38f700,2025-26,2026-01-28,Paphos FC,Slavia Praha,Local,,1.0,0.6,1.0,0.4,0.4,2.0,2026-01-21,2026-01-21
+2487ea45f4c7eb6e,2025-26,2026-01-28,Bayer Leverkusen,Villarreal CF,Local,,1.4,1.4,2.2,0.0,0.6,2.4,2026-01-20,2026-01-20
+34b77493b12532ed,2025-26,2026-01-28,SSC Napoli,Chelsea FC,Visitante,,1.0,1.0,1.8,2.0,2.4,1.0,2026-01-20,2026-01-21
+3cb66ef830d695ce,2025-26,2026-01-28,Arsenal FC,FK Kairat,Local,,3.0,3.2,0.4,0.2,0.8,2.0,2026-01-20,2026-01-20
+46bed78ae3d9b3a1,2025-26,2026-01-28,Paris Saint-Germain,Newcastle United FC,Empate,,1.4,2.8,1.8,2.0,2.2,0.8,2026-01-20,2026-01-21
+5e06e38a4a87f112,2025-26,2026-01-28,Liverpool FC,Qarabağ FK,Local,,2.4,2.2,1.0,0.8,1.6,2.6,2026-01-21,2026-01-21
+607ed9b8d6e36ddd,2025-26,2026-01-28,Borussia Dortmund,Inter,Visitante,,1.4,2.2,2.0,1.2,1.6,1.4,2026-01-20,2026-01-20
+6166b0833eac8fea,2025-26,2026-01-28,AFC Ajax,Olympiakos Piraeus,Visitante,,1.2,1.4,2.6,1.4,1.6,2.2,2026-01-20,2026-01-20
+70159a895dd72dae,2025-26,2026-01-28,FC Barcelona,FC København,Local,,2.0,3.0,2.0,1.4,1.8,2.6,2026-01-21,2026-01-20
+7c70293682863d63,2025-26,2026-01-28,SL Benfica,Real Madrid,Local,,1.2,0.8,1.2,1.8,2.4,1.4,2026-01-21,2026-01-20
+b0038badc5ad780b,2025-26,2026-01-28,Royale Union Saint-Gilloise,Atalanta,Local,,0.6,0.8,2.4,2.0,1.6,0.8,2026-01-21,2026-01-21
+d5939a6046e0e765,2025-26,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,Visitante,,0.2,0.8,2.6,2.0,2.4,1.0,2026-01-21,2026-01-20
+e6656596e5882716,2025-26,2026-01-28,PSV Eindhoven,Bayern München,Visitante,,1.4,2.6,2.0,2.4,2.4,1.0,2026-01-21,2026-01-21
+f5f05c0d50098286,2025-26,2026-01-28,Club Brugge KV,Olympique Marseille,Local,,0.8,1.4,2.8,1.2,1.2,1.8,2026-01-20,2026-01-21
+ff5d1a8818722467,2025-26,2026-01-28,AS Monaco,Juventus,Empate,,1.6,1.0,1.6,2.0,1.6,0.8,2026-01-20,2026-01-21
+2464989590191273,2025-26,2026-02-17,SL Benfica,Real Madrid,Visitante,,1.8,1.6,1.0,1.2,2.6,2.2,2026-01-28,2026-01-28
+94d81e98b28ce3f1,2025-26,2026-02-17,AS Monaco,Paris Saint-Germain,Visitante,,1.6,1.0,1.6,1.0,1.6,1.6,2026-01-28,2026-01-28
+9bb358bc3a584d89,2025-26,2026-02-17,Borussia Dortmund,Atalanta,Local,,0.8,1.4,2.0,1.8,1.6,1.0,2026-01-28,2026-01-28
+f130055fc1c8fb11,2025-26,2026-02-17,Galatasaray,Juventus,Local,,0.8,0.8,1.0,2.2,1.6,0.6,2026-01-28,2026-01-28
+1fc93ee57c538bc1,2025-26,2026-02-18,Club Brugge KV,Atlético Madrid,Empate,,1.4,2.0,2.0,2.0,2.0,1.4,2026-01-28,2026-01-28
+a2613456ae7c98b0,2025-26,2026-02-18,Olympiakos Piraeus,Bayer Leverkusen,Visitante,,2.0,1.8,1.2,2.0,1.6,0.8,2026-01-28,2026-01-28
+bcd2f58897dcfb75,2025-26,2026-02-18,FK Bodø/Glimt,Inter,Local,,1.4,1.8,1.6,1.2,1.2,1.4,2026-01-28,2026-01-28
+e493832775c46cc9,2025-26,2026-02-18,Qarabağ FK,Newcastle United FC,Visitante,,0.8,1.4,3.2,1.6,1.8,1.0,2026-01-28,2026-01-28
+05ebc2fd6115cab4,2025-26,2026-02-24,Inter,FK Bodø/Glimt,Visitante,,0.6,1.0,1.8,2.0,2.4,1.6,2026-02-18,2026-02-18
+1ee90324298c30d4,2025-26,2026-02-24,Atlético Madrid,Club Brugge KV,Local,,1.6,2.0,1.8,1.4,2.0,2.0,2026-02-18,2026-02-18
+b7f366b840a7117c,2025-26,2026-02-24,Newcastle United FC,Qarabağ FK,Local,,1.6,2.6,1.2,0.6,1.2,4.0,2026-02-18,2026-02-18
+d8b688dbbce439a9,2025-26,2026-02-24,Bayer Leverkusen,Olympiakos Piraeus,Empate,,2.0,1.8,0.8,1.8,1.6,1.4,2026-02-18,2026-02-18
+1b2143bf9042eb17,2025-26,2026-02-25,Paris Saint-Germain,AS Monaco,Empate,,1.6,2.0,1.6,1.0,1.2,2.2,2026-02-17,2026-02-17
+5207bd60f2e31ab5,2025-26,2026-02-25,Atalanta,Borussia Dortmund,Local,,1.2,1.4,1.4,1.4,1.6,1.2,2026-02-17,2026-02-17
+54d2bde9f37c38fd,2025-26,2026-02-25,Juventus,Galatasaray,Local,,2.0,1.8,1.4,0.8,1.2,1.4,2026-02-17,2026-02-17
+8f49579aac95437a,2025-26,2026-02-25,Real Madrid,SL Benfica,Local,,1.8,2.8,2.0,1.8,1.6,1.0,2026-02-17,2026-02-17
+5b86918c1051e761,2025-26,2026-03-10,Newcastle United FC,FC Barcelona,Empate,,2.2,3.0,1.2,2.0,2.6,2.0,2026-02-24,2026-01-28
+714555d000317ce3,2025-26,2026-03-10,Atlético Madrid,Tottenham Hotspur,Local,,1.6,2.4,1.8,2.4,2.8,1.0,2026-02-24,2026-01-28
+91e85463f335709a,2025-26,2026-03-10,Atalanta,Bayern München,Visitante,,1.2,1.6,1.6,2.4,2.0,1.2,2026-02-25,2026-01-28
+b108dca612606034,2025-26,2026-03-10,Galatasaray,Liverpool FC,Local,,0.8,1.2,1.8,2.4,2.4,0.8,2026-02-25,2026-01-28
+1e61a978712b7b73,2025-26,2026-03-11,Bayer Leverkusen,Arsenal FC,Empate,,1.6,1.4,0.8,3.0,3.0,0.8,2026-02-24,2026-01-28
+4b64dd954cc0d502,2025-26,2026-03-11,Paris Saint-Germain,Chelsea FC,Local,,1.2,1.4,1.4,2.0,2.0,1.2,2026-02-25,2026-01-28
+affed204623aad8c,2025-26,2026-03-11,FK Bodø/Glimt,Sporting CP,Local,,2.6,2.4,1.2,2.0,2.0,1.4,2026-02-24,2026-01-28
+fd7d487c00916b2f,2025-26,2026-03-11,Real Madrid,Manchester City,Local,,1.8,2.4,1.6,1.8,1.8,1.4,2026-02-25,2026-01-28
+39e3394e5a3285ac,2025-26,2026-03-17,Chelsea FC,Paris Saint-Germain,Visitante,,1.8,2.0,1.8,1.6,2.4,1.8,2026-03-11,2026-03-11
+78da484d6acf134c,2025-26,2026-03-17,Arsenal FC,Bayer Leverkusen,Local,,2.6,2.6,1.0,1.6,1.2,0.6,2026-03-11,2026-03-11
+83d02ce58bc60b19,2025-26,2026-03-17,Sporting CP,FK Bodø/Glimt,Local,,1.8,1.8,1.8,3.0,2.6,0.8,2026-03-11,2026-03-11
+a832b5fdf00ec335,2025-26,2026-03-17,Manchester City,Real Madrid,Visitante,,1.2,1.0,1.8,2.4,2.8,1.2,2026-03-11,2026-03-11
+621bda087cf13ff5,2025-26,2026-03-18,FC Barcelona,Newcastle United FC,Local,,2.0,2.2,1.6,2.2,2.8,1.0,2026-03-10,2026-03-10
+7d2fc5c71f8cd783,2025-26,2026-03-18,Bayern München,Atalanta,Local,,2.4,2.8,1.2,0.6,1.4,2.6,2026-03-10,2026-03-10
+9d4f1f16cc44c8f6,2025-26,2026-03-18,Tottenham Hotspur,Atlético Madrid,Local,,1.8,2.4,2.0,1.6,2.8,1.8,2026-03-10,2026-03-10
+ede558bac3ec84bd,2025-26,2026-03-18,Liverpool FC,Galatasaray,Local,,1.8,2.2,1.0,1.4,1.4,1.6,2026-03-10,2026-03-10
+3903f9815ead7adc,2025-26,2026-04-07,Sporting CP,Arsenal FC,Visitante,,1.8,1.8,1.8,2.6,2.4,0.8,2026-03-17,2026-03-17
+e5b3b67c73826ddd,2025-26,2026-04-07,Real Madrid,Bayern München,Visitante,,2.4,2.0,1.2,3.0,3.4,0.8,2026-03-17,2026-03-18
+46ed5519df01dc1e,2025-26,2026-04-08,Paris Saint-Germain,Liverpool FC,Local,,2.2,2.8,1.4,2.4,2.8,0.2,2026-03-17,2026-03-18
+9cf1e248c6408028,2025-26,2026-04-08,FC Barcelona,Atlético Madrid,Visitante,,2.6,3.6,1.4,1.4,3.0,2.2,2026-03-18,2026-03-18
+b1cf7a46ecaf209d,2025-26,2026-04-14,Atlético Madrid,FC Barcelona,Visitante,,2.0,3.2,1.8,2.0,3.2,1.6,2026-04-08,2026-04-08
+c1eff044488bf3b2,2025-26,2026-04-14,Liverpool FC,Paris Saint-Germain,Visitante,,1.8,2.6,0.6,2.6,3.0,1.2,2026-04-08,2026-04-08
+01e920ee7f5b862c,2025-26,2026-04-15,Arsenal FC,Sporting CP,Empate,,2.6,2.0,0.8,1.8,1.6,1.4,2026-04-07,2026-04-07
+eec44c673d05582d,2025-26,2026-04-15,Bayern München,Real Madrid,Local,,3.0,3.2,0.8,2.4,1.8,0.8,2026-04-07,2026-04-07
+9e247c35f27670b8,2025-26,2026-04-28,Paris Saint-Germain,Bayern München,Local,,2.6,2.8,0.8,3.0,3.6,1.4,2026-04-14,2026-04-15
+3e7c480a1370fe56,2025-26,2026-04-29,Atlético Madrid,Arsenal FC,Empate,,1.8,2.8,1.6,2.2,1.4,0.6,2026-04-14,2026-04-15
+2a7b48230b20022b,2025-26,2026-05-05,Arsenal FC,Atlético Madrid,Local,,1.8,1.0,0.4,1.4,2.2,1.6,2026-04-29,2026-04-29
+57cd6829d461397e,2025-26,2026-05-06,Bayern München,Paris Saint-Germain,Empate,,2.4,4.0,2.2,3.0,3.4,1.2,2026-04-28,2026-04-28
+810fd62e5e9a297d,2025-26,2026-05-30,Paris Saint-Germain,Arsenal FC,Empate,final_sede_neutral,,,,,,,,

@@ -1,0 +1,33 @@
+{
+  "descripcion": "Correcciones explícitas de dos marcadores de OpenFootball que omiten la prórroga. Los TXT originales permanecen intactos. Sólo se aplica la corrección si coincide el marcador original esperado; cualquier cambio incompatible detiene el procesamiento.",
+  "revisado_fecha": "2026-10-29",
+  "correcciones": [
+    {
+      "temporada": "2024-25",
+      "fecha": "2025-02-19",
+      "local": "PSV Eindhoven",
+      "visitante": "Juventus",
+      "marcador_fuente_esperado": "3-1 (0-0)",
+      "goles_local_90": 2,
+      "goles_visitante_90": 1,
+      "hubo_prorroga": true,
+      "hubo_penales": false,
+      "motivo": "El 3-1 incluye el gol de Flamingo al minuto 98. El marcador al terminar los 90 minutos fue 2-1.",
+      "fuente_verificacion": "https://www.uefa.com/newsfiles/UCL/2025/2044483_FR.pdf",
+      "fuente_adicional": "https://www.juventus.com/en/news/articles/juve-suffer-extra-time-defeat-to-psv"
+    },
+    {
+      "temporada": "2024-25",
+      "fecha": "2025-05-06",
+      "local": "Inter",
+      "visitante": "FC Barcelona",
+      "marcador_fuente_esperado": "4-3 (2-0)",
+      "goles_local_90": 3,
+      "goles_visitante_90": 3,
+      "hubo_prorroga": true,
+      "hubo_penales": false,
+      "motivo": "Acerbi empató 3-3 al minuto 90+3. Frattesi marcó el 4-3 al minuto 99, durante la prórroga.",
+      "fuente_verificacion": "https://www.uefa.com/uefachampionsleague/news/0299-1db1e0d054c8-02dafe0b7237-1000--inter-4-3-barcelona-aet-agg-7-6-davide-frattesi-settles-/"
+    }
+  ]
+}

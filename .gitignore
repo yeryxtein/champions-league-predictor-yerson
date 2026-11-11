@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.run/
+*.log
+.DS_Store
+models/experimento_v2/.evaluacion.lock
+models/experimento_v2/evaluacion_*/

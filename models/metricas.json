@@ -1,0 +1,533 @@
+{
+  "version": 1,
+  "estado": "entrenado",
+  "modelo": "RandomForest",
+  "generado_utc": "2026-10-30T02:05:19.424250+00:00",
+  "dataset_sha256": "84d5c57de6c35c242f58e1242e56b8bc8392c1c787d950b60e7c53f8285821bf",
+  "dataframe_sha256": "c4319540b6021d85848195381c5e8625db20afd91c9a97378168d2cd4e7a1b41",
+  "dataset_partidos": 1372,
+  "dataset_fecha_hasta": "2026-05-30",
+  "dataset_cobertura": {
+    "2016-17": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2017-06-03",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2017-18": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2018-05-26",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2018-19": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2019-06-01",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2019-20": {
+      "declarados_fuente": 119,
+      "registros_fuente": 119,
+      "con_resultado": 119,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2020-08-23",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 4,
+        "Semifinal": 2,
+        "Final": 1
+      }
+    },
+    "2020-21": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2021-05-29",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2021-22": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2022-05-28",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2022-23": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2023-06-10",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2023-24": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2024-06-01",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2024-25": {
+      "declarados_fuente": 189,
+      "registros_fuente": 189,
+      "con_resultado": 189,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2025-05-31",
+      "fases": {
+        "Liga": 144,
+        "Playoffs": 16,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2025-26": {
+      "declarados_fuente": 189,
+      "registros_fuente": 189,
+      "con_resultado": 189,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2026-05-30",
+      "fases": {
+        "Liga": 144,
+        "Playoffs": 16,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    }
+  },
+  "versiones": {
+    "python": "3.12.14",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "pandas": "2.3.3"
+  },
+  "clases": [
+    "Local",
+    "Empate",
+    "Visitante"
+  ],
+  "variables": [
+    "local_puntos_5",
+    "local_goles_favor_5",
+    "local_goles_contra_5",
+    "visitante_puntos_5",
+    "visitante_goles_favor_5",
+    "visitante_goles_contra_5"
+  ],
+  "historial_minimo_por_equipo": 5,
+  "objetivo": "Resultado a 90 minutos más añadido: Local, Empate o Visitante; sin prórroga ni penales.",
+  "seleccion": "Mayor F1 macro en 2023-24 entre RegresionLogistica y RandomForest; empate por menor log loss. Referencia se informa por separado.",
+  "hiperparametros": {
+    "RegresionLogistica": {
+      "C": 1.0,
+      "max_iter": 2000,
+      "escalado": "StandardScaler dentro de Pipeline"
+    },
+    "RandomForest": {
+      "n_estimators": 300,
+      "max_depth": 6,
+      "min_samples_leaf": 6,
+      "random_state": 42
+    },
+    "Referencia": {
+      "strategy": "prior"
+    }
+  },
+  "particiones": {
+    "entrenamiento": {
+      "temporadas": [
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23"
+      ],
+      "total": 869,
+      "utilizables": 481,
+      "excluidos": 388,
+      "motivos_exclusion": {
+        "menos_de_5_partidos_previos_por_equipo": 247,
+        "final_sede_neutral": 7,
+        "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+        "temporada_2020_21_sedes_no_auditadas": 124
+      },
+      "fecha_desde": "2016-12-06",
+      "fecha_hasta": "2023-05-17",
+      "soporte": {
+        "Local": 222,
+        "Empate": 98,
+        "Visitante": 161
+      }
+    },
+    "validacion": {
+      "temporadas": [
+        "2023-24"
+      ],
+      "total": 125,
+      "utilizables": 96,
+      "excluidos": 29,
+      "motivos_exclusion": {
+        "menos_de_5_partidos_previos_por_equipo": 28,
+        "final_sede_neutral": 1
+      },
+      "fecha_desde": "2023-09-19",
+      "fecha_hasta": "2024-05-08",
+      "soporte": {
+        "Local": 49,
+        "Empate": 19,
+        "Visitante": 28
+      }
+    },
+    "prueba": {
+      "temporadas": [
+        "2024-25"
+      ],
+      "total": 189,
+      "utilizables": 154,
+      "excluidos": 35,
+      "motivos_exclusion": {
+        "menos_de_5_partidos_previos_por_equipo": 34,
+        "final_sede_neutral": 1
+      },
+      "fecha_desde": "2024-09-17",
+      "fecha_hasta": "2025-05-07",
+      "soporte": {
+        "Local": 79,
+        "Empate": 23,
+        "Visitante": 52
+      }
+    },
+    "reajuste_actual": {
+      "temporadas": [
+        "2016-17",
+        "2017-18",
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26"
+      ],
+      "total": 1372,
+      "utilizables": 895,
+      "excluidos": 477,
+      "motivos_exclusion": {
+        "menos_de_5_partidos_previos_por_equipo": 333,
+        "final_sede_neutral": 10,
+        "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+        "temporada_2020_21_sedes_no_auditadas": 124
+      },
+      "fecha_desde": "2016-12-06",
+      "fecha_hasta": "2026-05-06",
+      "soporte": {
+        "Local": 435,
+        "Empate": 167,
+        "Visitante": 293
+      }
+    }
+  },
+  "validacion": {
+    "temporada": "2023-24",
+    "metricas": {
+      "Referencia": {
+        "partidos": 96,
+        "accuracy": 0.5104166666666666,
+        "f1_macro": 0.22528735632183908,
+        "log_loss": 1.0287329365010995,
+        "soporte": {
+          "Local": 49,
+          "Empate": 19,
+          "Visitante": 28
+        },
+        "matriz_confusion": [
+          [
+            49,
+            0,
+            0
+          ],
+          [
+            19,
+            0,
+            0
+          ],
+          [
+            28,
+            0,
+            0
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      },
+      "RegresionLogistica": {
+        "partidos": 96,
+        "accuracy": 0.5833333333333334,
+        "f1_macro": 0.4100949525237381,
+        "log_loss": 0.9848472027127961,
+        "soporte": {
+          "Local": 49,
+          "Empate": 19,
+          "Visitante": 28
+        },
+        "matriz_confusion": [
+          [
+            41,
+            0,
+            8
+          ],
+          [
+            12,
+            0,
+            7
+          ],
+          [
+            13,
+            0,
+            15
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      },
+      "RandomForest": {
+        "partidos": 96,
+        "accuracy": 0.5833333333333334,
+        "f1_macro": 0.4576041242707909,
+        "log_loss": 0.9704474348435722,
+        "soporte": {
+          "Local": 49,
+          "Empate": 19,
+          "Visitante": 28
+        },
+        "matriz_confusion": [
+          [
+            41,
+            0,
+            8
+          ],
+          [
+            12,
+            2,
+            5
+          ],
+          [
+            15,
+            0,
+            13
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      }
+    }
+  },
+  "prueba": {
+    "temporada": "2024-25",
+    "modelo": "RandomForest",
+    "metricas_modelo": {
+      "partidos": 154,
+      "accuracy": 0.551948051948052,
+      "f1_macro": 0.38075609031491386,
+      "log_loss": 0.975326417019623,
+      "soporte": {
+        "Local": 79,
+        "Empate": 23,
+        "Visitante": 52
+      },
+      "matriz_confusion": [
+        [
+          62,
+          0,
+          17
+        ],
+        [
+          19,
+          0,
+          4
+        ],
+        [
+          27,
+          2,
+          23
+        ]
+      ],
+      "orden_clases": [
+        "Local",
+        "Empate",
+        "Visitante"
+      ],
+      "matriz_filas": "resultado_real",
+      "matriz_columnas": "resultado_estimado"
+    },
+    "metricas_referencia": {
+      "partidos": 154,
+      "accuracy": 0.512987012987013,
+      "f1_macro": 0.22603719599427755,
+      "log_loss": 1.0028537461642932,
+      "soporte": {
+        "Local": 79,
+        "Empate": 23,
+        "Visitante": 52
+      },
+      "matriz_confusion": [
+        [
+          79,
+          0,
+          0
+        ],
+        [
+          23,
+          0,
+          0
+        ],
+        [
+          52,
+          0,
+          0
+        ]
+      ],
+      "orden_clases": [
+        "Local",
+        "Empate",
+        "Visitante"
+      ],
+      "matriz_filas": "resultado_real",
+      "matriz_columnas": "resultado_estimado"
+    },
+    "supera_referencia_f1_macro": true,
+    "supera_referencia_accuracy": true
+  },
+  "artefactos": {
+    "evaluado": {
+      "archivo": "modelo_evaluado.joblib",
+      "sha256": "0aa8e9cb722c30e4582447c14d7e0e3d6df5f44521610dca36f1660a95d176ae",
+      "entrenado_hasta": "2024-05-08",
+      "partidos_entrenamiento": 577,
+      "evaluado_en": "2024-25"
+    },
+    "actual": {
+      "archivo": "modelo_actual.joblib",
+      "sha256": "4893bc54223a405196e2d67b7cdc49ec5d4c3a4d3986d537d306cdc7f9a294e7",
+      "entrenado_hasta": "2026-05-06",
+      "partidos_entrenamiento": 895,
+      "evaluado_en": null
+    }
+  },
+  "limitaciones": [
+    "Modelo académico inicial; sus probabilidades no están calibradas ni garantizan resultados.",
+    "En prueba acertó 0 de 23 empates reales; revisar la matriz por clase y no sólo el accuracy global.",
+    "Las métricas de prueba corresponden sólo al artefacto evaluado; el reajustado con todos los datos no tiene prueba futura independiente.",
+    "Se exigen cinco partidos previos por equipo. La cobertura de evaluación excluye clubes con poco historial.",
+    "Se excluyen como objetivos todas las finales, toda 2020-21 y octavos/cuartos/semifinales de agosto de 2020 por sedes no auditadas.",
+    "Las seis variables sólo resumen puntos y goles de los últimos cinco partidos de Champions; no usan lesiones, plantillas ni otras ligas.",
+    "El historial de forma puede incluir partidos en sede neutral porque no separa rendimiento local/visitante.",
+    "En evaluación, cada partido usa resultados conocidos de días anteriores, incluidos partidos ya terminados de la temporada de prueba; los pesos quedan congelados.",
+    "El nuevo formato de 2024-25 cambia rivales, número de partidos y distribución de los datos.",
+    "La fuente comunitaria no cuenta con auditoría independiente de todos sus resultados ni sedes."
+  ]
+}

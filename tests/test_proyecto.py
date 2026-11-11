@@ -1,9 +1,11 @@
 """Pruebas de la interpretación del marcador y de los contratos HTTP."""
 import unittest
-from datetime import date
+from datetime import date, timedelta
+from unittest.mock import patch
 import pandas as pd
 from fastapi.testclient import TestClient
-from api.main import app, DATA, team_history
+from api.main import app, DATA, MAX_DATE, team_history
+from ml.model_service import ModelUnavailableError
 from scripts.preparar_datos import score90
 
 client = TestClient(app)
@@ -19,11 +21,13 @@ class ProjectTests(unittest.TestCase):
 
     def test_snapshot_and_reconciled_counts(self):
         report=client.get("/calidad").json()
-        self.assertEqual(len(DATA),994)
+        self.assertEqual(len(DATA),1372)
         self.assertEqual(sum(report["temporadas"].values()),len(DATA))
         self.assertEqual(DATA.id.nunique(),len(DATA))
         self.assertEqual(DATA.fecha.min(),"2016-09-13")
-        self.assertEqual(DATA.fecha.max(),"2024-06-01")
+        self.assertEqual(DATA.fecha.max(),"2026-05-30")
+        self.assertEqual(report["temporadas"]["2024-25"],189)
+        self.assertEqual(report["temporadas"]["2025-26"],189)
 
     def test_filters_and_download_agree(self):
         params={"equipo":"Real Madrid","temporada":"2023-24"}
@@ -46,7 +50,7 @@ class ProjectTests(unittest.TestCase):
         self.assertEqual(client.post("/comparaciones",json=data).status_code,422)
         data["visitante"]="No existe"
         self.assertEqual(client.post("/comparaciones",json=data).status_code,404)
-        data.update(visitante="Manchester City",fecha="2026-10-06")
+        data.update(visitante="Manchester City",fecha=(MAX_DATE + timedelta(days=2)).isoformat())
         self.assertEqual(client.post("/comparaciones",json=data).status_code,422)
         self.assertEqual(client.get("/partidos?limite=0").status_code,422)
         self.assertEqual(client.get("/partidos?temporada=2099-00").status_code,404)
@@ -57,10 +61,32 @@ class ProjectTests(unittest.TestCase):
         self.assertIsNone(item["promedio_goles_favor"])
         self.assertEqual(item["ultimos_partidos"],[])
 
-    def test_model_does_not_fabricate_predictions(self):
+    def test_prediction_rejects_date_before_training_end(self):
         response=client.post("/predicciones",json={"local":"Real Madrid","visitante":"Manchester City","fecha":"2024-04-09"})
+        self.assertEqual(response.status_code,422)
+        self.assertNotIn("probabilidades",response.json())
+
+    def test_model_unavailable_does_not_fabricate_predictions(self):
+        with patch("ml.model_service.load_bundle", side_effect=ModelUnavailableError("Modelo no disponible")):
+            response=client.post("/predicciones",json={"local":"Real Madrid","visitante":"Manchester City","fecha":"2025-02-19"})
         self.assertEqual(response.status_code,503)
         self.assertNotIn("probabilidades",response.json())
+
+    def test_prediction_returns_probabilities_and_rejects_reversed_neutral_final(self):
+        response=client.post("/predicciones",json={"local":"Real Madrid","visitante":"Manchester City","fecha":"2025-02-19"})
+        self.assertEqual(response.status_code,200,response.text)
+        result=response.json()
+        self.assertAlmostEqual(sum(result["probabilidades"].values()),1.0)
+        self.assertEqual(result["version_modelo"],"evaluado")
+        for local,away in [("Paris Saint-Germain","Inter"),("Inter","Paris Saint-Germain")]:
+            rejected=client.post("/predicciones",json={"local":local,"visitante":away,"fecha":"2025-05-31"})
+            self.assertEqual(rejected.status_code,422,rejected.text)
+
+    def test_all_rows_are_returned_or_paginated_without_truncation(self):
+        all_rows=client.get("/partidos").json()
+        self.assertEqual(len(all_rows["partidos"]),all_rows["total"])
+        final_page=client.get("/partidos",params={"limite":500,"desplazamiento":1000}).json()
+        self.assertEqual(len(final_page["partidos"]),372)
 
 
 if __name__ == "__main__":

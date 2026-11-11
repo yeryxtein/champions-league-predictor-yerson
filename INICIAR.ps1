@@ -20,7 +20,7 @@ if (Test-Path -LiteralPath $sharedPython) {
     if ($LASTEXITCODE -ne 0) { throw 'No se pudo crear el entorno de Python.' }
     $projectPython = $localPython
 }
-& $projectPython -c 'import fastapi, uvicorn, streamlit, pandas, requests'
+& $projectPython -c 'import fastapi, uvicorn, streamlit, pandas, requests, sklearn, joblib'
 if ($LASTEXITCODE -ne 0) {
     Write-Host 'Instalando dependencias. La primera vez requiere internet...'
     & $projectPython -m pip install -r (Join-Path $PSScriptRoot 'requirements-lock.txt')

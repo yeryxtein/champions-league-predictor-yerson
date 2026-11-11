@@ -1,0 +1,1033 @@
+{
+  "estado": "evaluado",
+  "version": 2,
+  "protocolo": "expansivo-2025-26-v1",
+  "codigo_sha256": "916f1da9830b971777dfd65adbf576a17b48c9bba45e8c92f9d3fd8b4486c08e",
+  "generado_utc": "2026-11-09T21:26:55.046603+00:00",
+  "dataset_sha256": "84d5c57de6c35c242f58e1242e56b8bc8392c1c787d950b60e7c53f8285821bf",
+  "dataset_fecha_hasta": "2026-05-30",
+  "elegido": "Logistica_ampliada_equilibrada",
+  "variables_elegido": [
+    "local_puntos_5",
+    "local_goles_favor_5",
+    "local_goles_contra_5",
+    "visitante_puntos_5",
+    "visitante_goles_favor_5",
+    "visitante_goles_contra_5",
+    "local_empates_5",
+    "visitante_empates_5",
+    "elo_diferencia",
+    "directos_partidos_5",
+    "directos_local_suavizado",
+    "directos_empate_suavizado",
+    "directos_visitante_suavizado"
+  ],
+  "validacion": {
+    "temporadas": [
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "candidatos": {
+      "RF6": {
+        "por_temporada": {
+          "2022-23": {
+            "partidos": 109,
+            "accuracy": 0.5688073394495413,
+            "f1_macro": 0.4347385057471264,
+            "log_loss": 1.0052376951356585,
+            "soporte": {
+              "Local": 51,
+              "Empate": 25,
+              "Visitante": 33
+            },
+            "empates": {
+              "reales": 25,
+              "predichos": 4,
+              "aciertos": 1,
+              "recall": 0.04,
+              "precision": 0.25
+            },
+            "matriz_confusion": [
+              [
+                44,
+                1,
+                6
+              ],
+              [
+                16,
+                1,
+                8
+              ],
+              [
+                14,
+                2,
+                17
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2023-24": {
+            "partidos": 96,
+            "accuracy": 0.5833333333333334,
+            "f1_macro": 0.4576041242707909,
+            "log_loss": 0.9704474348435722,
+            "soporte": {
+              "Local": 49,
+              "Empate": 19,
+              "Visitante": 28
+            },
+            "empates": {
+              "reales": 19,
+              "predichos": 2,
+              "aciertos": 2,
+              "recall": 0.10526315789473684,
+              "precision": 1.0
+            },
+            "matriz_confusion": [
+              [
+                41,
+                0,
+                8
+              ],
+              [
+                12,
+                2,
+                5
+              ],
+              [
+                15,
+                0,
+                13
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2024-25": {
+            "partidos": 154,
+            "accuracy": 0.551948051948052,
+            "f1_macro": 0.38075609031491386,
+            "log_loss": 0.975326417019623,
+            "soporte": {
+              "Local": 79,
+              "Empate": 23,
+              "Visitante": 52
+            },
+            "empates": {
+              "reales": 23,
+              "predichos": 2,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                62,
+                0,
+                17
+              ],
+              [
+                19,
+                0,
+                4
+              ],
+              [
+                27,
+                2,
+                23
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          }
+        },
+        "f1_macro_medio": 0.42436624011094376,
+        "log_loss_medio": 0.9836705156662845
+      },
+      "RF_ampliado": {
+        "por_temporada": {
+          "2022-23": {
+            "partidos": 109,
+            "accuracy": 0.5229357798165137,
+            "f1_macro": 0.3840563252327958,
+            "log_loss": 0.9913944104005372,
+            "soporte": {
+              "Local": 51,
+              "Empate": 25,
+              "Visitante": 33
+            },
+            "empates": {
+              "reales": 25,
+              "predichos": 0,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                38,
+                0,
+                13
+              ],
+              [
+                16,
+                0,
+                9
+              ],
+              [
+                14,
+                0,
+                19
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2023-24": {
+            "partidos": 96,
+            "accuracy": 0.59375,
+            "f1_macro": 0.4230359391649714,
+            "log_loss": 0.9145385186300473,
+            "soporte": {
+              "Local": 49,
+              "Empate": 19,
+              "Visitante": 28
+            },
+            "empates": {
+              "reales": 19,
+              "predichos": 0,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                40,
+                0,
+                9
+              ],
+              [
+                11,
+                0,
+                8
+              ],
+              [
+                11,
+                0,
+                17
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2024-25": {
+            "partidos": 154,
+            "accuracy": 0.577922077922078,
+            "f1_macro": 0.40841853764800956,
+            "log_loss": 0.966026429225371,
+            "soporte": {
+              "Local": 79,
+              "Empate": 23,
+              "Visitante": 52
+            },
+            "empates": {
+              "reales": 23,
+              "predichos": 0,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                59,
+                0,
+                20
+              ],
+              [
+                19,
+                0,
+                4
+              ],
+              [
+                22,
+                0,
+                30
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          }
+        },
+        "f1_macro_medio": 0.40517026734859224,
+        "log_loss_medio": 0.9573197860853185
+      },
+      "RF_ampliado_equilibrado": {
+        "por_temporada": {
+          "2022-23": {
+            "partidos": 109,
+            "accuracy": 0.48623853211009177,
+            "f1_macro": 0.42902610319490114,
+            "log_loss": 1.0096627185861073,
+            "soporte": {
+              "Local": 51,
+              "Empate": 25,
+              "Visitante": 33
+            },
+            "empates": {
+              "reales": 25,
+              "predichos": 21,
+              "aciertos": 4,
+              "recall": 0.16,
+              "precision": 0.19047619047619047
+            },
+            "matriz_confusion": [
+              [
+                32,
+                7,
+                12
+              ],
+              [
+                13,
+                4,
+                8
+              ],
+              [
+                6,
+                10,
+                17
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2023-24": {
+            "partidos": 96,
+            "accuracy": 0.5,
+            "f1_macro": 0.4294107772368642,
+            "log_loss": 0.9692164535644002,
+            "soporte": {
+              "Local": 49,
+              "Empate": 19,
+              "Visitante": 28
+            },
+            "empates": {
+              "reales": 19,
+              "predichos": 18,
+              "aciertos": 2,
+              "recall": 0.10526315789473684,
+              "precision": 0.1111111111111111
+            },
+            "matriz_confusion": [
+              [
+                28,
+                13,
+                8
+              ],
+              [
+                8,
+                2,
+                9
+              ],
+              [
+                7,
+                3,
+                18
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2024-25": {
+            "partidos": 154,
+            "accuracy": 0.538961038961039,
+            "f1_macro": 0.43465310814098856,
+            "log_loss": 1.0247603258398292,
+            "soporte": {
+              "Local": 79,
+              "Empate": 23,
+              "Visitante": 52
+            },
+            "empates": {
+              "reales": 23,
+              "predichos": 18,
+              "aciertos": 2,
+              "recall": 0.08695652173913043,
+              "precision": 0.1111111111111111
+            },
+            "matriz_confusion": [
+              [
+                48,
+                8,
+                23
+              ],
+              [
+                15,
+                2,
+                6
+              ],
+              [
+                11,
+                8,
+                33
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          }
+        },
+        "f1_macro_medio": 0.43102999619091803,
+        "log_loss_medio": 1.001213165996779
+      },
+      "Logistica_ampliada": {
+        "por_temporada": {
+          "2022-23": {
+            "partidos": 109,
+            "accuracy": 0.5412844036697247,
+            "f1_macro": 0.3969829908412222,
+            "log_loss": 0.9867625427267656,
+            "soporte": {
+              "Local": 51,
+              "Empate": 25,
+              "Visitante": 33
+            },
+            "empates": {
+              "reales": 25,
+              "predichos": 0,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                40,
+                0,
+                11
+              ],
+              [
+                17,
+                0,
+                8
+              ],
+              [
+                14,
+                0,
+                19
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2023-24": {
+            "partidos": 96,
+            "accuracy": 0.6145833333333334,
+            "f1_macro": 0.43896103896103894,
+            "log_loss": 0.8980388762215693,
+            "soporte": {
+              "Local": 49,
+              "Empate": 19,
+              "Visitante": 28
+            },
+            "empates": {
+              "reales": 19,
+              "predichos": 0,
+              "aciertos": 0,
+              "recall": 0.0,
+              "precision": 0.0
+            },
+            "matriz_confusion": [
+              [
+                41,
+                0,
+                8
+              ],
+              [
+                10,
+                0,
+                9
+              ],
+              [
+                10,
+                0,
+                18
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2024-25": {
+            "partidos": 154,
+            "accuracy": 0.564935064935065,
+            "f1_macro": 0.4245973496432212,
+            "log_loss": 0.9750661061683005,
+            "soporte": {
+              "Local": 79,
+              "Empate": 23,
+              "Visitante": 52
+            },
+            "empates": {
+              "reales": 23,
+              "predichos": 1,
+              "aciertos": 1,
+              "recall": 0.043478260869565216,
+              "precision": 1.0
+            },
+            "matriz_confusion": [
+              [
+                56,
+                0,
+                23
+              ],
+              [
+                18,
+                1,
+                4
+              ],
+              [
+                22,
+                0,
+                30
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          }
+        },
+        "f1_macro_medio": 0.4201804598151608,
+        "log_loss_medio": 0.9532891750388784
+      },
+      "Logistica_ampliada_equilibrada": {
+        "por_temporada": {
+          "2022-23": {
+            "partidos": 109,
+            "accuracy": 0.46788990825688076,
+            "f1_macro": 0.4103896691038966,
+            "log_loss": 1.0185888959899607,
+            "soporte": {
+              "Local": 51,
+              "Empate": 25,
+              "Visitante": 33
+            },
+            "empates": {
+              "reales": 25,
+              "predichos": 19,
+              "aciertos": 3,
+              "recall": 0.12,
+              "precision": 0.15789473684210525
+            },
+            "matriz_confusion": [
+              [
+                29,
+                11,
+                11
+              ],
+              [
+                12,
+                3,
+                10
+              ],
+              [
+                9,
+                5,
+                19
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2023-24": {
+            "partidos": 96,
+            "accuracy": 0.53125,
+            "f1_macro": 0.47940947940947937,
+            "log_loss": 0.9713214909557931,
+            "soporte": {
+              "Local": 49,
+              "Empate": 19,
+              "Visitante": 28
+            },
+            "empates": {
+              "reales": 19,
+              "predichos": 20,
+              "aciertos": 5,
+              "recall": 0.2631578947368421,
+              "precision": 0.25
+            },
+            "matriz_confusion": [
+              [
+                29,
+                8,
+                12
+              ],
+              [
+                5,
+                5,
+                9
+              ],
+              [
+                4,
+                7,
+                17
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          },
+          "2024-25": {
+            "partidos": 154,
+            "accuracy": 0.5454545454545454,
+            "f1_macro": 0.46143444115046545,
+            "log_loss": 1.0506227421018284,
+            "soporte": {
+              "Local": 79,
+              "Empate": 23,
+              "Visitante": 52
+            },
+            "empates": {
+              "reales": 23,
+              "predichos": 16,
+              "aciertos": 4,
+              "recall": 0.17391304347826086,
+              "precision": 0.25
+            },
+            "matriz_confusion": [
+              [
+                48,
+                5,
+                26
+              ],
+              [
+                13,
+                4,
+                6
+              ],
+              [
+                13,
+                7,
+                32
+              ]
+            ],
+            "orden_clases": [
+              "Local",
+              "Empate",
+              "Visitante"
+            ],
+            "matriz_filas": "resultado_real",
+            "matriz_columnas": "resultado_estimado"
+          }
+        },
+        "f1_macro_medio": 0.4504111965546138,
+        "log_loss_medio": 1.0135110430158607
+      }
+    },
+    "particiones": {
+      "2022-23": {
+        "entrenamiento": {
+          "temporadas": [
+            "2016-17",
+            "2017-18",
+            "2018-19",
+            "2019-20",
+            "2020-21",
+            "2021-22"
+          ],
+          "total": 744,
+          "utilizables": 372,
+          "excluidos": 372,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 232,
+            "final_sede_neutral": 6,
+            "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+            "temporada_2020_21_sedes_no_auditadas": 124
+          },
+          "fecha_desde": "2016-12-06",
+          "fecha_hasta": "2022-05-04",
+          "soporte": {
+            "Local": 171,
+            "Empate": 73,
+            "Visitante": 128
+          }
+        },
+        "validacion": {
+          "temporadas": [
+            "2022-23"
+          ],
+          "total": 125,
+          "utilizables": 109,
+          "excluidos": 16,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 15,
+            "final_sede_neutral": 1
+          },
+          "fecha_desde": "2022-09-06",
+          "fecha_hasta": "2023-05-17",
+          "soporte": {
+            "Local": 51,
+            "Empate": 25,
+            "Visitante": 33
+          }
+        }
+      },
+      "2023-24": {
+        "entrenamiento": {
+          "temporadas": [
+            "2016-17",
+            "2017-18",
+            "2018-19",
+            "2019-20",
+            "2020-21",
+            "2021-22",
+            "2022-23"
+          ],
+          "total": 869,
+          "utilizables": 481,
+          "excluidos": 388,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 247,
+            "final_sede_neutral": 7,
+            "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+            "temporada_2020_21_sedes_no_auditadas": 124
+          },
+          "fecha_desde": "2016-12-06",
+          "fecha_hasta": "2023-05-17",
+          "soporte": {
+            "Local": 222,
+            "Empate": 98,
+            "Visitante": 161
+          }
+        },
+        "validacion": {
+          "temporadas": [
+            "2023-24"
+          ],
+          "total": 125,
+          "utilizables": 96,
+          "excluidos": 29,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 28,
+            "final_sede_neutral": 1
+          },
+          "fecha_desde": "2023-09-19",
+          "fecha_hasta": "2024-05-08",
+          "soporte": {
+            "Local": 49,
+            "Empate": 19,
+            "Visitante": 28
+          }
+        }
+      },
+      "2024-25": {
+        "entrenamiento": {
+          "temporadas": [
+            "2016-17",
+            "2017-18",
+            "2018-19",
+            "2019-20",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24"
+          ],
+          "total": 994,
+          "utilizables": 577,
+          "excluidos": 417,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 275,
+            "final_sede_neutral": 8,
+            "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+            "temporada_2020_21_sedes_no_auditadas": 124
+          },
+          "fecha_desde": "2016-12-06",
+          "fecha_hasta": "2024-05-08",
+          "soporte": {
+            "Local": 271,
+            "Empate": 117,
+            "Visitante": 189
+          }
+        },
+        "validacion": {
+          "temporadas": [
+            "2024-25"
+          ],
+          "total": 189,
+          "utilizables": 154,
+          "excluidos": 35,
+          "motivos_exclusion": {
+            "menos_de_5_partidos_previos_por_equipo": 34,
+            "final_sede_neutral": 1
+          },
+          "fecha_desde": "2024-09-17",
+          "fecha_hasta": "2025-05-07",
+          "soporte": {
+            "Local": 79,
+            "Empate": 23,
+            "Visitante": 52
+          }
+        }
+      }
+    }
+  },
+  "entrenamiento_final": {
+    "temporadas": [
+      "2016-17",
+      "2017-18",
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "total": 1183,
+    "utilizables": 731,
+    "excluidos": 452,
+    "motivos_exclusion": {
+      "menos_de_5_partidos_previos_por_equipo": 309,
+      "final_sede_neutral": 9,
+      "eliminatorias_agosto_2020_sedes_no_auditadas": 10,
+      "temporada_2020_21_sedes_no_auditadas": 124
+    },
+    "fecha_desde": "2016-12-06",
+    "fecha_hasta": "2025-05-07",
+    "soporte": {
+      "Local": 350,
+      "Empate": 140,
+      "Visitante": 241
+    }
+  },
+  "prueba": {
+    "temporada": "2025-26",
+    "temporadas": [
+      "2025-26"
+    ],
+    "total": 189,
+    "utilizables": 164,
+    "excluidos": 25,
+    "motivos_exclusion": {
+      "menos_de_5_partidos_previos_por_equipo": 24,
+      "final_sede_neutral": 1
+    },
+    "fecha_desde": "2025-09-16",
+    "fecha_hasta": "2026-05-06",
+    "soporte": {
+      "Local": 85,
+      "Empate": 27,
+      "Visitante": 52
+    },
+    "metricas": {
+      "elegido": {
+        "partidos": 164,
+        "accuracy": 0.524390243902439,
+        "f1_macro": 0.45587674887037943,
+        "log_loss": 1.013685045114938,
+        "soporte": {
+          "Local": 85,
+          "Empate": 27,
+          "Visitante": 52
+        },
+        "empates": {
+          "reales": 27,
+          "predichos": 27,
+          "aciertos": 6,
+          "recall": 0.2222222222222222,
+          "precision": 0.2222222222222222
+        },
+        "matriz_confusion": [
+          [
+            51,
+            11,
+            23
+          ],
+          [
+            8,
+            6,
+            13
+          ],
+          [
+            13,
+            10,
+            29
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      },
+      "rf6": {
+        "partidos": 164,
+        "accuracy": 0.5182926829268293,
+        "f1_macro": 0.34063210080561873,
+        "log_loss": 0.9708720676204263,
+        "soporte": {
+          "Local": 85,
+          "Empate": 27,
+          "Visitante": 52
+        },
+        "empates": {
+          "reales": 27,
+          "predichos": 1,
+          "aciertos": 0,
+          "recall": 0.0,
+          "precision": 0.0
+        },
+        "matriz_confusion": [
+          [
+            68,
+            0,
+            17
+          ],
+          [
+            19,
+            0,
+            8
+          ],
+          [
+            34,
+            1,
+            17
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      },
+      "referencia": {
+        "partidos": 164,
+        "accuracy": 0.5182926829268293,
+        "f1_macro": 0.2275769745649264,
+        "log_loss": 1.0056445324140508,
+        "soporte": {
+          "Local": 85,
+          "Empate": 27,
+          "Visitante": 52
+        },
+        "empates": {
+          "reales": 27,
+          "predichos": 0,
+          "aciertos": 0,
+          "recall": 0.0,
+          "precision": 0.0
+        },
+        "matriz_confusion": [
+          [
+            85,
+            0,
+            0
+          ],
+          [
+            27,
+            0,
+            0
+          ],
+          [
+            52,
+            0,
+            0
+          ]
+        ],
+        "orden_clases": [
+          "Local",
+          "Empate",
+          "Visitante"
+        ],
+        "matriz_filas": "resultado_real",
+        "matriz_columnas": "resultado_estimado"
+      }
+    }
+  },
+  "versiones": {
+    "python": "3.12.14",
+    "scikit-learn": "1.9.1",
+    "pandas": "2.3.3"
+  },
+  "hashes": {
+    "seleccion_sha256": "83344f2664229ef7916f174981ecf30ddd41e5c3565727f924a412f63e7f8258",
+    "predicciones_sha256": "33c29fff2873a0ff46f5b246ade10651f8f67a5793ea3a5afb0e78d471435f3c"
+  },
+  "limitaciones": [
+    "Prueba retrospectiva de una temporada. Los resultados de 2025-26 ya existían y se usaron en el reajuste de la versión anterior; las recetas de este experimento se seleccionan con temporadas anteriores.",
+    "Los pesos quedan congelados antes de 2025-26. Las variables de cada encuentro incorporan resultados conocidos de días previos de esa temporada.",
+    "Se requiere historial de cinco partidos por equipo y se conservan las exclusiones de sede de la primera versión.",
+    "Las probabilidades se reportan sin calibración adicional. Las ponderaciones de clase pueden modificar su interpretación probabilística.",
+    "Una mejora en esta muestra requiere confirmación en partidos futuros y en temporadas adicionales."
+  ]
+}

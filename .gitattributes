@@ -1,0 +1,4 @@
+# Los informes de integridad usan los bytes originales de datos y artefactos.
+data/** -text
+models/** -text
+*.joblib binary

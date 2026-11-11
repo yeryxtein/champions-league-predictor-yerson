@@ -1,5 +1,5 @@
 {
-  "partidos": 994,
+  "partidos": 1372,
   "temporadas": {
     "2016-17": 125,
     "2017-18": 125,
@@ -8,36 +8,253 @@
     "2020-21": 125,
     "2021-22": 125,
     "2022-23": 125,
-    "2023-24": 125
+    "2023-24": 125,
+    "2024-25": 189,
+    "2025-26": 189
   },
-  "equipos": 83,
+  "equipos": 96,
   "fecha_desde": "2016-09-13",
-  "fecha_hasta": "2024-06-01",
+  "fecha_hasta": "2026-05-30",
   "resultados": {
-    "Local": 448,
-    "Visitante": 334,
-    "Empate": 212
+    "Local": 638,
+    "Visitante": 461,
+    "Empate": 273
   },
   "duplicados": 0,
   "faltantes_campos_exportados": 0,
-  "prorrogas": 9,
-  "penales": 3,
-  "nombres_unificados": 15,
+  "prorrogas": 16,
+  "penales": 6,
+  "nombres_unificados": 26,
   "registros_descartados": 0,
-  "alcance": "Fase de grupos y eliminatorias de Champions, sin rondas clasificatorias",
+  "partidos_sin_resultado": 0,
+  "archivo_sin_resultado": "data/processed/programados.csv",
+  "cobertura_temporadas": {
+    "2016-17": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2017-06-03",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2017-18": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2018-05-26",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2018-19": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2019-06-01",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2019-20": {
+      "declarados_fuente": 119,
+      "registros_fuente": 119,
+      "con_resultado": 119,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2020-08-23",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 4,
+        "Semifinal": 2,
+        "Final": 1
+      }
+    },
+    "2020-21": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2021-05-29",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2021-22": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2022-05-28",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2022-23": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2023-06-10",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2023-24": {
+      "declarados_fuente": 125,
+      "registros_fuente": 125,
+      "con_resultado": 125,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2024-06-01",
+      "fases": {
+        "Grupos": 96,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2024-25": {
+      "declarados_fuente": 189,
+      "registros_fuente": 189,
+      "con_resultado": 189,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2025-05-31",
+      "fases": {
+        "Liga": 144,
+        "Playoffs": 16,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    },
+    "2025-26": {
+      "declarados_fuente": 189,
+      "registros_fuente": 189,
+      "con_resultado": 189,
+      "sin_resultado": 0,
+      "ausentes_en_fuente": 0,
+      "cobertura_resultados_pct": 100.0,
+      "estado": "Completa según conteo de la fuente",
+      "fecha_ultimo_resultado": "2026-05-30",
+      "fases": {
+        "Liga": 144,
+        "Playoffs": 16,
+        "Octavos": 16,
+        "Cuartos": 8,
+        "Semifinal": 4,
+        "Final": 1
+      }
+    }
+  },
+  "correcciones_90min": [
+    {
+      "id": "669168c0ad8e5f74",
+      "temporada": "2024-25",
+      "fecha": "2025-02-19",
+      "local": "PSV Eindhoven",
+      "visitante": "Juventus",
+      "marcador_fuente_esperado": "3-1 (0-0)",
+      "goles_local_90": 2,
+      "goles_visitante_90": 1,
+      "hubo_prorroga": true,
+      "hubo_penales": false,
+      "motivo": "El 3-1 incluye el gol de Flamingo al minuto 98. El marcador al terminar los 90 minutos fue 2-1.",
+      "fuente_verificacion": "https://www.uefa.com/newsfiles/UCL/2025/2044483_FR.pdf",
+      "fuente_adicional": "https://www.juventus.com/en/news/articles/juve-suffer-extra-time-defeat-to-psv",
+      "fuente_original": "https://github.com/openfootball/champions-league/blob/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2024-25/cl.txt#L217"
+    },
+    {
+      "id": "90ec53a9fa559306",
+      "temporada": "2024-25",
+      "fecha": "2025-05-06",
+      "local": "Inter",
+      "visitante": "FC Barcelona",
+      "marcador_fuente_esperado": "4-3 (2-0)",
+      "goles_local_90": 3,
+      "goles_visitante_90": 3,
+      "hubo_prorroga": true,
+      "hubo_penales": false,
+      "motivo": "Acerbi empató 3-3 al minuto 90+3. Frattesi marcó el 4-3 al minuto 99, durante la prórroga.",
+      "fuente_verificacion": "https://www.uefa.com/uefachampionsleague/news/0299-1db1e0d054c8-02dafe0b7237-1000--inter-4-3-barcelona-aet-agg-7-6-davide-frattesi-settles-/",
+      "fuente_original": "https://github.com/openfootball/champions-league/blob/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2024-25/cl.txt#L264"
+    }
+  ],
+  "archivo_correcciones": {
+    "archivo": "data/correcciones_90min.json",
+    "sha256": "10dcb5cab0e3c1e3136c70551adbad0eb57590cb49ffa04e5c768e6e5e355c84"
+  },
+  "fecha_referencia": "2026-10-29",
+  "alcance": "Fase de grupos o liga y eliminatorias de Champions, sin rondas clasificatorias",
   "objetivo": "Resultado tras 90 minutos más tiempo añadido, excluyendo prórroga y tanda de penales",
   "limitaciones": [
-    "Fuente comunitaria. Los conteos coinciden con los encabezados de sus archivos, sin auditoría independiente de todos los resultados.",
-    "Los datos terminan el 1 de junio de 2024. No describen el estado actual de los equipos.",
+    "Fuente comunitaria. La cobertura compara con sus encabezados; no constituye una auditoría independiente de todos los resultados.",
+    "Último resultado disponible: 2026-05-30. No contiene la temporada 2026-27 ni se actualiza automáticamente.",
+    "Los partidos sin resultado se conservan aparte, nunca se usan como ejemplos de entrenamiento ni como empates.",
+    "Dos marcadores de 2024-25 se ajustaron a 90 minutos con fuentes oficiales documentadas en correcciones_90min.json.",
     "La fuente no proporciona una columna uniforme de sede neutral. Local y visitante son las designaciones del registro.",
-    "No contiene lesiones, alineaciones ni el historial completo en otras competiciones.",
-    "Aún no se ha entrenado ni evaluado un modelo predictivo."
+    "No contiene lesiones, alineaciones ni el historial completo en otras competiciones."
   ],
   "fuente": {
     "repositorio": "https://github.com/openfootball/champions-league",
     "commit": "abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef",
     "licencia": "CC0-1.0",
-    "descargado_utc": "2026-10-06T17:09:31.771632+00:00",
+    "descargado_utc": "2026-10-30T02:04:28.992931+00:00",
     "archivos": [
       {
         "temporada": "2016-17",
@@ -94,7 +311,26 @@
         "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2023-24/cl.txt",
         "sha256": "5872bee720b32410f28c5272fb7fe7b07aa0f66bcb31ffe157893d75c14c47c5",
         "bytes": 10428
+      },
+      {
+        "temporada": "2024-25",
+        "archivo": "data/raw/2024-25.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2024-25/cl.txt",
+        "sha256": "c2692b22af02c5df4587b69c5f430aebf7d936845b5337aee462ce8e649eb1b5",
+        "bytes": 15374
+      },
+      {
+        "temporada": "2025-26",
+        "archivo": "data/raw/2025-26.txt",
+        "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/2025-26/cl.txt",
+        "sha256": "2b1877308587ff1004c21b8e961b9050b8754f968244e0635eb005040fd9d5cb",
+        "bytes": 15265
       }
-    ]
+    ],
+    "archivo_licencia": {
+      "archivo": "data/raw/LICENSE_OpenFootball.md",
+      "url": "https://raw.githubusercontent.com/openfootball/champions-league/abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef/LICENSE.md",
+      "sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+    }
   }
 }

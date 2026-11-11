@@ -15,6 +15,7 @@ ROOT=Path(__file__).resolve().parent
 
 def busy(port):
     with socket.socket() as sock:
+        sock.settimeout(1)
         return sock.connect_ex(("127.0.0.1",port))==0
 
 

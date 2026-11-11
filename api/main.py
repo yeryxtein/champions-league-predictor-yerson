@@ -14,11 +14,19 @@ DATA = pd.read_csv(ROOT / "data/processed/partidos.csv", encoding="utf-8-sig")
 REPORT = json.loads((ROOT / "data/processed/calidad.json").read_text(encoding="utf-8"))
 TEAMS = sorted(set(DATA["local"]) | set(DATA["visitante"]))
 SEASONS = sorted(DATA["temporada"].unique().tolist())
-PHASES = ["Grupos", "Octavos", "Cuartos", "Semifinal", "Final"]
+PHASES = DATA["fase"].drop_duplicates().tolist()
 MIN_DATE = date.fromisoformat(REPORT["fecha_desde"])
 MAX_DATE = date.fromisoformat(REPORT["fecha_hasta"])
-app = FastAPI(title="Champions Lab - API académica", version="0.1.0",
-              description="Consulta de datos y comparación histórica. Modelo predictivo pendiente.")
+app = FastAPI(title="Champions Lab - API académica", version="0.4.0",
+              description="Datos históricos y enfrentamientos directos a 90 minutos. El estado del modelo se consulta en /modelo.")
+
+
+def model_status():
+    try:
+        from ml.model_service import get_status
+        return get_status(root=ROOT)
+    except ImportError:
+        return {"estado": "pendiente", "mensaje": "Instala las dependencias y ejecuta scripts/entrenar_modelo.py."}
 
 
 def filtered(temporada=None, equipo=None, resultado=None, fase=None):
@@ -42,7 +50,20 @@ def filtered(temporada=None, equipo=None, resultado=None, fase=None):
 
 @app.get("/salud", tags=["Servicio"])
 def health():
-    return {"proyecto": "champions-lab", "api": "lista", "version": "0.1.0", "partidos": len(DATA), "modelo": "pendiente"}
+    return {"proyecto": "champions-lab", "api": "lista", "version": "0.4.0", "partidos": len(DATA), "modelo": model_status()}
+
+
+@app.get("/modelo", tags=["Modelo"])
+def model_report():
+    """Estado, evaluación temporal y límites del modelo entrenado."""
+    return model_status()
+
+
+@app.get("/experimentos/mejoras", tags=["Modelo"])
+def improvement_report():
+    """Evaluación retrospectiva de las nuevas variables y recetas de entrenamiento."""
+    from ml.experiment import get_report
+    return get_report(root=ROOT)
 
 
 @app.get("/equipos", tags=["Dataset"])
@@ -54,7 +75,7 @@ def teams():
 @app.get("/partidos", tags=["Dataset"])
 def matches(temporada: str | None = None, equipo: str | None = None,
             resultado: Literal["Local", "Empate", "Visitante"] | None = None,
-            fase: str | None = None, limite: int = Query(1000, ge=1, le=1000),
+            fase: str | None = None, limite: int = Query(5000, ge=1, le=5000),
             desplazamiento: int = Query(0, ge=0)):
     data = filtered(temporada, equipo, resultado, fase).sort_values(["fecha", "local"], ascending=[False, True])
     return {"total": len(data), "partidos": data.iloc[desplazamiento:desplazamiento+limite].to_dict(orient="records")}
@@ -96,11 +117,17 @@ class MatchRequest(BaseModel):
         return self
 
 
-def check_request(request):
+class PredictionRequest(MatchRequest):
+    sede_neutral: bool = False
+
+
+def check_request(request, *, allow_future=False):
     if request.local not in TEAMS or request.visitante not in TEAMS:
         raise HTTPException(404, "Uno de los equipos no pertenece al dataset")
-    if not MIN_DATE < request.fecha <= MAX_DATE + timedelta(days=1):
-        raise HTTPException(422, f"El corte histórico debe estar entre {MIN_DATE + timedelta(days=1)} y {MAX_DATE + timedelta(days=1)}")
+    latest = MAX_DATE + timedelta(days=365 if allow_future else 1)
+    if not MIN_DATE < request.fecha <= latest:
+        detail = "La fecha de predicción" if allow_future else "El corte histórico"
+        raise HTTPException(422, f"{detail} debe estar entre {MIN_DATE + timedelta(days=1)} y {latest}")
 
 
 def team_history(team, before):
@@ -123,15 +150,49 @@ def team_history(team, before):
             "ultimos_partidos": records}
 
 
+def direct_history(local, visitante, before):
+    """Todos los cruces previos, incluyendo la localía invertida."""
+    past = DATA[(DATA.fecha < before.isoformat()) & (
+        ((DATA.local == local) & (DATA.visitante == visitante)) |
+        ((DATA.local == visitante) & (DATA.visitante == local))
+    )].sort_values(["fecha", "id"], ascending=[False, True])
+    records = past.to_dict(orient="records")
+    wins_local = wins_away = draws = goals_local = goals_away = 0
+    for row in records:
+        gf, ga = (row["goles_local_90"], row["goles_visitante_90"]) if row["local"] == local else (row["goles_visitante_90"], row["goles_local_90"])
+        goals_local += gf
+        goals_away += ga
+        wins_local += int(gf > ga)
+        wins_away += int(gf < ga)
+        draws += int(gf == ga)
+    return {"equipo_a": local, "equipo_b": visitante, "partidos": len(records),
+            "victorias_equipo_a": wins_local, "empates": draws, "victorias_equipo_b": wins_away,
+            "goles_equipo_a": goals_local, "goles_equipo_b": goals_away,
+            "encuentros": records,
+            "nota": "Cruces disponibles en el dataset antes del corte, con ambas localías. Resultados a 90 minutos; estos conteos no son probabilidades de victoria."}
+
+
 @app.post("/comparaciones", tags=["Historial"])
 def compare(request: MatchRequest):
     check_request(request)
     return {"fecha_corte": request.fecha.isoformat(), "local": team_history(request.local, request.fecha),
             "visitante": team_history(request.visitante, request.fecha), "es_prediccion": False,
-            "nota": "Resumen de hasta cinco partidos anteriores al corte, solo en Champions. No estima el ganador."}
+            "enfrentamientos_directos": direct_history(request.local, request.visitante, request.fecha),
+            "nota": "Últimos cinco partidos de cada equipo y todos sus cruces directos previos disponibles. Solo Champions, a 90 minutos."}
 
 
-@app.post("/predicciones", tags=["Modelo pendiente"], responses={503:{"description":"Modelo todavía no entrenado"}})
-def predict(request: MatchRequest):
-    check_request(request)
-    raise HTTPException(503, "El modelo aún no está entrenado. Puedes consultar /comparaciones para explorar el historial.")
+@app.post("/predicciones", tags=["Modelo"], responses={503:{"description":"Modelo no disponible o dataset modificado"}})
+def predict(request: PredictionRequest):
+    check_request(request, allow_future=True)
+    if request.sede_neutral:
+        raise HTTPException(422, "Este primer modelo no admite partidos en sede neutral.")
+    try:
+        from ml.model_service import predict_match, ModelUnavailableError, PredictionError
+    except ImportError:
+        raise HTTPException(503, "Instala las dependencias y ejecuta scripts/entrenar_modelo.py.")
+    try:
+        return predict_match(DATA, request.local, request.visitante, request.fecha, root=ROOT)
+    except ModelUnavailableError as error:
+        raise HTTPException(503, str(error))
+    except PredictionError as error:
+        raise HTTPException(422, str(error))
